@@ -1,0 +1,442 @@
+# Translation of the WordPress plugin   by .
+# Copyright (C) 2010
+# This file is distributed under the same license as the  package.
+# FIRST AUTHOR <jarzyna.dirk@Adkdesign.de>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: DJD Site Post Beta 1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-07 07:56+0100\n"
+"PO-Revision-Date: 2013-05-07 08:05+0100\n"
+"Last-Translator: Dirk Jarzyna <dj@djdesign.de>\n"
+"Language-Team: DJ Kommunikation und Design <jarzyna.dirk@gmail.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: djd-site-post\n"
+
+#: djd-site-post/djd-site-post.php:232
+#: djd-site-post/views/admin.php:58
+msgid "DJD Site Post Settings"
+msgstr "DJD Site Post Einstellungen"
+
+#: djd-site-post/djd-site-post.php:232
+#: djd-site-post/inc/djdsp-widget.php:50
+msgid "DJD Site Post"
+msgstr "DJD Site Post"
+
+#: djd-site-post/djd-site-post.php:240
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Keine Berechtigung für den Zugriff auf diese Seite."
+
+#: djd-site-post/djd-site-post.php:334
+msgid "Error"
+msgstr "Fehler"
+
+#: djd-site-post/djd-site-post.php:469
+msgid "Please login or register to use this function."
+msgstr "Zum Nutzen dieser Funktion bitte anmelden oder registrieren."
+
+#: djd-site-post/djd-site-post.php:469
+msgid "Notice"
+msgstr "Hinweis"
+
+#: djd-site-post/djd-site-post.php:496
+#, php-format
+msgid "The function <code>%s</code> did not return wellformed XML:"
+msgstr "Die Funktion <code>%s</code> hat ungültiges XML ausgegeben:"
+
+#: djd-site-post/djd-site-post.php:496
+msgid "XML Parse Error"
+msgstr "XML-Parse-Fehler"
+
+#: djd-site-post/djd-site-post.php:501
+#, php-format
+msgid "The function <code>%s</code> did not return valid XML. Root element must be <code>form</code>:"
+msgstr "Die Funktion <code>%s</code> hat ungültiges XML ausgegeben.Das  Root-Element muss <code>form</code> sein:"
+
+#: djd-site-post/djd-site-post.php:501
+msgid "XML Wellformedness Error"
+msgstr "XML-Gültigkeitsfehler"
+
+#: djd-site-post/djd-site-post.php:653
+msgid "There was an error with your form submission."
+msgstr "Fehler bei der Formularübertragung."
+
+#: djd-site-post/djd-site-post.php:655
+msgid "There were errors with your form submission."
+msgstr "Mehrere Fehler bei der Formularübertragung."
+
+#: djd-site-post/djd-site-post.php:707
+msgid "Unable to create new category. Please try again or select an existing category."
+msgstr "Neue Kategorie anlegen nicht möglich. Bitte noch einmal versuchen oder eine existierende Kategorie wählen."
+
+#: djd-site-post/djd-site-post.php:750
+msgid "We were unable to accept your post at this time. Please try again. If the problem persists tell the site owner."
+msgstr "Der Beitrag konnte zum gegenwärtigen Zeitpunkt nicht akzeptiert werde. Bitte noch einmal versuchen. Falls das Problem bestehen bleibt, bitte an den Besitzer der Site wenden."
+
+#: djd-site-post/djd-site-post.php:1019
+msgid "New post submitted from frontend to"
+msgstr "Neuer Beitrag vom Frontend für"
+
+#: djd-site-post/djd-site-post.php:1019
+msgid "To view the entry click here:"
+msgstr "Zum Ansehen des Beitrags hier klicken:"
+
+#: djd-site-post/djd-site-post.php:1020
+msgid "New frontend post to"
+msgstr "Neuer Beitrag vom Frontend für"
+
+#: djd-site-post/inc/djdsp-widget.php:17
+msgid "Use this widget to include a form to write and publish articles from the sidebar."
+msgstr "Das Widget fügt der Sidebar ein Formular hinzu, das Benutztern erlaubt, Beitäge zu verfassen und zu veröffentlichen."
+
+#: djd-site-post/inc/djdsp-widget.php:18
+msgid "DJD Site Post Widget"
+msgstr "DJD Site Post Widget"
+
+#: djd-site-post/inc/djdsp-widget.php:91
+msgid "Title:"
+msgstr "Titel:"
+
+#: djd-site-post/views/admin.php:15
+msgid "Main Settings"
+msgstr "Grundeinstellungen"
+
+#: djd-site-post/views/admin.php:16
+msgid "Form Title"
+msgstr "Formulartitel"
+
+#: djd-site-post/views/admin.php:17
+msgid "Publish Status"
+msgstr "Beitragsstatus"
+
+#: djd-site-post/views/admin.php:18
+msgid "Post Confirmation Message"
+msgstr "Bestätigungsnachricht"
+
+#: djd-site-post/views/admin.php:19
+msgid "Post Failure Message"
+msgstr "Fehlernachricht"
+
+#: djd-site-post/views/admin.php:20
+msgid "Redirect to"
+msgstr "Umleiten zu"
+
+#: djd-site-post/views/admin.php:21
+msgid "Mail on New Post"
+msgstr "E-Mail bei neuem Beitrag"
+
+#: djd-site-post/views/admin.php:22
+msgid "Display Login Link in Form"
+msgstr "Login-Link im Formular anzeigen"
+
+#: djd-site-post/views/admin.php:23
+msgid "Hide WordPress Toolbar"
+msgstr "WordPress Toolbar ausblenden"
+
+#: djd-site-post/views/admin.php:24
+msgid "Allow guest to post"
+msgstr "Gastbeiträge erlauben"
+
+#: djd-site-post/views/admin.php:25
+msgid "Guest Account"
+msgstr "Gastkonto"
+
+#: djd-site-post/views/admin.php:26
+msgid "Allow Guests to select Category"
+msgstr "Gästen die Auswahl einer Kategorie erlauben"
+
+#: djd-site-post/views/admin.php:27
+msgid "Category for Guest Posts"
+msgstr "Kategorie für Gastbeiträge"
+
+#: djd-site-post/views/admin.php:29
+msgid "Category Settings"
+msgstr "Kategorieeinstellungen"
+
+#: djd-site-post/views/admin.php:30
+msgid "Display Categories"
+msgstr "Kategorien anzeigen"
+
+#: djd-site-post/views/admin.php:31
+msgid "Create New Category"
+msgstr "Neue Kategorie erzeugen"
+
+#: djd-site-post/views/admin.php:32
+msgid "Categrory Order"
+msgstr "Kategorienreihenfolge"
+
+#: djd-site-post/views/admin.php:34
+msgid "Field Settings"
+msgstr "Feldeinstellungen"
+
+#: djd-site-post/views/admin.php:35
+msgid "Show Separate Excerpt"
+msgstr "Separates Auszugfeld anzeigen"
+
+#: djd-site-post/views/admin.php:36
+msgid "Content Field Style"
+msgstr "Stil des Inhaltsfeldes (Editorstil)"
+
+#: djd-site-post/views/admin.php:37
+msgid "Allow Media Upload"
+msgstr "Media-Upload erlauben"
+
+#: djd-site-post/views/admin.php:38
+msgid "Allow Tags"
+msgstr "Schlagworte erlauben"
+
+#: djd-site-post/views/admin.php:39
+msgid "Email & Name for Guest Posts"
+msgstr "E-Mail und Name für Gastbeiträge"
+
+#: djd-site-post/views/admin.php:42
+msgid "Labels"
+msgstr "Label"
+
+#: djd-site-post/views/admin.php:43
+#: djd-site-post/views/display.php:48
+msgid "Title"
+msgstr "Titel"
+
+#: djd-site-post/views/admin.php:44
+#: djd-site-post/views/display.php:51
+msgid "Excerpt"
+msgstr "Auszug"
+
+#: djd-site-post/views/admin.php:45
+msgid "Content"
+msgstr "Inhalt"
+
+#: djd-site-post/views/admin.php:46
+msgid "Tags"
+msgstr "Schlagworte"
+
+#: djd-site-post/views/admin.php:47
+msgid "Categories"
+msgstr "Kategorien"
+
+#: djd-site-post/views/admin.php:48
+msgid "New Category"
+msgstr "Neue Kategorie"
+
+#: djd-site-post/views/admin.php:49
+msgid "Send Button"
+msgstr "Senden-Schaltfläche"
+
+#: djd-site-post/views/admin.php:59
+msgid "Need help? Just click here!"
+msgstr "Hilfe erforderlich? Hier klicken!"
+
+#: djd-site-post/views/admin.php:112
+msgid "Publish"
+msgstr "Veröffentlichen"
+
+#: djd-site-post/views/admin.php:113
+msgid "Pending"
+msgstr "Austehende Review"
+
+#: djd-site-post/views/admin.php:114
+msgid "Draft"
+msgstr "Entwurf"
+
+#: djd-site-post/views/admin.php:115
+msgid "Private"
+msgstr "Privat"
+
+#: djd-site-post/views/admin.php:118
+msgid "<p class='description'>The Status assigned to the new Post (Publish, Pending, Draft, Private).</p>"
+msgstr "<p class='description'>Der Status, den der neue Beitrag erhalten soll (Veröffentlicht, Ausstehende Review, Entwurf, Privat).</p>"
+
+#: djd-site-post/views/admin.php:125
+msgid "Check to display a field to enter tags."
+msgstr "Auswählen, um ein Feld zur Eingabe von Schlagworten anzuzeugen."
+
+#: djd-site-post/views/admin.php:132
+msgid "Check to require email and name for guest posts."
+msgstr "Auswählen, um von Gästen die Eingabe ihrer E-Mail-Adresse und ihres Namens zu verlangen."
+
+#: djd-site-post/views/admin.php:139
+msgid "Check to display a separate field for the excerpt."
+msgstr "Auswählen, um ein separates Feld für den Auszug anzuzeigen."
+
+#: djd-site-post/views/admin.php:146
+msgid "Check to display an editor field for the content."
+msgstr "Auswählen, um ein Editorfeld für den Inhalt anzuzeigen."
+
+#: djd-site-post/views/admin.php:152
+msgid "Simple - Plain Text"
+msgstr "Simpel - Einfacher Text"
+
+#: djd-site-post/views/admin.php:153
+msgid "Rich - Visual and HTML"
+msgstr "Reich - Visuell und HTML"
+
+#: djd-site-post/views/admin.php:154
+msgid "HTML - HTML Only"
+msgstr "HTML - Nur HTML"
+
+#: djd-site-post/views/admin.php:157
+msgid "<p class='description'>For responsive layouts it is recommended not to use the visual content field style,</p>"
+msgstr "<p class='description'>Für Responsive Layouts wird die Verwendung des visuellen Editors (Einstellung: Reich) nicht empfohlen,</p>"
+
+#: djd-site-post/views/admin.php:158
+msgid "<p class='description'>because some Android browsers don't support some of the tages used.</p>"
+msgstr "<p class='description'>weil einige Android-Browser nicht alle auswählbaren Tags unterstützen.</p>"
+
+#: djd-site-post/views/admin.php:163
+msgid "<p class=\"description\">Your custom post-success message.</p>"
+msgstr "<p class=\"description\">Benutzerdefinierte Meldung bei erfolgreichem Post.</p>"
+
+#: djd-site-post/views/admin.php:168
+msgid "<p class=\"description\">Your custom post-failure message.</p>"
+msgstr "<p class=\"description\">Benutzerdefinierte Meldung bei fehlgeschlagenem Post.</p>"
+
+#: djd-site-post/views/admin.php:173
+msgid "<p class=\"description\">The URL to redirect the user to after his post.</p>"
+msgstr "<p class=\"description\">Die URL, zu der der Benutzer nach Absenden des Beitrags umgeleitet werden soll.</p>"
+
+#: djd-site-post/views/admin.php:174
+msgid "<p class=\"description\">Shortcode parameters will overwrite this setting.</p>"
+msgstr "<p class=\"description\">Shortcode-Parameters überschreiben diese Einstellung.</p>"
+
+#: djd-site-post/views/admin.php:181
+msgid "Check to notify admin on new post."
+msgstr "Auswählen, um den Administrator über neue Beiträge zu informieren."
+
+#: djd-site-post/views/admin.php:187
+msgid "Droplist"
+msgstr "Auswahlliste"
+
+#: djd-site-post/views/admin.php:188
+msgid "Check boxes"
+msgstr "Kontrollkästchen"
+
+#: djd-site-post/views/admin.php:189
+msgid "No display"
+msgstr "Keine Anzeige"
+
+#: djd-site-post/views/admin.php:192
+msgid "How categories appear at the front end."
+msgstr "Wie dem Benutzer Kategorien angezeigt werden."
+
+#: djd-site-post/views/admin.php:193
+msgid "<p class=\"description\">You can select not to display categories at all.</p>"
+msgstr "<p class=\"description\">Es ist auch möglich, überhaupt keine Kategorien anzeigen zu lassen.</p>"
+
+#: djd-site-post/views/admin.php:200
+msgid "Check if user should be able to create a new category himself."
+msgstr "Auswählen, um dem Benutzer die Möglichkeit zu geben, eine neue Kategorie zu erzeugen."
+
+#: djd-site-post/views/admin.php:206
+msgid "by ID"
+msgstr "nach ID"
+
+#: djd-site-post/views/admin.php:207
+msgid "by name"
+msgstr "nach Namen"
+
+#: djd-site-post/views/admin.php:210
+msgid "The sort order of categories at the front end."
+msgstr "Die Reihenfolge, in der Kategorien angezeigt wedren."
+
+#: djd-site-post/views/admin.php:217
+msgid "Allow user to upload new media file (picture, video)."
+msgstr "Dem Benutzer das Hochladen neuer Mediendateien (Fotos, Videos) erlauben."
+
+#: djd-site-post/views/admin.php:224
+msgid "Display a Login Link inside the form."
+msgstr "Einen Login-Link im Formular anzeigen."
+
+#: djd-site-post/views/admin.php:231
+msgid "Hide the WordPress Toolbar."
+msgstr "Die WordPress Toolbar nicht anzeigen."
+
+#: djd-site-post/views/admin.php:238
+msgid "Allow guests to post."
+msgstr "Gästen das Schreiben von Beiträgen erlauben."
+
+#: djd-site-post/views/admin.php:247
+msgid "Dedicated account to use for guests"
+msgstr "Das Benutzerkonto, das für Gastbeiträge genutzt wird."
+
+#: djd-site-post/views/admin.php:249
+msgid "The dedicated account that should be used for guest posts."
+msgstr "Das Benutzerkonto, das für alle Gastbeiträge genutzt werden soll."
+
+#: djd-site-post/views/admin.php:256
+msgid "Check if you want guests to select categories themselves. If not checked the default category you specify below will be used for guest posts."
+msgstr "Auswählen, wenn Gäste selbst eine Kategorie selektieren können sollen. Falls Sie diese Option nicht wählen, wird für Gastbeiträge die Standardkategorie genutzt, die Sie in der Liste unterhalb dieser Zeile selektieren."
+
+#: djd-site-post/views/admin.php:269
+msgid "Category used for guest posts"
+msgstr "Kategorie für Gastbeiträge"
+
+#: djd-site-post/views/admin.php:271
+msgid "The category guest posts should be assigned to."
+msgstr "Die Kategorie, der Gastbeiträge zugewiesen werden sollen."
+
+#: djd-site-post/views/admin.php:274
+msgid "Section for all the general settings for this plugin."
+msgstr "Der Abschnitt für alle Grundeinstellungen des Plugins."
+
+#: djd-site-post/views/admin.php:277
+msgid "Section for all the settings specific to categories."
+msgstr "Der Abschnitt für alle Kategorie-spezifischen Einstellungen."
+
+#: djd-site-post/views/admin.php:280
+msgid "Specify the fields you want to include in the form generated."
+msgstr "Auswahl der Felder, die im anzuzeigenden Formular verfügbar sein sollen."
+
+#: djd-site-post/views/admin.php:281
+msgid "Please note that the Title will always be included - No Post without Title."
+msgstr "Der Titel wird immer verwendet - Kein Beitrag ohne Titel."
+
+#: djd-site-post/views/admin.php:284
+msgid "You can specify your own labels for the form fields shown to the user"
+msgstr "Benutzerdefinierte Labels für die Felder im Formular."
+
+#: djd-site-post/views/display.php:47
+msgid "Frontend Post"
+msgstr "Site Post"
+
+#: djd-site-post/views/display.php:54
+msgid "Text"
+msgstr "Text"
+
+#: djd-site-post/views/display.php:84
+msgid "Select a Category"
+msgstr "Kategorie wählen"
+
+#: djd-site-post/views/display.php:97
+msgid "Category"
+msgstr "Kategorie"
+
+#: djd-site-post/views/display.php:108
+msgid "New category"
+msgstr "Neue Kategorie"
+
+#: djd-site-post/views/display.php:112
+msgid "Tags (comma-separated)"
+msgstr "Schlagworte (durch Komma getrennt)"
+
+#: djd-site-post/views/display.php:116
+msgid "Your Name"
+msgstr "Name"
+
+#: djd-site-post/views/display.php:119
+msgid "Your Email"
+msgstr "E-Mail-Adresse"
+
+#: djd-site-post/views/display.php:123
+msgid "Send"
+msgstr "Senden"
+
+#~ msgid "Show Content Field"
+#~ msgstr "Inhaltsfeld (Editor) anzeigen"

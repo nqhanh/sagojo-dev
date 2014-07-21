@@ -1,0 +1,51 @@
+.sagojo-widget li{
+	list-style-type: none;
+	clear: both;
+	min-height: 61px;
+	padding-top: 10px;
+}
+.sagojo-widget p{
+	display:inline;
+	line-height: 16px;
+}
+
+.sagojo-widget p a:hover{
+	color: #20196A !important;
+	text-decoration: underline !important;
+
+}
+.small-image {
+	float:left;
+	padding-right:10px;   
+    float: left;
+    width: 50px;
+    height: 50px;
+    padding-bottom: 20px;
+}
+.small-image img.wp-post-image{
+	margin: 0px auto;
+	border: 2px solid #d9d9d9;
+}
+
+.small-image img{
+    display: block;
+	width: 50px;
+	height: 50px;	
+}
+
+.sagojo-text .entry-date{ 
+    font-size: 11px;
+}
+p.views {
+    font-size: 12px;
+    margin-top: 10px;
+}
+p.views span {
+    display: block;
+    float: left;
+    background: none repeat scroll 0% 0% rgb(182, 182, 182);
+    padding: 0px 4px 0px 4px;
+    margin-right: 6px;
+    margin-top: 5px;
+    color: white;
+}

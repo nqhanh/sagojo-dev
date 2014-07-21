@@ -1,0 +1,10 @@
+!SESSION 2013-09-05 10:47:06.724 -----------------------------------------------
+eclipse.buildId=v21.1.0-569685
+java.version=1.7.0_21
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86, WS=win32, NL=en_US
+Framework arguments:  -product com.android.ide.eclipse.adt.package.product
+Command-line arguments:  -os win32 -ws win32 -arch x86 -product com.android.ide.eclipse.adt.package.product
+
+!ENTRY com.android.ide.eclipse.ddms 4 0 2013-09-05 10:48:37.150
+!MESSAGE DDMS files not found: C:\A_Line\Source\adt-bundle-windows-x86-20130219\eclipse\platform-tools\adb.exe C:\A_Line\Source\adt-bundle-windows-x86-20130219\eclipse\tools\hprof-conv.exe C:\A_Line\Source\adt-bundle-windows-x86-20130219\eclipse\tools\traceview.bat 

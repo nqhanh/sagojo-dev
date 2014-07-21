@@ -1,0 +1,107 @@
+/*
+Name: Rounded Corners Dark
+Class: tabber-widget-rounded-dark
+
+Note: Rounded corners are not supported in Internet Explorer 6, 7, or 8.
+
+Notice: If the Class changes or the file is renamed, you must resave all widgets that use this template.
+*/
+
+/* Style Tabs */
+
+.tabber-widget-rounded-dark {
+	color: #333;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+.tabber-widget-rounded-dark ul.tabber-widget-tabs {
+	list-style-type: none;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+.tabber-widget-rounded-dark a {
+	color: #555555 ;
+}
+.tabber-widget-rounded-dark a:hover {
+	color: #0066CC;
+	text-decoration: underline;
+}
+.tabber-widget-rounded-dark ul.tabber-widget-tabs li {
+	float: right;
+	list-style-type: none !important;
+	padding: 0 !important;
+	margin: 0px 0 0 0 !important;
+	border: none;
+	
+}
+.tabber-widget-rounded-dark ul.tabber-widget-tabs li:before {
+	content: "" !important;
+}
+.tabber-widget-rounded-dark ul.tabber-widget-tabs a {
+	display: block;
+	padding: 6px 10px;
+	text-decoration: none !important;
+	/*margin: 1px;*/
+	margin-left: 1px;
+	color: #fff;
+	background: #e2e2e2;
+	
+	
+	
+        
+}
+.tabber-widget-rounded-dark ul.tabber-widget-tabs a:hover {
+	color: #333;
+	
+        /*-moz-border-radius: 5px 5px 0px 0px;
+        -khtml-border-radius: 5px 5px 0px 0px;
+        -webkit-border-radius: 5px 5px 0px 0px;*/
+}
+.tabber-widget-rounded-dark ul.tabber-widget-tabs a.selected,
+.tabber-widget-rounded-dark ul.tabber-widget-tabs a.selected:hover {
+	margin-bottom: -1px;
+	background: none repeat scroll 0 0 #FFF;
+	color: #555555;
+	background: #f15a24;
+	/*border-color: #738FE6 #738FE6 #D8EFFD;
+	border-style: solid;
+	border-width: 2px;*/
+	cursor: default;
+	border-top: 2px solid #f15a24;
+	}
+
+.tabber-widget-rounded-dark .tabber-widget-content {
+	padding: 10px 10px 8px 10px;
+	margin: 0;
+	clear: both;
+	
+}
+
+/* Style Content */
+
+.tabber-widget-rounded-dark .tabber-widget-content {
+	text-align: left;
+	margin-left: 1px;
+	background: #f15a24;
+	/*border: 2px solid #738FE6;*/
+	box-shadow: 0 2px 6px rgba(0, 0, 0, 0.3), 0 3px 8px rgba(0, 0, 0, 0.2);	
+}
+.tabber-widget-rounded-dark .tabber-widget-content .tabber-widget-title {
+	margin-top: 0;
+	color: #DDD;
+}
+
+.ungtuyen li{
+
+ list-style-type:none;
+ margin-left: -15px;
+	
+}
+.slide-out{
+	margin: 0px;
+	padding: 0px;
+}
+#widgets .slide-out a{
+margin: 0 0 0 1px;
+padding: 5px 10px 0px 10px;
+}

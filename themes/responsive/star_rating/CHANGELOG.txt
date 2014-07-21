@@ -1,0 +1,17 @@
+////////////////////////////////////////////////////
+
+Ajax Dynamic Star Rating Change Log
+Developed by Jordan Boesch
+www.boedesign.com
+Licensed under Creative Commons
+http://creativecommons.org/licenses/by-nc-nd/2.5/ca/
+
+CURRENT VERSION: 1.6
+
+////////////////////////////////////////////////////
+
+Changes from 1.5 
+------------------------------
+- Fixed errors being thrown back for 0 rows returned for top 10.
+- Added ability to use an alpha-numeric id like 234hyudf8 instead of just a number
+- Fixed ability for users to vote 0, you can only vote between 1 and 5

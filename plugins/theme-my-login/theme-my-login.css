@@ -1,0 +1,171 @@
+
+.login {
+	/*padding: 5px;*/
+}
+
+/*----------Chinh sua----------*/
+
+#theme-my-login {
+
+	/*border:1px solid #e2e2e2;
+    margin-left: auto;
+	background-color: #f9f9f9;*/
+}
+
+#theme-my-login label {
+    /*float: left;*/
+}
+
+
+
+
+
+.input_login{
+	margin:0.6em 0;
+}
+
+
+
+#theme-my-login h3{
+	font-size: 14px; /* = 30px */
+  margin-bottom: .857em;
+  margin-top: .857em;
+  display:none;
+  }
+
+
+.formtitle {
+    background-color: #2d89ef ; 
+    /*border-bottom: 1px solid #E2E2E2;*/
+    color: #fff;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 30px;
+    padding-left: 10px;
+    padding-right: 5px;
+    position: relative;
+}
+.tieude{
+	border:none;
+}
+
+.formtitle:after {
+	content:"";
+	position: absolute;
+	bottom:-7px; /* value = - border-top-width - border-bottom-width */
+	left:25px; /* value = (:before left) + (:before border-left) - (:after border-left) */
+	border-width:7px 7px 0;
+	border-style:solid;
+	border-color:#2d89ef  transparent;
+    /* reduce the damage in FF3.0 */
+    display:block; 
+    width:0;
+	z-index: 1;
+}
+.profile{   
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+/*.weekend{
+    width: 100px;
+}
+*/
+
+#container_register {
+    border: 1px solid #F15A24;
+    margin-top: -24px;
+    width: 100%;
+    
+    border-radius: 0px 0px 5px 5px;
+}
+
+
+/*Phan nay de lay di de o sytlesheer
+#theme-my-login #loginform {
+    margin-top: 115px;
+    padding-left: 90px;
+}
+
+*/
+
+#theme-my-login #registerform{
+    padding-left: 30px;
+}
+
+.tml-register-form p.error{
+        
+    background-color: #FFFFCC;
+    border: 1px solid #E6DB55;
+    color: #333333;
+    margin-left: 30px;
+    margin-right: 5px;
+    margin-top: 25px;
+    padding: 4px;
+    width: 35%;
+
+       
+}
+
+
+#user_email2, #user_email {
+    width: 200px;
+}
+
+
+
+#tieude_dangky{
+    text-align: center;
+    font-size: 1.5rem;
+    color: #F15A24;
+    
+}
+
+
+/*Phan nay da lay di de o file stylesheet*/
+
+#registerform #accept_license-label,#registerform #accept_privacy_policy-label{
+    width: 100%;
+    float: left;
+}
+
+#user_email2-p #user_email2-label{
+    width: 100%;
+}
+
+#license-p #license_title , #privacy_policy-p #privacy_policy_title{
+     width: 100%;
+    color: #F15A24;
+    
+}
+
+#license-p #license_title{
+    margin-top: 20px;
+}
+
+#privacy_policy-p{
+    padding-top: 40px;
+}
+
+.tml-register-policy{
+    
+}
+
+#your-profile .submit{
+    text-align: center;
+}
+
+#wpjb-main .wpjb-form #wpjb-add-postjob-rp{
+    text-align: center;
+}
+
+/*-------Login--------*/
+
+#txtMiddle {
+	text-align: center;
+}
+
+.oTxtLarge strong {
+    color: rgb(34, 90, 148);
+}

@@ -1,0 +1,965 @@
+{
+    "ChuaBiet" :
+    [
+                {
+                "Title": "Nụ Hôn Của 12 Chòm Sao",
+                "Image": "Zodiac0.png",
+                "Result": [
+                           {
+                           "Name": "Bạch Dương",
+                           "Image": "Zodiac0.png",
+                           "Hang": "     Quyết đoán và đầy mạnh mẽ là hai tính từ tiêu biểu nhất có thể thể hiện được phong cách hôn của các Bạch Dương. Nếu có việc gì đó họ biết làm, chắc chắn đó phải là làm “nóng” không khí. Đến từ chòm sao hỏa, họ có khả năng “tiếp nhiệt” mà không cảm thấy một chút khó khăn hay ngượng ngùng gì. Nụ hôn của họ khá hấp tấp và khá nhanh, nhiều khi có thể khiến bạn đứng không vững."
+                           },
+                           {
+                           "Name": "Kim Ngưu",
+                           "Image": "Zodiac1.png",
+                           "Hang": "     Chậm, gợi cảm và vững vàng như đá…đó là Kim Ngưu. Điều này giải thích lí do vì sao những mối quan hệ tình cảm của Kim Ngưu thường kéo dài hơn bất kì một chòm sao nào khác. Trong nhiều cuộc phỏng vấn, các cô gái có người yêu Kim Ngưu cho biết trước khi hôn, anh chàng sẽ thường vuốt ve tay “đối tượng” để ra dấu hiệu và nụ hôn của họ lúc nào cũng thật nồng nàn."
+                           },
+                           {
+                           "Name": "Song Tử",
+                           "Image": "Zodiac2.png",
+                           "Hang": "     Bạn muốn đựơc một Song Tử hôn ư, sẽ khá dễ dàng nếu bạn đi theo những bước sau đây: Đầu tiên, họ sẽ nhìn vào bạn phân tích và sẽ thật tuyệt nếu bạn nắm được cái nhìn đó ngay lập tức. Sau đó, bạn hãy mỉm cười/ nháy mắt và nói vài từ thú vị (bạn tốt nhất nên tỏ ra lém lỉnh và hài hước một chút). Tiếp theo, hãy cố gắng duy trì cuộc hội thoại với họ và làm mọi cách để họ luôn chú ý đến bạn. Hãy lưu ý, bạn càng là người thú vị, đa phong cách, nhanh nhẹn và hơi chút khó hiểu, bạn sẽ càng khiến họ quan tâm. Cuối cùng, nụ hôn của Song Tử sẽ đến khi họ biết rằng bạn là một nửa hoàn hảo với họ. Song Tử thường vừa cười vừa hôn và thậm chí họ cũng sẽ khiến cho bạn phải cười theo nữa cơ."
+                           },
+                           {
+                           "Name": "Cự Giải",
+                           "Image": "Zodiac3.png",
+                           "Hang": "     Hãy dẫn người yêu Cự Giải của bạn về nhà. Nếu họ cảm thấy ấm áp, thoải mái và thích ngồi trong bếp nhà bạn, bạn đã thành công một nửa rồi. Tiếp đó, hai bạn hãy cùng nhau sửa soạn một bữa ăn ngon và sau khi ăn xong, Cự Giải nhất định sẽ tặng cho bạn một nụ hôn. Nụ hôn của Cự Giải chầm chậm, nhẹ nhàng nhưng cũng đầy cuốn hút đến không ngờ. Bạn chắc chắn sẽ cảm thấy một nụ hôn khôngbao giờ là đủ"
+                           },
+                           {
+                           "Name": "Sư Tử",
+                           "Image": "Zodiac4.png",
+                           "Hang": "     Sư Tử có vẻ ngoài bất cần một chút nhưng thật sự, họ là những người rất lãng mạn và đầy tình cảm. Nếu bạn có người yêu Sư Tử và trong khi hai bạn đang hẹn hò, bạn có cảm giác muốn hôn người ấy thì hãy an tâm, bạn không phải là người duy nhất muốn việc đó xảy ra đâu. Nụ hôn của họ khá hoang dã và thường đi kèm với vài lần “cắn”."
+                           },
+                           {
+                           "Name": "Xử Nữ",
+                           "Image": "Zodiac5.png",
+                           "Hang": "     Dù trước đó họ bị kích thích bởi bạn nhưng mọi thứ sẽ đi về số …âm nếu bạn trông không sạch sẽ, luộm thuộm, đầy mồ hôi, vụng về, thiếu tổ chức và đang đứng trong một không khí hỗn loạn. Chính vì thế, để Xử Nữ có thể thoải mái và hôn bạn, mọi yếu tố phải trở nên cực kì hoản hảo. Nụ hôn của họ cho bạn cảm giác chân thành và đầy tình cảm nhưng nó lại “sạch” quá và “tinh tế” quá."
+                           },
+                           {
+                           "Name": "Thiên Bình",
+                           "Image": "Zodiac6.png",
+                           "Hang": "     Thiên Bình là chuyên gia tạo những cảm xúc lãng mạn tài tình nhất trong 12 cung hoàng đạo. Họ sống để làm hài lòng những người quan trọng khác của họ và họ cũng hi vọng được nhận lại điều tương tự. Hãy cho họ biết bạn đã sẵn sàng làm bạn đời với họ và bạn thật sự trân trọng mọi giây phút ở bên họ. Nụ hôn của Thiên Bình đầy đam mê và lãng mạn, có điều khi hôn bạn, họ chỉ lo nghĩ về việc liệu hơi thở của họ có “mùi” hay không thôi."
+                           },
+                           {
+                           "Name": "Thần Nông",
+                           "Image": "Zodiac7.png",
+                           "Hang": "     Khi nói về Thần Nông, chỉ cần một từ là đã có thể miêu tả được đầy đủ những cảm xúc của họ, đó chính là “đam mê”. Họ để đam mê của họ trong bất cứ điều gì họ làm, kể cả trong việc chăm sóc người họ yêu. Do đó, bạn đã có thể tưởng tượng đôi chút về nụ hôn của họ rồi chứ? Nó mãnh liệt, khiến bạn hụt hơi và khiến bạn quên hết tất cả mọi thứ. Và thường thì mọi thứ không chỉ dừng lại ở việc…hôn."
+                           },
+                           {
+                           "Name": "Nhân Mã",
+                           "Image": "Zodiac8.png",
+                           "Hang": "     Thường thì người yêu của Nhân Mã thường khá khổ sở trong việc “chống chọi” lại hàng loạt các “vệ tinh” vây quanh. Tuy vậy, Nhân Mã nổi tiếng là người sống hết mình, nếu bạn yêu họ thật lòng, họ sẽ không để bạn tổn thương đâu. Nụ hôn với Nhân Mã sẽ khá bất ngờ, bạn rất khó biết khi nào họ “tấn công” bạn và họ lúc nào cũng để bạn muốn được hôn nhiều hơn nữa."
+                           },
+                           {
+                           "Name": "Ma Kết",
+                           "Image": "Zodiac9.png",
+                           "Hang": "     Ma Kết là chòm sao luôn chắc chắn rằng sẽ không bao giờ để bất cứ việc gì thất bại, bao gồm cả nụ hôn họ dành cho người họ yêu. Do vậy, nụ hôn đầu giữa bạn và người ấy cung Ma Kết thường xuất hiện lâu hơn những cặp đôi khác. Tuy nhiên, sự chờ đợi của bạn rồi sẽ được đền đáp xứng đáng khi họ hôn bạn với đầy cảm xúc, thanh thản và nhẹ nhàng."
+                           },
+                           {
+                           "Name": "Bảo Bình",
+                           "Image": "Zodiac10.png",
+                           "Hang": "     Bảo Bình nổi tiếng là chòm sao khác biệt và họ tự hào về điều này. Tuy vậy, họ lại trở nên vô cùng ngại ngùng và không tự nhiên khi nói đến vấn đề tình cảm lãng mạn. Nụ hôn của họ cũng thể hiện điều này khá rõ rệt qua việc mở mắt lo lắng."
+                           },
+                           {
+                           "Name": "Song Ngư",
+                           "Image": "Zodiac11.png",
+                           "Hang": "     Để các Song Ngư sẵn sàng hôn một ai đó, họ phải được tạo cảm giác gần gũi và an toàn. Hãy chắc chắn là bạn có sử dụng nước hoa nhưng mùi đừng nồng nặc. Nụ hôn của họ đầy đam mê và kéo dài khá lâu."
+                           }
+                           ]
+                },
+     
+     
+     
+     
+     
+     {
+     "Title": "Tuổi thơ dữ dội của 12 chòm sao",
+     "Image": "Zodiac1.png",
+     "Result": [
+                {
+                "Name": "Bạch Dương",
+                "Image": "Zodiac0.png",
+                "Hang": "Nhóc liều lĩnh:\n     Trên đời này có ai liều lĩnh như Bạch Dương chứ. Tính cách đặc trưng này đã ngấm vào máu và truyền từ thế hệ Bạch Dương này đến thế hệ khác. Ngay từ thưở bé, nó đã “phát tác” mạnh mẽ rồi. Thậm chí, đây còn là thời kỳ đỉnh cao của máu liều trong Bạch Dương nữa. Tại lớn lên, mình hiểu nhiều thứ, biết được thiệt hơn rồi nên đôi khi Bạch Dương không dám bất chấp như ngày bé nữa.\n     Một nhóc Bạch Dương sẽ chẳng sợ đất, chẳng sợ trời, luôn dám làm bất kỳ những thứ mà đứa trẻ khác thường sợ như: trèo tường tập thể trốn người lớn đi chơi, buổi tối đi bắt bắt ma, bắt “ông ngáo ộp”…\n     Không chỉ liều mình, những nhóc tì Bạch Dương còn rất dễ tự ái, tức giận và bốc đồng. Người lớn đừng bao giờ dọa sẽ đuổi cổ cậu ấy ra khỏi nhà nhé, vì Bạch Dương sẽ ngay lập tức “thu vén đồ đạc” đi bôn ba. Đáng sợ chưa!"
+                },
+                {
+                "Name": "Kim Ngưu",
+                "Image": "Zodiac1.png",
+                "Hang": "Kẻ ham ăn:\n     Ai hay ăn vụng dưới bếp của bà? Ai là người hay lục tủ lạnh nhất? Ai măm đồ nhiều nhất nhà mà vẫn khóc thét lên khi được mọi người cho ăn ké? Ai là người có “bụng Thạch Sanh” ăn mãi không thấy no? Đó chính là Kim Ngưu nhà mình.\n     “Máu ăn” như thế nên ngày bé Kim Ngưu thường là những đứa trẻ rất mũm mĩm, dễ thương. Và bởi đáng yêu đến vậy, cậu ấy lại càng được nhiều người thích và cho quà. Sướng thật."
+                },
+                {
+                "Name": "Song Tử",
+                "Image": "Zodiac2.png",
+                "Hang": "Đại ca trong lớp học:\n     Con người tinh nhịch và láu cá này là luôn là “đầu sỏ” của những trò siêu quậy trong lớp học đấy. Không chỉ thế, với tài “chém bão” của mình, Song Tử lôi kéo được cả đám bạn bè cùng khối làm “đệ tử” cho mình. Để rồi các những cuộc quậy phá trong trường bị thầy cô phát giác, chẳng bao giờ Song Tử bị “sờ gáy” cả. Cậu ấy có cả đám đàn em trung thành làm bia đỡ đạn cho mình rồi còn gì. Và quan trọng hơn hết, nếu Song Tử bị khai ra, lần sau sẽ có ai dám đứng lên bầy trò vui cho các bạn khác chơi nữa."
+                },
+                {
+                "Name": "Cự Giải",
+                "Image": "Zodiac3.png",
+                "Hang": "Bé mít ướt:\n     Cự Giải ngày bé là một đứa trẻ khá nhút nhát và cực kỳ mít ướt. Ai đó hơi nói nặng lời với cậu ấy, Cự Giải sẽ khóc. Người nào dám tranh giành với Cự Giải sẽ mệt người vì tiếng nức nở đau đầu của cậu ấy. Thậm chí, khi Cự Giải đi bắt nạt bạn khác không thành, cậu ấy cũng lăn ra khóc “ăn vạ”. Tệ quá cơ bé Cự Giải ạ"
+                },
+                {
+                "Name": "Sư Tử",
+                "Image": "Zodiac4.png",
+                "Hang": "Vua trẻ con:\n     Sư Tử ngày bé chưa có tài “thuần phục” các bạn cùng trang lứa nên chỉ có thể làm “vua” của đám trẻ con trong ngõ thôi. Trưa hè nào Sư Tử cũng rủ đám em ún tụ tập dưới bóng râm của hàng cây trước nhà và chơi trò vua – thần dân. Nhưng thế cũng đủ làm cậu ấy tự hào, thích điên lên được rồi."
+                },
+                {
+                "Name": "Xử Nữ",
+                "Image": "Zodiac5.png",
+                "Hang": "Em bé ngoan:\n     Ngay từ bé, Xử Nữ đã chứng tỏ mình là một đứa trẻ cực kỳ khôn khéo, thông minh. Bé ấy thuộc nhóm các trẻ “gọi dạ, bảo vâng”, chăm học, không đi la cà, nghịch dại theo đám bạn. Vì thế, Xử Nữ được mang tiếng “ngoan” lắm. Tuy nhiên, không hẳn cậu ấy nghe lời bố mẹ bởi tính cách dịu dàng, ngoan ngoãn đâu mà chỉ vì, Xử Nữ tự trọng không thích để người khác có cơ hội trách mắng mình. Hơn nữa, cậu ấy cũng không khoái mấy trò nghịch ngợm của “đám trẻ bình thường” trong xóm. Thời gian chơi đùa của các bạn khác, Xử Nữ dành để đọc sách, học bài… làm tăng vốn kiến thức của mình lên. Từ nhỏ cậu ấy đã sống rất thực tế và biết lo cho tương lai rồi đấy. Xử Nữ bé giống như một bà cụ non."
+                },
+                {
+                "Name": "Thiên Bình",
+                "Image": "Zodiac6.png",
+                "Hang": "Cái đuôi nhỏ của mọi người:\n     Thích bám đuôi người khác là nét đặc trưng của các Thiên Bình nhí đấy. Nhưng bởi cậu ấy khéo miệng và trông rất đáng yêu nên cũng dễ được các anh chị dẫn theo đến các điểm vui chơi. Thậm chí, ai muốn cưa cẩm anh/chị của Thiên Bình nhí còn “khoái” dùng đứa em dễ thương này để được tiếp anh/chị của bé nhiều."
+                },
+                {
+                "Name": "Thần Nông",
+                "Image": "Zodiac7.png",
+                "Hang": "Thần đánh lộn:\n     Thần Nông từ ngày bé đã “máu lạnh”, cứng đầu, ghét bị kẻ khác lên lớp nên cứ suốt ngày đi đánh lộn thôi. Nhà cậu ấy hẳn phải đau đầu lắm khi nay phụ huynh này, mai phụ huynh khác đến gọi nhà, mách tội con mình. Hic hic."
+                },
+                {
+                "Name": "Nhân Mã",
+                "Image": "Zodiac8.png",
+                "Hang": "Quỷ ham chơi:\n     Độ ham chơi của Nhân Mã có từ thời còn bé ấy. Suốt ngày cậu ấy rong ruổi trên những cung đường chơi bời cùng đám bạn. Chẳng trò nào của trẻ con, chẳng tụ điểm vui chơi nào của các bạn nhỏ không có mặt Nhân Mã cả. Nhân Mã ham chơi đến nỗi quên ăn, quên ngủ, chẳng nhớ việc về nhà. Và thế là, suốt ngày bố mẹ cậu ấy phải mệt đầu đi hết chỗ nọ, điểm kia để tìm đứa con ham chơi này về."
+                },
+                {
+                "Name": "Ma Kết",
+                "Image": "Zodiac9.png",
+                "Hang": "Nhóc lầm lì:\n     Lầm lì không phải là tính cách của Ma Kết bé đâu, đơn giản vì cậu ấy nhút nhát quá nên chẳng dám chơi bời, nói chuyện cùng ai cả. Tuy vậy, không ai có thể bắt nạt được Ma Kết nhí đâu nhé. Bên trong con người rụt rè ấy là một đứa trẻ rất gan dạ, kiêu hãnh, là một chú nhím con sẵn sàng xù lông chiến đấu nếu ai đó dám “động chạm” vào mình và những người bạn thân yêu của mình nữa."
+                },
+                {
+                "Name": "Bảo Bình",
+                "Image": "Zodiac10.png",
+                "Hang": "Thiên tài sáng tạo:\n     Bảo Bình bé cũng rất thông minh trong việc chỉ ra hướng giải quyết các vấn đề. Mọi người cũng khoái chơi với cậu ấy bởi Bảo Bình luôn nghĩ được ra những thú chơi rất độc đáo, tạo được ra những đồ mà bọn trẻ đều mê. Tuy vậy, Bảo Bình lại chẳng thích sẻ chia sáng tạo đó của mình cho kẻ khác đâu nhé. Khi những đứa bé khác xúm xung quanh xin được chơi cùng, Bảo Bình nhí sẽ hất mặt tự hào và chỉ “chọn mặt gửi vàng” một vài bé trong đám ấy cho chơi thôi."
+                },
+                {
+                "Name": "Song Ngư",
+                "Image": "Zodiac11.png",
+                "Hang": "Tiểu thư/thiếu gia:\n     Một trong những yếu tố ảnh hưởng đến tính cách lãng mạn sau này của Song Ngư chính là tuổi thơ “sướng như tiên”. Song Ngư thường được bao bọc trong sự cưng nựng của cả nhà. Cậu ấy có thể làm nũng với bất cứ ai và người nào cũng sẵn sàng chiều theo ý của bảo bối ấy. Vì thế, Song Ngư có chút mắc bệnh “công chúa”. Mà công chúa thì thường lãng mạn, ngây thơ mà. Cậu ấy được bảo bọc kỹ quá nên chẳng rõ thời thế như nào. Để rồi khi lớn lên, lúc nào cũng như người “từ trên trời rơi xuống” ấy. Nét ngây thơ vừa là điểm thu hút cũng là cái yếu, dễ bị lợi dụng, lừa gạt của Song Ngư này."
+                }
+                ]
+     },
+     
+     
+     
+     
+     
+     {
+     "Title": "Nỗi niềm sâu kín của 12 cung hoàng đạo",
+     "Image": "Zodiac2.png",
+     "Result": [
+                {
+                "Name": "Bạch Dương",
+                "Image": "Zodiac0.png",
+                "Hang": "Tôi là mặt trời nhỏ:\n     Bạch Dương là những người vô cùng năng động, nhiệt tình hết sức và chân thành hết mình. Cậu ấy luôn sẵn sàng giúp đỡ bạn bè khi họ gặp khó khăn mà chẳng cần ai phải đánh tiếng nhờ vả cả. Cởi mở và nhiệt tình là thế nhưng Bạch Dương cũng là người có chút ích kỷ, hay chìm đắm trong cái tôi của bản thân và luôn muốn sự chân thành của mình được đền đáp. Bạch Dương khát khao là mặt trời - trung tâm chú ý của mọi người và là số 1 trong công việc."
+                },
+                {
+                "Name": "Kim Ngưu",
+                "Image": "Zodiac1.png",
+                "Hang": "Đừng có cứng đầu với tớ:\n     Bản chất Kim Ngưu là những người rất hiền lành và giữ sự bình tĩnh rất tốt. Cậu ấy luôn muốn sống thật vui vẻ, ôn hòa cùng mọi người. Tuy nhiên trong góc tối tâm hồn Kim Ngưu còn một con người rất nguy hiểm. “Kim Ngưu trắng” có thể sẵn sàng hi sinh bản thân vì những người xung quanh nhưng “Kim Ngưu đen “cũng có khả năng trở thành tay “sát thủ” nguy hiểm với những hành động vượt qua giới hạn chịu đựng của cậu ấy. Kim Ngưu cũng rất ghét những kẻ cứng đầu, không chịu nghe theo ý kiến đã được suy tính kỹ càng, chính xác của cậu ấy. Và bởi không thích “chiến tranh” nên Kim Ngưu luôn hi vọng rằng, mọi người đừng cố chấp đối đầu với cậu ấy để “Kim Ngưu đen” có cơ hội vùng lên."
+                },
+                {
+                "Name": "Song Tử",
+                "Image": "Zodiac2.png",
+                "Hang": "Bạn đừng đoán tâm tư của tớ nữa, tớ cũng không biết đâu:\n     Biệt tài của Song Tử là “tám” và “chém gió”. Với tư duy nhanh nhạy và cực kỳ linh hoạt, Song Tử ứng biến khá nhanh với tất cả các tình huống bất ngờ gặp phải. Cậu ấy là idol hùng biện và giao tiếp của khá nhiều người. Tuy nhiên, chính sự thần tượng của mọi người lại trở thành áp lực với Song Tử thích vô âu, vô lo này. Vì thế: “Xin mọi người đừng đoán tâm tư của tớ nữa bởi chính tớ chũng không biết đâu”, đó là nỗi niềm thầm kín của idol Song Tử khi mọi người cứ trông ngóng, tin tưởng quá cao vào cách xử trí của cậu ấy."
+                },
+                {
+                "Name": "Cự Giải",
+                "Image": "Zodiac3.png",
+                "Hang": "Hãy tin tớ. Tớ cũng rất kiên cường mà:\n     Cự Giải hiền lành, sống tình cảm, luôn sẻ chia, chăm sóc chu đáo, tận tình với mọi người nên được yêu quý lắm. Nhưng Cự Giải cũng khiến mọi người bận tâm, lo lắng nhiều. Bởi cậu ấy quá hiền lành nên hay bị ăn hiếp, quá đa sầu, đa cảm nên dễ bị tổn thương và quá yếu đuối nên chỉ biết khóc nhè khi gặp chuyện khó… Cự Giải cứ như nàng công chúa nhỏ luôn cần sự chở che, chăm sóc vậy. Tuy thế nhưng trong lòng cậu ấy không muốn để mọi người phải mệt đầu lo lắng cho mình đâu. Cự Giải luôn muốn mọi người tin tưởng rằng, thực ra “cô bé mít ướt” ấy cũng là người rất kiên cường nữa."
+                },
+                {
+                "Name": "Sư Tử",
+                "Image": "Zodiac4.png",
+                "Hang": "Hãy cho tớ nhiều tràng pháo tay hơn nữa:\n     Chài, Sư Tử thật là tham lam và ham mê hào nhoáng của việc trở thành thần tượng đúng không nào. Luôn muốn mình là trung tâm của sự chú ý, luôn thích mọi người coi mình là star mà thần tượng, tung hô, thán phục nhưng nhưng gì fans dành cho cậu ấy Sư Tử vẫn chưa thỏa mãn. Cậu ấy cứ cười hạnh phúc trước những tràng pháo tay của người khác dành cho mình nhưng thực chất trong lòng có chút buồn vì muốn được thần tượng nhiều hơn thế. Nhưng Sư Tử chú ý nhìn lại nhé, những người mến mộ bạn là vì gì, tài năng hay túi tiền to của kẻ quá hào phóng, giỏi vung tiền như bạn? Cẩn thận không những tiếng vỗ tay, những lời mật ngọt làm rỉ máu tai mình lúc nào không hay đấy."
+                },
+                {
+                "Name": "Xử Nữ",
+                "Image": "Zodiac5.png",
+                "Hang": "Thật ra tớ vẫn không vừa ý lắm:\n     Xử Nữ cầu toàn, khó tính nên làm việc với cậu ấy, ai cũng kêu vất vả. Xử Nữ cũng biết điều đó nên đôi lúc “xuề xòa” cho qua để đỡ bị mang danh “bà cô khó tính”. Tuy không nói ra nhưng trong lòng Xử Nữ vẫn muốn người khác hiểu rằng cậu ấy chưa thực vừa ý đâu."
+                },
+                {
+                "Name": "Thiên Bình",
+                "Image": "Zodiac6.png",
+                "Hang": "Cứ để tớ thử đi:\n     Con người của những mâu thuẫn, suốt ngày cân đo, đong đếm này luôn khiến người khác ong đầu, mệt mỏi. Thế nên sau nhiều lần bị Thiên Bình “quay chong chóng” trong đống bòng bong các lựa chọn của mình, mọi người sẽ “tự cứu mình” bằng cách chỉ ra phương án tốt nhất cho cậu ấy và ngăn Thiên Bình đừng trải nghiệm các lựa chọn nữa. Dù thoải mái cười xòa vì được giúp đỡ nhưng sâu thẳm trong lòng, Thiên Bình lại mong mình được tin tưởng hơn để có cơ hội thử sức với mọi điều."
+                },
+                {
+                "Name": "Thần Nông",
+                "Image": "Zodiac7.png",
+                "Hang": "Tớ biết cậu nghĩ gì đấy:\n     Thân Nông sâu sắc và nhạy cảm nhưng lại không thể hiện tính cách đó ra bên ngoài. Con người bình thường của cậu ấy là kẻ lạnh lùng, ít nói. Thần Nông chẳng thích động vào chuyện của người khác khi nó không liên quan đến mình, cũng rất tài kìm chế cảm xúc để không thể hiện tình cảm, suy nghĩ ra bên ngoài, không gây hấn với người khác. Tuy nhiên, đừng thấy Thần Nông lặng im mà nghĩ cậu ấy “gà mờ”, cam chịu nhé. “Hãy nhớ rằng, tớ luôn đọc được suy nghĩ của cậu đấy”, đó chính là lời nhắn nhủ sâu kín của chú bọ cạp này."
+                },
+                {
+                "Name": "Nhân Mã",
+                "Image": "Zodiac8.png",
+                "Hang": "Thông cảm cho tớ. Ôi bộ nhớ đáng chết này:\n     Nhân Mã nhiều khi khiến mọi người tức giận vì bị cho “leo cây” vì quên hẹn, quên việc. Nhưng không phải Nhân Mã lười biếng, trốn tránh trách nhiệm đâu. Là vì cậu ấy vô tư và ham chơi quá nên vui sướng rồi chẳng nhớ được thứ gì nữa. Vì thế, Nhân Mã luôn mong rằng mọi người sẽ cảm thông cho “bộ óc bé tí, kém trí nhớ” của mình."
+                },
+                {
+                "Name": "Ma Kết",
+                "Image": "Zodiac9.png",
+                "Hang": "Ai hiểu nỗi lòng của mình:\n     Ma Kết ít thể hiện cảm xúc ra bên ngoài và thực chất là người không biết cách biểu lộ tình cảm. Tuy là người thành công trong công việc nhưng cứ dính đến vấn đề liên quan đến cảm xúc, Ma Kết lại không biết ứng xử thế nào cho đúng nữa. Vì luôn muốn chứng tỏ mình bản lĩnh, mạnh mẽ, Ma Kết tạo cho mình vỏ bọc lạnh lùng, cứng rắn khiến người khác ngại ngần tìm hiểu con người cậu ấy. Cái tính nghiêm khắc, cứng nhắc cũng khiến Ma Kết ngại ngùng thể hiện cảm xúc dạt dào của mình. Bởi thế nên, có khi cậu ấy đang rất muốn ôm chồm lấy người ấy, ân cần lau mồ hôi trên trán của người yêu nhưng lại thay bằng việc nói lạnh lùng “anh đi tắm, thay đồ đi”… Ma Kết thường hay khiến người khác hiểu nhầm, tức giận bởi lý do đó. “Có ai hiểu nỗi lòng mình”, đó chính là câu thủ thỉ từ đáy sâu tâm hồn nhạy cảm có chiếc vỏ lạnh lùng này."
+                },
+                {
+                "Name": "Bảo Bình",
+                "Image": "Zodiac10.png",
+                "Hang": "Bạn tò mò đủ rồi đấy:\n     Bảo Bình thích khám phá mọi thứ nhưng lại chẳng khoái ai đó cứ chằm chằm nhìn theo cậu ấy đâu. Biết rằng bọn bạn cũng mê lắm những phát minh, những đồ chơi công nghệ của mình và Bảo Bình cũng chẳng muốn kibo làm bạn buồn vì không được chơi cùng đâu. Tuy vậy, đừng chọc ngoáy nhiều vào cậu ấy nhé, cũng đừng có dòm mắt quá lâu vào công việc của con người này nếu không cậu ấy sẽ nổi điên lên vì không tập trung, bị xâm phạm đời tư đấy."
+                },
+                {
+                "Name": "Song Ngư",
+                "Image": "Zodiac11.png",
+                "Hang": "Tùy bạn thôi:\n     Ôi, đừng có làm phiền “nghệ sỹ” Song Ngư bằng những chuyện đời thường đó. Tâm hồn của cậu ấy còn mải miết phiêu du cùng gió, trăng, mơ mộng trong những chuyện tình lãng mạn Hàn Quốc. Vì vậy, đừng phá vỡ không gian đẹp ấy của Song Ngư nhé, bạn thích làm gì thì cứ tùy ý thôi."
+                }
+                ]
+     },
+     
+     
+     
+     
+     {
+     "Title": "12 cung Hoàng Đạo đẹp hơn trong mắt người ấy",
+     "Image": "Zodiac3.png",
+     "Result": [
+                {
+                "Name": "Bạch Dương",
+                "Image": "Zodiac0.png",
+                "Hang": "Soi gương:\n     Những người thuộc cung Bạch Duơng thường không coi trọng tiểu tiết, đôi khi khiến người khác có cảm giác qua loa đại khái. Vì vậy, những ngày mùa xuân tới, bạn hãy kìm chế tính cách vội vàng hấp tấp để điềm tĩnh nhìn vào gương, chú ý tới những tiểu tiết nhỏ. Với cách làm đẹp như vậy, nhất định bạn sẽ rất xinh đấy."
+                },
+                {
+                "Name": "Kim Ngưu",
+                "Image": "Zodiac1.png",
+                "Hang": "Dùng đồ trang sức:\n     Các Kim Ngưu chẳng mấy khi chú trọng vẻ bề ngoài của mình, đặc biệt việc phải mang trang sức trên người khiến cậu ấy khó chịu, vướng víu. Tuy nhiên, mùa xuân này, Kim Ngưu hãy làm cho mình nổi bật hơn nhé. Một chiếc vòng cổ hay một chiếc đồng hồ đeo tay xinh đẹp sẽ khiến bạn thật sự nổi bật đó!"
+                },
+                {
+                "Name": "Song Tử",
+                "Image": "Zodiac2.png",
+                "Hang": "Phong thái nhẹ nhàng:\n     Các nữ Song Tử luôn rất mạnh mẽ, nhưng dù mạnh đến mấy cũng có lúc cần đến sự quan tâm, cần một bờ vai để nương tựa. Muốn người khác quan tâm, bạn nên tỏ ra mềm mại một chút, dịu dàng một chút, đó cũng là cách khiến bạn đẹp hơn."
+                },
+                {
+                "Name": "Cự Giải",
+                "Image": "Zodiac3.png",
+                "Hang": "Trang trí nhà cửa:\n     Các bạn Cự Giải rất yêu thích trang trí ngôi nhà của mình, bởi ngôi nhà xinh đẹp luôn mang lại cho họ tâm trạng. Đầu óc thoải mái, Cự Giải mới có được vẻ quyến rũ và đáng yêu một cách thật tự nhiên được."
+                },
+                {
+                "Name": "Sư Tử",
+                "Image": "Zodiac4.png",
+                "Hang": "Hãy mỉm cười:\n     Thời tiết mùa hè nóng bức thật dễ làm chúng ta khó chịu, dễ nổi giận, đặc biệt là những người cung Hỏa như Sư Tử. Vì vậy, để lúc nào trông cũng đẹp trong mắt người khác, Sư Tử nhớ cố giữ bình, để tình yêu của mình luôn tươi mát nhé."
+                },
+                {
+                "Name": "Xử Nữ",
+                "Image": "Zodiac5.png",
+                "Hang": "Học cách khen ngợi:\n     Xử Nữ nổi tiếng là người kĩ tính, cũng không còn cách nào khác, đó mới chính là Xử Nữ mà. Nhưng ai cũng đều có ưu điểm, không thể xấu mãi được. Vì vậy Xử Nữ hãy học cách khen ngợi, đừng mãi nhìn vào khuyết điểm của người khác nhé. Như vậy bạn sẽ luôn để lại ấn tượng đẹp đẽ với mọi người. "
+                },
+                {
+                "Name": "Thiên Bình",
+                "Image": "Zodiac6.png",
+                "Hang": "Ánh mắt thân thiện:\n     Thiên Bình luôn tỏ ra lạnh lùng, đôi khi khiến người khác khó lại gần. Vì vậy, muốn làm mình đẹp hơn trong mắt mọi người, đầu tiên chân thành, hòa đồng ấy sẽ thu hút sự chú ý của những người xung quanh."
+                },
+                {
+                "Name": "Thần Nông",
+                "Image": "Zodiac7.png",
+                "Hang": "Hãy tránh xa những cách trang điểm kinh điển nhé:\n     Thần Nông có sức quyến rũ trời ban, vì vậy lúc nào cũng có nhiều vệ tinh vây xung quanh. Nhưng nếu muốn tìm thấy chân mệnh thiên tử của mình, Thần Nông hãy bỏ những cách trang điểm không phù hợp trước kia đi nhé, nếu không sự chọn lựa chưa chính xác này sẽ đem lại hậu quả nghiêm trọng đó."
+                },
+                {
+                "Name": "Nhân Mã",
+                "Image": "Zodiac8.png",
+                "Hang": "Luôn khôi hài:\n     Nhân Mã có khiếu hài hước thiên bẩm. Khi họ bộc lộ khả năng trời sinh này, có thể khiến rất nhiều chàng trai mê mẩn. Vì thế, muốn mình đẹp hơn trong mắt mọi người, Nhân Mã hãy cứ phát huy năng khiếu này nhé. Đảm bảo, bạn sẽ luôn nhận được sự chú ý, yêu mến đấy."
+                },
+                {
+                "Name": "Ma Kết",
+                "Image": "Zodiac9.png",
+                "Hang": "Lãng mạn đúng lúc:\n     Trên thực tế, những người thuộc cung Ma Kết sống theo cách không mấy lãng mạn. Họ ngại thể hiện thứ cảm xúc này vì cho là ủy mị, làm mất uy phong lãnh đạo của mình. Tuy nhiên, nếu lãng mạn kịp thời, Ma Kết có thể khiến tình yêu của mình thăng hoa. Tính cách này luôn luôn luôn có ma lực hấp dẫn tuyệt vời mà. "
+                },
+                {
+                "Name": "Bảo Bình",
+                "Image": "Zodiac10.png",
+                "Hang": "Thường xuyên nghe nhạc:\n     Bảo Bình rất dễ rơi vào tình trạng buồn chán, hay nghĩ đến những chuyện không vui. Để tránh tình trạng này, Bảo Bình nên năng nghe nhạc, thư giãn một chút nhé. Bạn sẽ nhanh chóng lấy lại vẻ tươi tắn đáng yêu của mình"
+                },
+                {
+                "Name": "Song Ngư",
+                "Image": "Zodiac11.png",
+                "Hang": "Mặc những chiếc áo màu hồng phấn:\n     Những cô gái Song Ngư mùa hè muốn làm mình đẹp hơn, thì đừng quên những chiếc áo hồng phấn nhé. Chúng sẽ khiến bạn xinh đẹp, phù hợp với sự mộng mơ trong bạn và đem lại vận may trong chuyện tình duyên nữa đấy."
+                }
+                ]
+     },
+     
+     
+     {
+     "Title": "Bí mật tình yêu của các cung hoàng đạo",
+     "Image": "Zodiac4.png",
+     "Result": [
+                {
+                "Name": "Bạch Dương",
+                "Image": "Zodiac0.png",
+                "Hang": "     Giống như những đứa trẻ, Bạch Dương khá ngây thơ, dễ tin người, thậm chí là mù quáng trong tình yêu. Họ luôn đòi hỏi người khác đáp ứng mong muốn của mình trước và không mấy khi để ý đến mong muốn của người khác. Không những thế, Bạch Dương còn ngang bướng, hung hăng, dễ nổi nóng nhưng cũng dễ nguôi giận. Bù lại, những người thuộc cung này rất lạc quan. Hầu như bạn không mấy khi thấy họ thất vọng quá lâu.\n     Đặc điểm khi yêu:\n     - Bạch Dương rất giàu cảm xúc nhưng họ lại hay che giấu, kiềm chế những gì mình nghĩ.\n     - Họ thích sở hữu người mình yêu và hay ghen.\n     - Khi yêu, Bạch Dương yêu hết mình và đầy đam mê.\n     - Họ là tuýp người lãng mạn và có xu hướng thể hiện sự lãng mạn ấy một cách rất tự nhiên.\n     - Bạch Dương rất dễ tin, thậm chí khi đã bị người khác lừa dối, sau một thời gian, họ vẫn có thể tin lại như thường.\n     - Tuy nhiên, họ lại rất khó đoán biết và hay thay đổi, bốc đồng.\n     Các cung hợp với Bạch Dương: Sư Tử, Nhân Mã, Dương Cưu."
+                },
+                {
+                "Name": "Kim Ngưu",
+                "Image": "Zodiac1.png",
+                "Hang": "     Con vật tượng trưng cho Kim Ngưu là bò đực, chính vì vậy những người thuộc cung này cũng mang tính khí ương ngạnh và cứng đầu như một chú bò. Tuy nhiên, bình thường họ rất bình tĩnh, điềm đạm và kiểm soát tốt bản thân. Họ chỉ ngang bướng khi ai đó cố bắt họ làm những việc quá khó. Kim Ngưu không hay lo lắng, và không bao giờ đưa ra quyết định gì mà không cân nhắc. Họ yêu gia đình và luôn tận tâm vì những người mình yêu thương.\n     Đặc điểm khi yêu:\n     - Kim Ngưu chung thủy và tận tâm.\n     - Họ luôn muốn bảo vệ một nửa của mình.\n     - Thích chiếm hữu người yêu và hay ghen.\n     - Thích được chiều chuộng.\n     - Họ luôn hiểu được người khác cần gì, nghĩ gì.\n     - Tuy nhiên, Kim Ngưu lại rất cứng đầu cứng cổ.\n     Các cung hợp với Kim Ngưu: Xử Nữ, Ma Kết, Kim Ngưu."
+                },
+                {
+                "Name": "Song Tử",
+                "Image": "Zodiac2.png",
+                "Hang": "     Những người thuộc cung Song Sinh thường phức tạp như ẩn chứa hai người trong một. Họ chóng chán và luôn cần những thứ mới mẻ. Nếu yêu Song Sinh, bạn hãy học cách làm mới tình yêu của mình bằng những ý tưởng khác biệt, mới mẻ; chắc chắn họ sẽ rất hứng khởi và thích thú. Song Sinh nhạy cảm, đặc biệt với nỗi đau của người khác. Họ nhã nhặn, hào phóng, thích nói chuyện và rất hóm hỉnh.\n     Đặc điểm khi yêu:\n     - Song Sinh thích được nuông chiều.\n     - Có khuynh hướng muốn sở hữu người yêu.\n     - Khi yêu, nhiều khi họ không chắc chắn, không kiên định.\n     - Một trong những cách tốt nhất để nắm bắt trái tim Song Sinh là hãy biết cách nói chuyện thông minh và hóm hỉnh.\n     - Họ thích những người mạnh mẽ và cứng rắn hơn họ.\n     - Họ thích một tình yêu sôi nổi và luôn luôn mới lạ.\n     - Tuy nhiên, nhiều khi Song Sinh lại ích kỷ, hay lo xa và thường tò mò, tọc mạch, lý sự cùn.\n     Các cung hợp với Song Sinh: Thiên Bình, Bảo Bình và Song Sinh."
+                },
+                {
+                "Name": "Cự Giải",
+                "Image": "Zodiac3.png",
+                "Hang": "     Những người thuộc cung Cự Giải luôn chất chứa nhiều cảm xúc bên trong. Họ cũng là người khá phức tạp. Nhiều khi bạn thấy họ ngại ngùng, xấu hổ trước đám đông; nhưng cũng có khi họ lại là trung tâm của sự chú ý. Họ không cố tình làm mình nổi bật, nhưng nếu rơi vào hoàn cảnh ấy, họ sẵn sàng tận hưởng cảm giác là cái đinh của cuộc vui. Cự Giải gắn bó với gia đình và muốn bảo vệ những người mình yêu thương.\n     Đặc điểm khi yêu:\n     - Cự Giải nhạy cảm và dễ bị tổn thương.\n     - Họ là những người giàu cảm xúc nhưng thường che giấu chúng sau bề ngoài lạnh lùng.\n     - Họ lúc nào cũng cảm thấy cần tình yêu, khao khát tình yêu.\n     - Họ cần cảm giác an toàn trong tình yêu, cho hiện tại và mãi mãi về sau.\n     - Tuy nhiên, nhiều khi Cự Giải khá láu cá, bi quan và bám dai như đỉa.\n     Các cung hợp với Cự Giải: Song Ngư, Bò Cạp, Cự Giải."
+                },
+                {
+                "Name": "Sư Tử",
+                "Image": "Zodiac4.png",
+                "Hang": "     Giống như chúa sơn lâm, Sư Tử thích là trung tâm của mọi sự chú ý. Họ thích được nuông chiều, cung phụng. Trong mỗi cuộc vui, họ dễ hòa nhập với mọi người. Tuy nhiên, Sư Tử có khuynh hướng đàn áp, lấn át người khác và muốn mọi người ngưỡng mộ họ. Cách tốt nhất để chinh phục trái tim của một Sư Tử là hãy nuông chiều họ. Lúc ấy, thay vì gầm gừ dữ tợn, họ sẽ ngoan ngoãn như một chú mèo đáng yêu.\n     Đặc điểm khi yêu\n     - Sư Tử muốn bảo vệ người mình yêu.\n     - Họ sẽ luôn ở bên bạn ngay cả khi bạn thất bại.\n     - Họ ấm áp, lãng mạn và chu đáo.\n     - Họ thích chiếm hữu người mình yêu và hay ghen.\n     - Họ thích được người khác nuông chiều và chăm sóc.\n     - Tuy nhiên, Sư Tử nhiều khi ích kỷ, quá tự cao, kiêu ngạo và thích đàn áp.\n     Các cung hợp với Sư Tử: Dương Cưu, Nhân Mã, Sư Tử."
+                },
+                {
+                "Name": "Xử Nữ",
+                "Image": "Zodiac5.png",
+                "Hang": "     Xử Nữ không thích đám đông và không thích bị chú ý. Họ là người cầu toàn, thích phê bình người khác kể cả những lỗi nhỏ nhất. Bề ngoài có vẻ điềm tĩnh, nhưng lại rất hay lo lắng. Họ ghét những ai không kiên định và hay trì hoãn. Trong tình yêu, những người cung Xử Nữ không lòe loẹt, không khoa trương và rất độc lập.\n     Đặc điểm khi yêu:\n     - Khi yêu, Xử Nữ cực kỳ đáng tin và chân thật.\n     - Họ không hay thổ lộ tình cảm nhưng tận tình và hết lòng vì tình yêu.\n     - Họ rất biết cách quan tâm và chăm sóc người khác.\n     - Tuy nhiên, Xử Nữ không dễ bỏ qua lỗi lầm của người yêu. Họ hay chỉ trích, quan trọng hóa vấn đề và dễ nổi cáu.\n     Các cung hợp với Xử Nữ: Kim Ngưu, Ma Kết và Xử Nữ."
+                },
+                {
+                "Name": "Thiên Bình",
+                "Image": "Zodiac6.png",
+                "Hang": "     Những người thuộc cung Thiên Bình sở hữu nụ cười rất đáng yêu, nó có thể làm trái tim bạn tan chảy. Họ dường như là người rất cân bằng; tuy nhiên, họ hiếm khi thực sự cân bằng, vì họ quan tâm đến tất cả mọi thứ và không biết phải bỏ cái gì. Khi tranh cãi, Thiên Bình rất mâu thuẫn, vừa muốn dàn hòa, vừa muốn gây gổ cãi nhau.\n     Đặc điểm khi yêu:\n     - Thiên Bình hay thổ lộ tình cảm. Nếu yêu bạn, họ sẽ nói cho bạn biết họ yêu bạn như thế nào và không kiềm chế cảm xúc đang dâng trào ấy.\n     - Họ có thể rất chung thủy và thành thật, nhưng chỉ khi họ tìm thấy tình yêu đích thực.\n     - Họ rất lãng mạn và quyến rũ.\n     - Tuy nhiên, Thiên Bình nhiều khi hay chọc tức người khác và ngang bướng. Họ còn hay dỗi, do dự, tính tình thất thường sáng nắng chiều mưa.\n     Các cung hợp với Thiên Bình: Song Sinh, Bảo Bình và Thiên Bình."
+                },
+                {
+                "Name": "Thần Nông",
+                "Image": "Zodiac7.png",
+                "Hang": "     Điều đầu tiên bạn cần chú ý về Thần Nông chính là đôi mắt lôi cuốn của họ. Dường như, với đôi mắt ấy, họ có thể nhìn thấu tâm can cũng như những bí mật sâu kín nhất của bạn. Thần Nông là những người quyết đoán. Với họ, câu trả lời là có hoặc không chứ không bao giờ là có thể. Thần Nông có xu hướng yêu thì yêu vô cùng nhưng ghét thì cũng ghét vô tận. Tuy nhiên, họ lại luôn biết cách kiểm soát cảm xúc của mình, hầu như không thể hiện ra ngoài.\n     Đặc điểm khi yêu\n     - Thần Nông rất nồng nhiệt, quyến rũ.\n     - Sự bí hiểm và ánh mắt lôi cuốn có thể sẽ là vũ khí lợi hại của Thần Nông khiến bạn đổ gục.\n     - Họ luôn biết cách che giấu cảm xúc.\n     - Tuy nhiên, Thần Nông cũng rất ngang bướng và hay ghen.\n     Các cung hợp với Thần Nông: Cự Giải, Song Ngư và Bò Cạp."
+                },
+                {
+                "Name": "Nhân Mã",
+                "Image": "Zodiac8.png",
+                "Hang": "     Nhân Mã khá vụng về khi thể hiện tình cảm. Nhiều khi họ muốn làm bạn vui, nhưng lại vô tình làm bạn buồn vì những câu nói không phù hợp. Những người thuộc cung Nhân Mã hay bồn chồn, đứng ngồi không yên, bộc trực, thậm chí ngây thơ như một đứa trẻ. Tuy nhiên, khi ở bên Nhân Mã, bạn sẽ luôn cảm nhận được sự vui vẻ và lạc quan.\n     Đặc điểm khi yêu:\n     - Đừng tỏ ra nghi ngờ Nhân Mã vì điều đó là điều khiến họ bị tổn thương nhất.\n     - Họ luôn thích được tự do, ngay cả trong tình yêu. Vì thế nếu yêu Nhân Mã, bạn đừng bó buộc và kiểm soát họ thái quá.\n     - Họ thích được khen và nịnh nọt.\n     - Họ sẵn sàng đối mặt với những thử thách trong tình yêu.\n     - Nhân Mã không dễ để có một mối quan hệ sâu sắc, gắn bó lâu dài. Nhưng một khi họ đã yêu, họ chỉ thuộc về bạn.\n     - Tuy nhiên, Nhân Mã lại hay khoa trương, không khéo léo và bộp chộp. Nhiều khi họ hành động mà không quan tâm đến hậu quả của nó.\n     Các cung hợp với Nhân Mã: Dương Cưu, Sư Tử, và Nhân Mã."
+                },
+                {
+                "Name": "Ma Kết",
+                "Image": "Zodiac9.png",
+                "Hang": "     Ma Kết là người khá trầm lặng. Họ không thích đám đông và là trung tâm của sự chú ý. Tuy nhiên, họ có khát khao lớn vươn đến vị trí số 1 và có xu hướng là người quản lý của đám đông ấy nếu có cơ hội. Họ cực kỳ chăm chỉ và tự tin. Họ thích những gì thuộc về truyền thống và luôn gắn bó với gia đình.\n     Đặc điểm khi yêu:\n     - Ma Kết rất chung thủy và tận tình với người mình yêu.\n     - Họ bao dung và sẵn sàng tha thứ lỗi lầm.\n     - Họ là người đáng tin. Bạn có thể tin tưởng họ mà không phải hối tiếc về sau.\n     - Bất cứ khi nào bạn cần động viên, hãy tìm đến Ma Kết, vì họ sẽ luôn ở bên bạn.\n     - Họ luôn muốn có những mối quan hệ lâu dài và bền chặt.\n     - Tuy nhiên, Ma Kết lại hay bi quan, nhiều khi khinh khỉnh, không cởi mở, chan hòa. Họ cũng thích chỉ trích và phê bình người khác.\n     Các cung hợp với Ma Kết: Kim Ngưu, Xử Nữ và Ma Kết."
+                },
+                {
+                "Name": "Bảo Bình",
+                "Image": "Zodiac10.png",
+                "Hang": "     Điều đầu tiên bạn sẽ chú ý đến những người thuộc cung Bảo Bình là họ rất thân thiện. Họ ghét bị ràng buộc và mất tự do. Tính khí cũng thất thường. Nhiều lúc bạn thấy họ có rất nhiều bạn bè xung quanh, nhưng cũng có khi họ chỉ muốn ở một mình và đi gặm nhấm nỗi cô đơn.\n     Đặc điểm khi yêu:\n     - Bạn sẽ không bao giờ cảm thấy nhàm chán khi yêu một Bảo Bình. Họ khá sáng tạo và sẽ làm bạn ngạc nhiên với những thứ mới mẻ so với những thứ bình thường quá quen thuộc.\n     - Bảo Bình nhạy cảm và giàu cảm xúc nhưng không hay bộc lộ chúng.\n     - Họ biết quan tâm, chăm sóc người khác.\n     - Tuy nhiên, Bảo Bình rất đa nghi và không khéo. Nhiều khi họ nói quá thẳng khiến người khác tổn thương.\n     Các cung hợp với Bảo Bình: Song Sinh, Thiên Bình và Bảo Bình."
+                },
+                {
+                "Name": "Song Ngư",
+                "Image": "Zodiac11.png",
+                "Hang": "     Trong cung Song Ngư có hai kiểu người: kiểu cá xuôi dòng thì rất mơ mộng, hão huyền và kiểu cá ngược dòng thì thực tế hơn và có thể tiến đến vị trí cao trong cuộc sống. Nhìn chung, các Song Ngư đều rất giàu cảm xúc và nhạy cảm. Họ khá mẫn cảm với những lời nói xúc phạm, thậm chí lăng mạ và những ý kiến không liên quan nhiều đến mình. Họ không hay tức giận, nhưng một khi đã tức giận, họ có thể sẽ làm người khác tổn thương với những lời nói sắc nhọn. Tuy nhiên, họ sẽ tự bình tĩnh rất nhanh và lấy lại cân bằng như trước.\n     Đặc điểm khi yêu:\n     - Song Ngư có óc thẩm mỹ và rất lãng mạn.\n     - Họ có xu hướng gắn bó chung thủy với một nửa của mình. Song Ngư thích những mối quan hệ lâu dài, gắn kết.\n     - Họ đáng yêu và hay thể hiện tình cảm với người mình yêu.\n     - Họ chăm sóc tận tình và sẵn sàng hy sinh vì người mình yêu.\n     - Họ có thể dễ dàng cảm nhận được cảm xúc của bạn, thậm chí biết trước khi bạn nói với họ.\n     - Tuy nhiên, Song Ngư lại không kiên định, hay dao động và quá nhạy cảm.\n     Các cung hợp với Song Ngư: Cự Giải, Bò Cạp và Song Ngư."
+                }
+                ]
+     },
+     
+     
+     
+     
+     {
+     "Title": "Năng khiếu của 12 cung hoàng đạo",
+     "Image": "Zodiac5.png",
+     "Result": [
+                {
+                "Name": "Bạch Dương",
+                "Image": "Zodiac0.png",
+                "Hang": "     Bạch Dương là người bốc đồng và hấp tấp. Những ý tưởng nghệ thuật của cậu ấy bỗng vụt sáng nhưng cũng nhanh chóng biến mất vì Bạch Dương không bao giờ nhanh chóng thực hiện nó. Vấn đề nằm ở chỗ Bạch Dương luôn thiếu ý chí và chẳng hề kiên nhẫn. Cậu ấy cần có ai đó ép buộc để đi tiếp."
+                },
+                {
+                "Name": "Kim Ngưu",
+                "Image": "Zodiac1.png",
+                "Hang": "     Kim Ngưu tiếp nhận nghệ thuật một cách đầy ý nghĩa và đa sắc màu. Khi những cảm xúc bỗng phát triển một cách dào dạt, cậu ấy luôn cảm nhận được sự thúc giục phải mau chóng tạo ra một kiệt tác bất hủ. Kim Ngưu đặc biệt quan tâm và muộn phiền rất nhiều về chủ đề tình yêu. Cậu ấy thường tìm cách truyền tải nó qua những vần thơ và những bản tình ca."
+                },
+                {
+                "Name": "Song Tử",
+                "Image": "Zodiac2.png",
+                "Hang": "     Khi nói về những kĩ năng nghệ thuật nếu bỏ qua Song Tử thì sẽ là một thiếu sót lớn bởi cậu ấy vốn là những diễn viên bẩm sinh. Song Tử hoà đồng và vui vẻ. Cậu ấy thường bị ám ảnh bởi diễn xuất đến nỗi nhiều khi rơi vào tình trạng không phân biệt được đâu là phim, đâu là đời thật. Ngoài ra Song Tử còn có thể sáng tác những bài hát rất hay về thiên nhiên."
+                },
+                {
+                "Name": "Cự Giải",
+                "Image": "Zodiac3.png",
+                "Hang": "     Cự Giải là người sở hữu những cơn lốc của cảm xúc, độ sâu của những giác quan và là đại dương của những trải nghiệm. Cậu ấy muốn những sáng tác của mình trở nên một cách đơn giản, tự nhiên như việc sống và thở. Cự Giải giỏi trong việc sáng tác nhạc và viết tiểu thuyết."
+                },
+                {
+                "Name": "Sư Tử",
+                "Image": "Zodiac4.png",
+                "Hang": "     Sư Tử khi chìm đắm vào nghệ thuật sẽ quên hết tất cả mọi thứ và chỉ quan tâm đến việc làm sao cho tác phẩm trở nên hoàn hảo nhất. Cậu ấy thích những thứ sống động, nổi bật và hay sử dụng từ lóng, phép ẩn dụ. Sư Tử có thể là những người mang năng khiếu hội họa."
+                },
+                {
+                "Name": "Xử Nữ",
+                "Image": "Zodiac5.png",
+                "Hang": "     Xử Nữ có xu hướng thể hiện tất cả khả năng của mình vào những hoạt động thực tế hơn là nghệ thuật. Tuy nhiên, trong các môn nghệ thuật ấy, Xử Nữ có vẻ yêu thích văn chương hơn cả. Thường thì con người này sẽ viết truyện trinh thám với nội dung cực kì phức tạp."
+                },
+                {
+                "Name": "Thiên Bình",
+                "Image": "Zodiac6.png",
+                "Hang": "     Thiên Bình kết hợp những ý tưởng nghệ thuật trong đầu cùng với những thành tựu mới nhất của loài người để tạo ra tác phẩm cho riêng mình. Cậu ấy thích làm việc trên máy tính, sử dụng những phần mềm chỉnh sửa như photoshop cho hình ảnh hoặc những phần mềm sáng tác nhạc cho âm thanh. Với lòng quyết tâm, Thiên Bình dễ dàng đạt được mục đích."
+                },
+                {
+                "Name": "Thần Nông",
+                "Image": "Zodiac7.png",
+                "Hang": "     Thần Nông tiếp nhận nghệ thuật với một năng lượng và cảm xúc cao hơn những cung khác. Cậu ấy thích lấy cảm hứng từ không gian. Thần Nông giỏi viết tiểu thuyết và lời nhạc, thường là thể loại giả tưởng. Âm nhạc của Thần Nông rất khó nghe và quá ồn ào."
+                },
+                {
+                "Name": "Nhân Mã",
+                "Image": "Zodiac8.png",
+                "Hang": "     Nhân Mã luôn ước mơ trở thành một diễn viên nổi tiếng. Cậu ấy giỏi trong việc viết kịch bản và thường nghĩ đến từng cảnh quay cũng như trang phục cụ thể. Khi có thể vượt qua sự lười biếng của chính mình, sức sáng tạo của Nhân Mã quả không thuộc hạng vừa."
+                },
+                {
+                "Name": "Ma Kết",
+                "Image": "Zodiac9.png",
+                "Hang": "     Ma Kết trông có vẻ lạnh lùng và có chừng mực nhưng trong lòng cậu ấy là những cảm xúc mãnh liệt mà Ma Kết không muốn người khác phát hiện ra. Tuy nhiên, khi con người này vượt qua được bức tường do chính mình xây lên đấy, một thời đại mới đầy huy hoàng sẽ mở ra cho họ."
+                },
+                {
+                "Name": "Bảo Bình",
+                "Image": "Zodiac10.png",
+                "Hang": "     Bảo Bình luôn luôn thể hiện sự sáng tạo của mình. Cậu ấy giỏi nấu nướng và có tài làm cho những công việc buồn tẻ trở nên thú vị. Bảo Bình cũng giỏi thiết kế và phần lớn trở thành những nhà tạo mẫu trang phục. Cậu ấy cũng có thể vừa là một nhà thơ, một nhà quản lí, một hoạ sĩ và một nghệ sĩ một cách hoàn hảo."
+                },
+                {
+                "Name": "Song Ngư",
+                "Image": "Zodiac11.png",
+                "Hang": "     Với bản tính nhạy cảm, Song Ngư dành hết công sức và tâm trí cho nghệ thuật. Cậu ấy thử thách bản thân mình trong nhiều thể loại như: sáng tác văn, thơ, vẽ, viết nhạc.... Vấn đề là do thích quá nhiều thứ nên cuối cùng Song Ngư trở nên lan man và chẳng thực hiện được cái gì một cách hoàn hảo."
+                }
+                ]
+     },
+     
+     
+     {
+     "Title": "12 cung hoàng đạo nên làm gì khi stress ghé thăm?",
+     "Image": "Zodiac6.png",
+     "Result": [
+                {
+                "Name": "Bạch Dương",
+                "Image": "Zodiac0.png",
+                "Hang": "Đi chơi:\n     Đi dạo, shopping hoặc du lịch. Bạch Dương nên tìm đến những nơi không khí trong lành, tự do và gặp gỡ những người bạn dễ chịu, không nói năng như một cái máy hoặc làm quá nhiều trò. Bạch Dương có thể đi cả ngày, đến mọi nơi và chơi đủ trò. Giải phóng hết năng lượng là cách xả stress tốt nhất với Bạch Dương."
+                },
+                {
+                "Name": "Kim Ngưu",
+                "Image": "Zodiac1.png",
+                "Hang": "Ăn uống:\n     Tìm một không gian quen thuộc, ăn một vài món yêu thích, uống những loại đồ uống mát mẻ, giàu vitamin rồi ghé qua một rạp chiếu phim, nếu còn thời gian thì đi shopping… đây chắc chắn là những giải pháp được khá nhiều Kim Ngưu lựa chọn. Nhưng lựa chọn đó cũng chính xác đấy Kim Ngưu nhé. Những thứ quen thuộc có khả năng giúp mình thư giãn tốt hơn mà không cần phải tìm gì mới mẻ."
+                },
+                {
+                "Name": "Song Tử",
+                "Image": "Zodiac2.png",
+                "Hang": "Tán gẫu:\n     Không khí dễ chịu, nước uống có hương vị mạnh, vài người bạn dễ tính nhưng đủ thông minh để tán dóc về mọi thứ trên đời, chơi game vui vẻ hay đánh bài là bổ sung không tồi cho Song Tử những lúc mệt mỏi."
+                },
+                {
+                "Name": "Cự Giải",
+                "Image": "Zodiac3.png",
+                "Hang": "Vận động:\n     Nếu bạn đang khỏe mạnh và chỉ cảm thấy ức chế thì nên chơi thể thao đi thôi, Cự Giải cũng vậy đó. Trong trường hợp bạn cảm thấy không được khỏe thì hãy vận động nhẹ, làm một món sở trường mình yêu thích, hoặc xách cái cần đi câu cá. Party một chút cũng không tệ vì bận rộn chút sẽ làm Cự Giải quên đi chuyện tư duy. Nếu điều kiện không cho phép thì bạn có thể kiếm đứa bạn thân để chửi nhau một trận. Việc nói ra là sự giải tỏa hiệu quả mà không phải lúc nào Cự Giải cũng biết cách làm."
+                },
+                {
+                "Name": "Sư Tử",
+                "Image": "Zodiac4.png",
+                "Hang": "Đập phá:\n     Kiếm cái bịch bông để trút giận cũng là cách để xua tan stress đấy Sư Tử nhé. Mà nếu không tìm được bịch bông nào, bạn có thể kiếm người nào đó để giải tỏa. Dùng sự tập trung để thư giãn hết mình là cách phù hợp với Sư Tử: ăn hết mình, chơi hết mình, tiết kiệm được bao nhiêu thì lôi hết ra tiêu một bữa sạch sành sanh. Dù sau đó có thể bạn sẽ tiếc hẳn mấy ngày nhưng còn hơn là để mấy ngày đó phải stress."
+                },
+                {
+                "Name": "Xử Nữ",
+                "Image": "Zodiac5.png",
+                "Hang": "Bạn bè:\n     Xử Nữ hay đụng cái gì cũng suy nghĩ phân tích, làm cái gì cũng tính trước tính sau. “Vitamin C” của bạn là tìm những thứ quen thuộc, những thứ an toàn và đơn giản không cần phải tính toán như: đi chơi cùng bạn bè, đến nơi bạn thường đến, làm những việc bạn thường làm. Có một người bạn sẽ tốt hơn nhưng đó phải là người mà không cần đề phòng, là người hiểu mình càng tuyệt."
+                },
+                {
+                "Name": "Thiên Bình",
+                "Image": "Zodiac6.png",
+                "Hang": "Xem cái gì đó:\n     Bản thân Thiên Bình ít khi tự thuyết phục được chính mình, nhưng những thứ mà họ khám phá ra sẽ thuyết phục được họ. Xem một bộ phim ý nghĩa, đọc một mẩu truyện ngắn hay, đi làm từ thiện hay gặp gỡ bạn bè bạn quý mến… Những bài học thú vị từ các cuộc gặp ấy sẽ giúp bạn gỡ bỏ những ưu tư vô bổ."
+                },
+                {
+                "Name": "Thần Nông",
+                "Image": "Zodiac7.png",
+                "Hang": "Thể hiện tài năng:\n     Nên chơi những trò bạn yêu thích và có năng khiếu là cách giải tỏa stress không tệ chút nào với Thần Nông đâu. Cảm giác thành công hoặc được tỏa sáng và ngưỡng mộ sẽ giống như viên thuốc bổ giúp Thần Nông gạt bỏ căn bệnh bất mãn khỏi bản thân."
+                },
+                {
+                "Name": "Nhân Mã",
+                "Image": "Zodiac8.png",
+                "Hang": "Chơi, chơi và chơi:\n     Người không thích cầu kì như Nhân Mã thì cũng nên thư giãn theo phương pháp đơn giản nhất là chơi. Mọi trò chơi đều đặt ra thử thách và cho người chơi cơ hội vượt qua, càng vượt qua nhiều thì sự hưng phấn càng mạnh, năng lượng tư duy sẽ được giải phóng và cảm thấy nhẹ nhõm trong người."
+                },
+                {
+                "Name": "Ma Kết",
+                "Image": "Zodiac9.png",
+                "Hang": "Tìm sự mới mẻ:\n     Để đem lại cảm giác mới mẻ, Ma Kết nên làm những việc sau: dọn dẹp nhà cửa, mua đồ mới, thử món ăn mới, đọc truyện cười, xem gameshow, thăm hỏi bạn bè. Ngoài ra bạn có thể nuôi thú cưng trong nhà nữa. Ma Kết nguyên tắc sẽ luôn cần những điều bất ngờ để đem vào cuộc sống làn gió mới. Hãy chịu khó duy trì những mối quan hệ tốt đẹp, bạn sẽ được quan tâm."
+                },
+                {
+                "Name": "Bảo Bình",
+                "Image": "Zodiac10.png",
+                "Hang": "Đùa nghịch:\n     Bảo Bình ngày thường luôn để tâm trí trong thế giới riêng và trở nên khó hiểu. Vì thế, lúc stress bạn nên để tâm trí bước ra bên ngoài và đùa nghịch. Vui vẻ và tình cảm là những yếu tố phù hợp nhất để biến Bảo Bình từ mưa giông thành ngày nắng. Bạn sẽ bộc lộ tính lạc quan hài hước và sự đặc biệt khi ở cạnh bạn bè, ở những nơi yêu thích hoặc khi chơi với trẻ con."
+                },
+                {
+                "Name": "Song Ngư",
+                "Image": "Zodiac11.png",
+                "Hang": "Đi phượt:\n     Nếu thế giới này hem hiểu được Song Ngư thì bạn phải tự dành thời gian cho mình để hiểu mình thôi. Song Ngư có thể trang bị một máy nghe nhạc, ăn mặc theo cách mình thích, đeo một chiếc cặp nhỏ với vài món đồ “bồ kết”, vác máy ảnh, lên xe và đi dạo một vòng những góc phố yên bình hoặc đi phượt đâu đó vắng vẻ. Lang thang, tự nói chuyện với mình trong tâm tư, đẩy hết phiền lo ra khỏi đầu chính là cách xả stress hữu hiệu với con người đa sầu, đa cảm này."
+                }
+                ]
+     },
+     
+     
+     
+     
+     {
+     "Title": "12 cung kiếm tiền như thế nào?",
+     "Image": "Zodiac7.png",
+     "Result": [
+                {
+                "Name": "Bạch Dương",
+                "Image": "Zodiac0.png",
+                "Hang": "     Bạch Dương háo thắng và thích lựa chọn hướng đi độc đáo, trong khi mọi người thường đi trên con đường đã có người lót gạch sẵn. Vì cá tính đó, cậu ấy dường như có tất cả mọi cơ hội để thành công trong xã hội này. Bạn biết đấy, có rất nhiều người cung Bạch Dương trở thành triệu phú bởi vì họ khác biệt."
+                },
+                {
+                "Name": "Kim Ngưu",
+                "Image": "Zodiac1.png",
+                "Hang": "     Kim Ngưu khá giỏi trong việc kiếm tiền hay ít nhất là cậu ấy đã đi đúng hướng. Kim Ngưu có thể chỉ chăm chăm suy nghĩ cách làm giàu mà quên mất những khía cạnh khác trong cuộc sống, chỉ có tiền và công việc có thể điều khiển được con người này."
+                },
+                {
+                "Name": "Song Tử",
+                "Image": "Zodiac2.png",
+                "Hang": "     Song Tử thật ra không quan tâm nhiều lắm đến vấn đề tiền bạc. Với cậu ấy, suy cho cùng, tiền chỉ là một công cụ mà thôi. Song Tử có đủ khả năng và có nhiều hướng khác nhau để kiếm tiền . Tuy nhiên, cậu ấy “cá kiếm” được nhanh thì cũng tiêu vèo cả đống tiền trong giây lát được. Dù có rơi vào tình trạng rỗng túi thì cậu ấy cũng chẳng mảy may lo lắng đâu."
+                },
+                {
+                "Name": "Cự Giải",
+                "Image": "Zodiac3.png",
+                "Hang": "     Cự Giải bẩm sinh luôn cảm nhận được một sự thúc giục mau chóng ổn định cho tương lai. Chính vì mục đích đó mà cậu ấy sẽ cố gắng kiếm thật nhiều tiền ngay khi còn trẻ. Châm ngôn của Cự Giải là “chậm mà chắc”. Khi đã lên kế hoạch, con người này sẽ gắng sức hoàn thành nó mà không ai có thể ngăn cản được."
+                },
+                {
+                "Name": "Sư Tử",
+                "Image": "Zodiac4.png",
+                "Hang": "     Làm sao Sư Tử có thể sống nổi nếu thiếu tiền cơ chứ. Chúa tể rừng xanh dường như rất có duyên với tiền bạc và có thể kiếm được rất nhiều. Tuy vậy, khả năng tiêu tiền của Sư Tử cũng rất đáng nể đó. Cậu ấy là người ga lăng nhất trong số 12 cung hoàng đạo mà. Bởi lý do này, một số Sư Tử có thể rơi vào cảnh nợ nần."
+                },
+                {
+                "Name": "Xử Nữ",
+                "Image": "Zodiac5.png",
+                "Hang": "     Xử Nữ yêu tiền và dù tiền của nước nào đi chăng nữa, cậu ấy vẫn… yêu ngang bằng nhau. Khi đầu tư, Xử Nữ cẩn thận khảo sát từng chi tiết và suy nghĩ đến mọi tình huống có thể trong tương lai. Xử Nữ chẳng bao giờ vội vàng. Cậu ấy không keo kiệt cũng chẳng hoang phí. Xử Nữ thích sự ổn định trong công việc nơi mà trách nhiệm của mỗi người được xác định rõ ràng và không có chướng ngại vật nào phải vượt qua cả."
+                },
+                {
+                "Name": "Thiên Bình",
+                "Image": "Zodiac6.png",
+                "Hang": "     Thiên Bình cư xử như một nhà quý tộc khi tiêu tiền không dồn dập mà tính toán cho từng sản phẩm. Đối với cậu ấy, tiền là một công cụ bảo đảm cuộc sống tốt cho bản thân. Thiên Bình không tiết kiệm tiền. Cậu ấy chỉ đơn giản tiêu nó và đợi khi… có tiền lại tiêu tiếp. Con người này luôn mơ về cuộc sống xa hoa và không thích làm việc nhiều. Thiên Bình thường có xu hướng tìm ai đó tài trợ cho mình như lấy một người chồng/vợ giàu có chẳng hạn."
+                },
+                {
+                "Name": "Thần Nông",
+                "Image": "Zodiac7.png",
+                "Hang": "     Thần Nông luôn biết rõ hôm nay mình muốn gì và làm cách nào để có được điều đó. Nếu con người này có thể nghĩ rằng tiền không quan trọng, có lẽ cậu ấy sẽ được một cuộc sống hạnh phúc hơn. Không quá khó để Thần Nông kiếm được tiền nhưng cậu ấy chẳng bao giờ muốn khoe mẽ."
+                },
+                {
+                "Name": "Nhân Mã",
+                "Image": "Zodiac8.png",
+                "Hang": "     Nhân Mã luôn thể hiện cho mọi người thấy là mình đã đạt được những ước mơ nhưng do lười biếng và ham chơi nên cậu ấy sẽ quay trở lại điểm bắt đầu. Nhân Mã không phải là kẻ nghiện công việc và cũng chẳng có khả năng kiếm nhiều tiền. Thậm chí ngay cả khi cậu ấy trúng xổ số hay được kế thừa một gia tài kếch xù, Nhân Mã cũng ngay lập tức nướng tiền cho tiệc tùng hay đánh bài. Mọi thứ rồi cũng quay về xuất phát."
+                },
+                {
+                "Name": "Ma Kết",
+                "Image": "Zodiac9.png",
+                "Hang": "     Ma Kết là những người nghiện công việc. Cuộc sống của cậu ấy lúc nào cũng xoay quanh vấn đề làm sao để công việc phát triển với tốc độ nhanh nhất. Ma Kết luôn lên kế hoạch một cách rõ ràng và dốc hết sức để thực hiện nó. Tuy vậy cậu ấy lại luôn thất bại khi kiếm tiền theo cách này. Phần lớn số tiền Ma Kết có được là do tiết kiệm lâu năm."
+                },
+                {
+                "Name": "Bảo Bình",
+                "Image": "Zodiac10.png",
+                "Hang": "     Bảo Bình luôn mơ ước bản thân mình có thể xài tiền một cách thoải mái và không phải lo nghĩ nhiều. Vì theo chủ nghĩa tôn thờ tự do nên cậu ấy thường xuyên cảm thấy muốn bệnh khi phải ở trong văn phòng làm việc từ sáng đến chiều. Người cung Bảo Bình có xu hướng lựa chọn công việc tự do để được chủ động trong giờ giấc và có thể làm những thứ mình muốn. Bảo Bình có thể tham gia vào lĩnh vực kinh doanh, nơi mà cơ hội kiếm tiền là 50/50."
+                },
+                {
+                "Name": "Song Ngư",
+                "Image": "Zodiac11.png",
+                "Hang": "     Song Ngư luôn hướng tới những thứ cao hơn cái gọi là phát triển công việc và những thứ vớ vẩn khác. Cậu ấy có những kế hoạch kiếm tiền độc đáo và những vì sao sẽ giúp đỡ con người mơ mộng này. Tuy vậy Song Ngư rất dễ mất hứng nên chẳng thể tập trung vào bất cứ công việc nào. Biết làm sao được, có quá nhiều thứ thú vị dễ kiếm tiền xung quanh cậu ấy cơ mà."
+                }
+                ]
+     },
+     
+     {
+     "Title": "12 cung hoàng đạo yêu xa",
+     "Image": "Zodiac8.png",
+     "Result": [
+                {
+                "Name": "Bạch Dương",
+                "Image": "Zodiac0.png",
+                "Hang": "     Khi yêu xa Bạch Dương đòi hỏi sự kiên nhẫn. Cậu ấy thường tính toán đến những mục tiêu lớn mà quên đi những yếu tố nhỏ để giữ được tình cảm lâu dài. Đừng vội gì cả nếu 2 bạn yêu nhau thì nhất định sẽ có ngày bên nhau."
+                },
+                {
+                "Name": "Kim Ngưu",
+                "Image": "Zodiac1.png",
+                "Hang": "     Yêu xa không phải trở ngại lớn với bạn. Kim Ngưu có đủ cảm thông, đủ kiên nhẫn để chờ đợi ai kia, chỉ cần đối phương có đủ khả năng khiến cậu ấy cảm thấy tin tưởng là được. Tin tưởng là chìa khóa giúp tình yêu xa của Kim Ngưu vững bền."
+                },
+                {
+                "Name": "Song Tử",
+                "Image": "Zodiac2.png",
+                "Hang": "     Người yêu Song Tử dù thế nào cũng sẽ luôn thời gian cho bạn. Có đôi lúc bạn không thể tìm ra con người tinh nghịch ấy nhưng đừng lo lắng. Song Tử dù ở xa hay gần cũng sẽ luôn tạo cho bạn cảm giác hai người chỉ cách nhau một con phố thôi."
+                },
+                {
+                "Name": "Cự Giải",
+                "Image": "Zodiac3.png",
+                "Hang": "     Cự giải có thể chờ ai đó bao lâu cũng được nhưng điều đó lại khiến ai kia nghĩ rằng sẽ không có chuyện gì xảy ra mà trở nên thờ ơ. Con người ai cũng có lúc cô đơn, có lúc yếu lòng, Cự Giải hãy bày tỏ lòng mình với người ta rằng bạn cần sự quan tâm thế nào"
+                },
+                {
+                "Name": "Sư Tử",
+                "Image": "Zodiac4.png",
+                "Hang": "     Sư Tử giống như những chú mèo luôn tỏ vẻ lười biếng không quan tâm tới chủ nhân nhưng thật ra trong lòng nó cũng rất nhớ chủ. Khi yêu xa bạn lại càng khó cảm nhận tình yêu của Sư Tử vì cậu ấy không giỏi diễn đạt cảm xúc, hãy cố thay đổi điều này một chút cho ai kia yên tâm nhé."
+                },
+                {
+                "Name": "Xử Nữ",
+                "Image": "Zodiac5.png",
+                "Hang": "     Với tính đa nghi và óc suy luận đáng sợ, yêu xa với Xử Nữ như một trò chơi trinh thám không có hồi kết. Kì lạ là dù bao nhiêu nghi ngờ Xử Nữ cũng ít khi buông tay người kia ra trước. Yêu xa không phải là thử thách lớn với Xử Nữ, thử thách chính là bản thân bạn."
+                },
+                {
+                "Name": "Thiên Bình",
+                "Image": "Zodiac6.png",
+                "Hang": "     Luôn kể cho bạn những câu chuyện cười mãi không dứt, luôn cố làm ra vẻ không sao, luôn giữ sự lạc quan trong mối quan hệ, luôn làm bạn ghen đôi chút… không hay nói nhớ bạn. nhưng luôn có mặt khi bạn cần, đó là Thiên Bình đào hoa. Nhưng mà Thiên Bình nhé, hãy làm cho người ta yên tâm đôi chút, bớt tán tỉnh tùm lum đi nếu không tình yêu xa của bạn sẽ gặp trắc trở đấy."
+                },
+                {
+                "Name": "Thần Nông",
+                "Image": "Zodiac7.png",
+                "Hang": "     Thần Nông cần một chút nhiệt tình hơn, bạn biết mà, đâu phải ai cũng hiểu những điều không nói ra. Tình yêu có thể là một bộ phim không lời trắng đen vẫn lãng mạn nhưng bây giờ đã không còn là thập niên năm nào, lâu lâu thử sến xíu xem sao."
+                },
+                {
+                "Name": "Nhân Mã",
+                "Image": "Zodiac8.png",
+                "Hang": "     Yêu xa có thể là thử thách hơi lớn với bạn. Tính tình Nhân Mã có hơi không ổn định, khi có tâm trạng lại càng giấu kín mà cảm thấy cô đơn hơn. Nếu bạn yêu một Mã Mã ở xa, hãy để tâm đến cậu ấy một chút. Bạn hãy hỏi những người xung quanh về Nhân Mã để hiểu hơn về cuộc sống của cậu ấy vì cậu ấy thường không thích kể kể chuyện mà."
+                },
+                {
+                "Name": "Ma Kết",
+                "Image": "Zodiac9.png",
+                "Hang": "     Có thể đảm bảo độ tin tưởng với một Ma Kết. Vấn đề không phải ở Ma Kết mà là ở người kia của cậu ấy. Liệu bạn có đủ kiên định, có đủ tin tưởng để không dằn vặt nhau bởi câu hay anh có ai khác, hay anh hết yêu em…? Ma Kết sẽ mất niềm tin với ai không đủ tin tưởng vào họ."
+                },
+                {
+                "Name": "Bảo Bình",
+                "Image": "Zodiac10.png",
+                "Hang": "     Người yêu của Bảo Bình sẽ ghen nhiều vì những tin đồn lăng quăng khi Bảo Bình có khá nhiều bạn. Tuy vậy, tình yêu xa của các bạn không trở nên nhàm chán vì Bảo Bình luôn có nhiều trò rất lạ, thú vị lắm."
+                },
+                {
+                "Name": "Song Ngư",
+                "Image": "Zodiac11.png",
+                "Hang": "     Có chút lãng mạn, có chút mơ màng… nhưng khi yêu xa, Song Ngư không thích kiểu mơ mộng như thế. Muốn nghe tiếng nói, muốn cái nắm tay… cậu ấy cần cái gì đó khá thiết thực."
+                }
+                ]
+     },
+     
+     {
+     "Title": "Nguyên tắc chọn bạn của 12 cung hoàng đạo",
+     "Image": "Zodiac9.png",
+     "Result": [
+                {
+                "Name": "Bạch Dương",
+                "Image": "Zodiac0.png",
+                "Hang": "     Bạch Dương không quá kén chọn bạn nhưng cậu ấy đề cao ấn tượng đầu tiên cũng như cách thức thể hiện, lối sống và ứng xử của bạn. Bạch Dương chọn bạn thân là những người đơn giản trong tính cách (it nhất là đối với cậu ấy), biết quan tâm và giúp đỡ nhau khi cần. Con người này ít khi duy trì mối quan hệ thân thiết với người lạnh lùng."
+                },
+                {
+                "Name": "Kim Ngưu",
+                "Image": "Zodiac1.png",
+                "Hang": "     Kim Ngưu dựa vào những điểm chung để bắt đầu một mối quan hệ và cậu ấy tuyệt đối không phải người kết bạn tùy tiện. Xấu hay đẹp, tốt hay không tốt không quan trọng bằng việc hiểu và có những quan điểm tương đồng nhau. Bạn thân của Kim Ngưu cũng thường là người chịu chấp nhận những nguyên tắc kết bạn nghiêm ngặt của Kim Ngưu và biết duy trì mối quan hệ."
+                },
+                {
+                "Name": "Song Tử",
+                "Image": "Zodiac2.png",
+                "Hang": "     Giao tiếp là con đường ngắn nhất để tiếp xúc và kết bạn với Song Tử. Tuyệt nhiên không phải người khắt khe, cậu ấy vẫn thích có nhiều bạn bè và chia sẻ rất thoáng. Bạn thân Song Tử phải là những người hiểu biết, chịu giao tiếp và tôn trọng con người nắng mưa hai mùa cùng tính cách có phần thiếu nhất quán như họ."
+                },
+                {
+                "Name": "Cự Giải",
+                "Image": "Zodiac3.png",
+                "Hang": "     Cự Giải ưa sự chân thật gần gũi và dùng đó làm thước đo của những mối quan hệ bạn bè. Họ đề cao tinh thần chia sẻ nhưng đồng thời cũng đòi hỏi tôn trọng riêng tư. Bạn thân của Cự Giải thường là người cho phép họ vượt qua bức tường riêng tư của bản thân mình mà không đòi hỏi Cự Giải sớm giải trình cõi lòng."
+                },
+                {
+                "Name": "Sư Tử",
+                "Image": "Zodiac4.png",
+                "Hang": "     Sư Tử ưu tiên hơn những mối quan hệ với người có tiếng tăm, ít nhất là trong môi trường bạn bè hay đồng nghiệp. Họ thích những bạn trai xinh gái đẹp và những người thân thiện. Sư Tử không quá nghiêm khắc trong việc kết bạn nhưng tối thiểu bạn thân phải là người chịu lắng nghe và có thể đồng tình với ý kiến của họ."
+                },
+                {
+                "Name": "Xử Nữ",
+                "Image": "Zodiac5.png",
+                "Hang": "     “Mê người đẹp, yêu người tài”, Xử Nữ thường ưu tiên chọn bạn bè là những người có phẩm chất ngoại hình và tư duy vượt trên mức bình thường một chút. Đó là một sự chọn lọc hay vì về lâu dài họ sẽ tránh được dấu hiệu bão hòa trong quan hệ bạn bè, nhưng cũng phải nhìn nhận lại rủi ro vì càng đẹp càng nguy hiểm mà. Bạn thân họ là người đạt được nhiều nét tương đồng trong quan điểm và cách sống."
+                },
+                {
+                "Name": "Thiên Bình",
+                "Image": "Zodiac6.png",
+                "Hang": "     Thiên Bình cũng như Xử Nữ, thích người đẹp yêu người tài song họ ít có xu hướng chọn lọc hơn bởi về ngoại giao họ không cầu kì và cầu toàn cho lắm. Miễn hợp tính là có thể chơi, hơn nữa giữa đám đông bạn bè Thiên Bình vẫn ngầm ấp ủ mong muốn là người nổi bật hơn cả. Bạn thân của họ thường là người tôn trọng và nhất quán mối quan hệ bạn bè, là người sáng suốt và quyết đoán, chịu khó quan tâm."
+                },
+                {
+                "Name": "Thần Nông",
+                "Image": "Zodiac7.png",
+                "Hang": "     Thần Nông ưa thích những người dễ hiểu, sống giản đơn và ít cần phải đấu trí với họ. Thứ nhất, họ không thích tốn tâm trí vào những người khó hiểu, khó đoán; Thứ hai, họ không thích tốn thời gian vào những người khó tính, khó chiều. Chung quy lại, họ chơi thân hơn với người giản dị, thật thà, bao hàm nhiều sự tương phản nhưng lòng dạ thoải mái, sẵn sàng chấp nhận nhau."
+                },
+                {
+                "Name": "Nhân Mã",
+                "Image": "Zodiac8.png",
+                "Hang": "     Có thể chơi với mỗi người một ít, tìm hiểu nhau một thời gian nhưng lại không chủ động đưa ra mối quan hệ bạn bè lắm. Nhân Mã thường chờ để nhận hơn là đưa ra lời đề nghị, vì họ nghĩ ai đó chấp nhận được mình sẽ làm bạn tốt hơn là chọn những người mình thích mà rồi không hiểu nhau. Bạn thân họ thường là người chủ động quan tâm và giúp họ vững tin nhiều điều."
+                },
+                {
+                "Name": "Ma Kết",
+                "Image": "Zodiac9.png",
+                "Hang": "     Ma Kết thường hướng đến chọn bạn bè là người tốt cho cuộc sống và sự nghiệp của họ, chỉ số ít là những kẻ bay bổng hoặc mơ hồ. Họ có nhiều bạn nhưng thường thì người khác chủ động giữ mối quan hệ, còn họ không hay làm kẻ đầu trò. Ma Kết khá coi trọng bạn bè, đôi khi bị kéo sa lầy mà không hay biết. Bạn thân họ thường là người có lòng dạ tốt, ít nhất là tốt với họ; ứng xử mềm dẻo và chủ động giữ gìn mối quan hệ."
+                },
+                {
+                "Name": "Bảo Bình",
+                "Image": "Zodiac10.png",
+                "Hang": "     Rất thoải mái trong việc kết bạn, hòa đồng giữa đám đông. Là người thú vị được nhiều người thích, Bảo Bình thường nhận lời kết bạn hơn là gửi lời kết bạn. Họ sẽ làm bạn cho đến khi bạn làm mất lòng tin của họ, chỉ đơn giản có vậy. Bạn thân họ tuyệt đối phải là người tôn trọng sự riêng tư và hệ tư tưởng của họ, nhân cách giản đơn ôn hòa, họ coi bạn thân cũng giống như anh chị em thân thiết và gìn giữ tình bạn đó trong lòng."
+                },
+                {
+                "Name": "Song Ngư",
+                "Image": "Zodiac11.png",
+                "Hang": "     Là kẻ ham mê cái đẹp, nghệ thuật và những sáng tạo diệu kì. Họ nhiệt tình và hồn nhiên, gây được ấn tượng với nhiều người nhưng lại làm bạn với số ít trong đó. Họ có thể chọn những người khác biệt, đặc biệt và cả cá biệt làm bạn. Những mối quan hệ nếu biết cách sẽ khiến nó hài hòa và tốt cho cả hai, có thể làm cả hai cùng tốt hơn, đặc biệt hơn. Bạn thân họ đơn giản sẽ là người có mặt lúc họ cần, sẵn sàng hết lòng vì nhau."
+                }
+                ]
+     },
+
+     
+     {
+     "Title": "Tình bạn 12 chòm sao",
+     "Image": "Zodiac11.png",
+     "Result": [
+                {
+                "Name": "Bạch Dương",
+                "Image": "Zodiac0.png",
+                "Hang": "     Bạch Dương giống như 1 cái bugi luôn tạo ra tình bạn lâu dài. Khi bạn cần phải thử một cái gì đó mới lạ hoặc muốn thoát khỏi tâm trạng bực bội, hãy gọi một người bạn Bạch Dương. Mặc dù không bao giờ nhàm chán nhưng hãy cẩn thận với tính khí nóng nảy của họ. Quý giá nhất trong tình bạn của Bạch Dương: sự can đảm."
+                },
+                {
+                "Name": "Kim Ngưu",
+                "Image": "Zodiac1.png",
+                "Hang": "     Đơn giản và ngọt ngào, Kim Ngưu là một người bạn tuyệt vời cho một bữa ăn ngon hoặc những chuyến thăm quan đến một nơi yêu thích trong thiên nhiên. Hãy liên lạc với họ sau một cuộc khủng hoảng hoặc khi bạn chỉ muốn thư giãn trong một vài giờ. Quý giá nhất trong tình bạn của Kim Ngưu: sự ổn định."
+                },
+                {
+                "Name": "Song Tử",
+                "Image": "Zodiac2.png",
+                "Hang": "     Nếu bạn là một người thích những hoạt động xã hội, bạn sẽ yêu mến người bạn Song Tử. Mặc dù luôn cảm thấy thoải mái nhất trong môi trường quen thuộc xung quanh nhưng Song Tử sẽ chỉ đi tới bất cứ nơi nào với một người bạn thật sự. của Quý giá nhất trong tình bạn của Song Tử: sự hiếu kỳ vô tư."
+                },
+                {
+                "Name": "Cự Giải",
+                "Image": "Zodiac3.png",
+                "Hang": "     Trung thành đến cuối cùng, một người bạn Cự Giải là một người rộng rãi, nhân từ, luôn sẵn sàng giúp đỡ người khác. Biết yêu thương, chăm sóc và tạo ra những bữa ăn tối ấm cúng, người bạn Cự Giải đôi khi hy vọng được phụ thuộc ngược lại. Người bạn Cự Giải tốt nhất sẽ giúp bạn bè của họ trưởng thành hơn. Quý giá nhất trong tình bạn của Cự Giải: sự cảm thông sâu sắc."
+                },
+                {
+                "Name": "Sư Tử",
+                "Image": "Zodiac4.png",
+                "Hang": "     Sư Tử có xu hướng lãng mạn hóa tất cả mọi thứ và muốn là trung tâm của sự chú ý. Tuy nhiên, Sư Tử có thể là một người bạn hào phóng và sáng tạo nếu Sư Tử biết rằng “các cư dân khác của khu rừng” có nhiều thứ để đóng góp hơn là trở thành khán giả của Sư Tử. Quý giá nhất trong tình bạn của Sư Tử: sự ấm áp."
+                },
+                {
+                "Name": "Xử Nữ",
+                "Image": "Zodiac5.png",
+                "Hang": "     Người bạn Xử Nữ thể hiện tình cảm quan tâm bằng cách giúp đỡ những người khác. Vì vậy, nếu bạn không biết cách mà người bạn Xử Nữ của bạn cảm nhận, và bạn thấy giá sách của bạn gọn gàng, nhà để xe của bạn sạch sẽ, xe của bạn được rửa sạch, bạn sẽ biết người bạn Xử Nữ của bạn quan tâm đến bạn như thế nào. Quý giá nhất trong tình bạn của Xử Nữ: trung thực, chu đáo."
+                },
+                {
+                "Name": "Thiên Bình",
+                "Image": "Zodiac6.png",
+                "Hang": "     Mặc dù Thiên Bình yêu sự lãng mạn nhưng các dấu hiệu của Thiên Bình là về quan hệ đối tác và cân đối cần thiết để duy trì tình bạn tốt. Người bạn Thiên Bình yêu sự hòa hợp và sẽ luôn cố gắng tránh sự mất bình tĩnh với một người bạn. Quý giá nhất trong tình bạn của Thiên Bình: sự hợp tác."
+                },
+                {
+                "Name": "Thần Nông",
+                "Image": "Zodiac7.png",
+                "Hang": "     Một Thiên Yết nồng nhiệt không hoàn toàn hiểu được tình bạn. Bởi vì Thiên Yết có thể rất đa nghi, đôi khi Thiên Yết sẽ để phép tính đố kỵ và sợ hãi của sự phản bội có được một tình bạn tốt. Tuy nhiên, một khi Thiên Yết đã hạ thấp sự cảnh giác thì đó là lòng trung thành tuyệt đối. Quý giá nhất trong tình bạn của Thiên Yết: sự nồng nhiệt, tận tâm."
+                },
+                {
+                "Name": "Nhân Mã",
+                "Image": "Zodiac8.png",
+                "Hang": "     Nhân Mã luôn yêu thích các hoạt động ngoài trời cũng như văn hóa kỳ lạ và du lịch, bạn sẽ cần phải có năng lượng cao và một tâm trí mở rộng để theo kịp với những người bạn Nhân Mã. Luôn là một chú hề khi bạn ngã, Nhân Mã có thể làm cho bạn cảm thấy bạn không bao giờ có vấn đề gì khó khăn. Quý giá nhất trong tình bạn của Nhân Mã: sự lạc quan."
+                },
+                {
+                "Name": "Ma Kết",
+                "Image": "Zodiac9.png",
+                "Hang": "     Ma Kết là một người bạn đáng tin cậy và thực tế để dựa vào. Mặc dù thỉnh thoảng bạn cần đưa Ma Kết thoát khỏi tâm trạng buồn nhưng bù lại bạn sẽ tìm thấy một người bạn đầy tham vọng, những người luôn biết làm thế nào để tạo nên các quy tắc của công tác xã hội hoặc lợi thế của riêng mình. Quý giá nhất trong tình bạn của Ma Kết: hướng bạn đến mục tiêu cụ thể."
+                },
+                {
+                "Name": "Bảo Bình",
+                "Image": "Zodiac10.png",
+                "Hang": "     Bạn biết cách làm thế nào để xem mọi người không chỉ là thành viên của gia đình hoặc nhóm làm việc, mà còn là cá nhân duy nhất có khả năng hình thành tình bạn với những người khác. Bảo Bình có thể dễ dàng tách rời khỏi những tình huống tình xúc động và làm những gì tốt nhất cho một người bạn, nhưng cần phải cẩn thận không để tách rời quá xa. Quý giá nhất trong tình bạn của Bảo Bình: cho phép bạn sự tự do để được là chính mình."
+                },
+                {
+                "Name": "Song Ngư",
+                "Image": "Zodiac11.png",
+                "Hang": "     Song Ngư là một người bạn thích chia sẻ những cảm xúc không thật khi tình bạn vẫn còn hời hợt. Đi bộ dọc bờ hồ, xem phim hoặc sáng tạo nghệ thuật là những hoạt động tuyệt vời để chia sẻ với một người bạn Song Ngư. Khi chia sẻ với một người bạn, không ai dễ động lòng trắc ẩn hơn một Song Ngư. Quý giá nhất trong tình bạn của Song Ngư: là một người biết lắng nghe."
+                }
+                ]
+     },
+     
+
+     {
+     "Title": "Khả năng làm việc của 12 cung hoàng đạo",
+     "Image": "Zodiac10.png",
+     "Result": [
+                {
+                "Name": "Bạch Dương",
+                "Image": "Zodiac0.png",
+                "Hang": "     Làm việc độc lập: Bạch Dương tương đối tự giác nhưng thiếu ổn định, dễ phân tâm dẫn đến việc mất nhiều thời gian.\n     Làm việc nhóm: Khả năng tương đối cao, xốc vác năng nổ và phát huy được tính trách nhiệm. Tuy nhiên, lúc chơi thì cũng ham chơi lắm."
+                },
+                {
+                "Name": "Kim Ngưu",
+                "Image": "Zodiac1.png",
+                "Hang": "     Làm việc độc lập: Khả năng không được bộc lộ hết, kỹ năng của Kim Ngưu ổn nhưng thiếu linh hoạt, khi sai không có người góp ý thì kết quả không được cao.\n     Làm việc nhóm: Vốn tính cần cù và chịu khó mà... hơi chậm. Kim Ngưu có khi dễ nổi nóng hoặc âm thầm bất bình."
+                },
+                {
+                "Name": "Song Tử",
+                "Image": "Zodiac2.png",
+                "Hang": "     Làm việc độc lập: Song Tử trời sinh vốn tính thông minh, nhanh nhẹn nên hiệu quả làm việc tương đối. Tuy vậy tính cách bộp chộp khiến cậu ấy khó nhận ra sơ suất.\n     Làm việc nhóm: Các Song Tử có tính cộng đồng cao, tiếp thu nhanh và hỗ trợ tốt cho các bạn cùng nhóm nên khi làm việc nhóm hiệu quả cũng rất ok. Tuy nhiên nếu có xung đột hay đấu tranh thì hiện trường cũng tan tành."
+                },
+                {
+                "Name": "Cự Giải",
+                "Image": "Zodiac3.png",
+                "Hang": "     Làm việc độc lập: Hiệu quả tốt hơn làm việc nhóm vì họ là những người làm việc tỉ mỉ, tính trước tính sau, nói chung trọn vẹn, khi hỏng thì có thời gian đầu tư làm lại.\n     Làm việc nhóm: Hiệu quả không cao vì khi làm theo số đông phải tôn trọng quy trình chung mà đôi khi Cự Giải chẳng khoái. Khi có gì sai hay thiếu sót thì các thành viên đóng góp ý kiến, tuy nhiên Cự giải lại thuộc mẫu người ít khi bộc lộ suy nghĩ cá nhân khá nhiều nên đóng góp không được nhiều."
+                },
+                {
+                "Name": "Sư Tử",
+                "Image": "Zodiac4.png",
+                "Hang": "     Làm việc độc lập: Hiệu quả ở mức khá chứ không tốt lắm. Sư Tử có tính tự giác, xốc vác, khả năng thực hành cao hơn lí thuyết. Nhưng lí thuyết của cậu ấy thường không vững, có sáng tạo nhưng chưa ưu việt.\n     Làm việc nhóm: Vẫn có những tư chất như làm việc độc lập nhưng đôi khi trong khi làm việc Sư Tử khá cố chấp với những ý kiến cá nhân, tiếp thu đóng góp không cao. Nếu nội bộ có phe đảo chính thì dễ chia bè quyết chiến."
+                },
+                {
+                "Name": "Xử Nữ",
+                "Image": "Zodiac5.png",
+                "Hang": "     Làm việc độc lập: Hiệu quả tốt hơn làm việc nhóm vì Xử Nữ có nhiều thế mạnh, vững lý thuyết, biết xoay chuyển, thay thế. Cái tính kĩ càng khiến cho thời gian chỉnh sửa và thay đổi của Xử Nữ nhiều hơn những người khác nên làm một mình thì vẫn hơn.\n     Làm việc nhóm: Mức độ hiệu quả chỉ ở loại khá. Năng lực của Xử Nữ khá tốt nhưng tư duy bất nhị, đôi khi muốn chỉ đạo làm theo ý mình hơn. Có một tính khá không ổn ở Xử Nữ là không vừa ý thì cũng im im. Khi bất đồng quan điển sẽ căng thẳng, khi đuối lý sẽ miễn cưỡng làm việc."
+                },
+                {
+                "Name": "Thiên Bình",
+                "Image": "Zodiac6.png",
+                "Hang": "     Làm việc độc lập: Khả năng không cao vì thú thực là Thiên Bình hơi lười, dễ qua loa, trước làm sau lại phá.\n     Làm việc nhóm: Hiệu suất cũng không cao lắm vẫn bởi tính hơi ẩu, có tinh thần trách nhiệm nhưng chậm chạp. Con người này giỏi nhất vẫn là chơi."
+                },
+                {
+                "Name": "Thần Nông",
+                "Image": "Zodiac7.png",
+                "Hang": "     Làm việc độc lập: Hiệu quả tương đối vì Thần Nông có phấn đấu và nỗ lực, nhưng thành quả thường mang dụng ý cá nhân, công dụng cộng đồng không cao.\n     Làm việc nhóm: Hiệu quả cao. Thần Nông biết dành thời gian lắng nghe quan điểm từ người khác, biết tôn trọng ý kiến mọi người và có ý thức. Nhưng chỉ dám dừng lại ở mức tròn việc chứ chưa dám táo bạo đi xa."
+                },
+                {
+                "Name": "Nhân Mã",
+                "Image": "Zodiac8.png",
+                "Hang": "     Làm việc độc lập: Hiệu quả không cao. Vốn Nhân Mã có năng lực độc lập tốt nhưng thi thoảng mải chơi và hơi chủ quan.\n     Làm việc nhóm: Phát huy tốt. Nhân Mã có động lực khẳng định bản thân, có nỗ lực ấn tượng. Tuy vậy, dao tuy tốt nhưng không kiên trì mài dũa cũng mau cùn... Nhân Mã dễ ỷ lại vào hoạt động hỗ trợ từ các thành viên khác, cũng có khi mau chán."
+                },
+                {
+                "Name": "Ma Kết",
+                "Image": "Zodiac9.png",
+                "Hang": "     Làm việc độc lập: Hiệu xuất khá cho đến tốt. Ma Kết có ý thức công việc cao, hành trang tốt, động lực tốt. Họ làm việc có suy tính cẩn thận, tầm nhìn xa.\n     Làm việc nhóm: Hiệu xuất cao. Ma Kết có thể cộng tác tốt với các thành viên, gánh vác được áp lược thời gian và công việc. Nền tảng kiến thức vững và có tinh thần trách nhiệm, nhưng làm việc còn mang tính độc lập tầm nhìn chưa bao quát được."
+                },
+                {
+                "Name": "Bảo Bình",
+                "Image": "Zodiac10.png",
+                "Hang": "     Làm việc độc lập: Hiệu quả khá. Bảo bình có khả năng tập trung phi thường, đừng đụng vào họ trong khi làm việc kẻo chết. Hiệu quả có thể ko trọn vẹn nhưng tính bất ngờ vô biên vì sự sáng tạo không ngừng nghỉ của Bảo Bảo.\n      Làm việc nhóm: Hiệu quả ở mức trung bình. Bảo Bình là chìa khóa cho những tình thế bế tắc dù ít nhiều có làm liều, đóng vai trò cũng trọng yếu trong nhóm. Tuy nhiên ham chơi và hay khuấy động."
+                },
+                {
+                "Name": "Song Ngư",
+                "Image": "Zodiac11.png",
+                "Hang": "     Làm việc độc lập: Hiệu quả ổn cho đến khá. Tuy nhiên, Song Ngư có độ quyết tâm cao bao nhiêu thì độ mau cùn cũng cao bây nhiêu. Tuy nhiên thế mạnh của Song Ngư là chăm thu thập cơ sở phục vụ quá trình.\n     Làm việc nhóm: Hiệu quả cao. Vốn tính năng động, có tính trách nhiệm và biết hỗ trợ, Song Ngư có thể linh hoạt trong nhiều tình thế nhưng khi bị khiêu khích có thể làm liều."
+                }
+                ]
+     },
+     
+     {
+     "Title": "Những điểm nhất của 12 cung hoàng đạo",
+     "Image": "Zodiac0.png",
+     "Result": [
+                {
+                "Name": "Bạch Dương",
+                "Image": "Zodiac0.png",
+                "Hang": "     Dễ bị hiểu nhất, không sợ bị chụp hình nhất, biện luận giỏi nhất, mùi vị nam tính nhất, tò mò nhất, thích kích thích nhất, không sợ phiền não nhất, dễ bất hòa với người khác vì 1 lời nói nhất, to gan nhất, chịu thú tội nhất, xung động nhất, sức khỏe nhất, chủ nghĩa đại nam nhân nhất, trong lúc khó khăn không bình tĩnh nhất, dũng cảm để thay đổi nhất, tích cực nhất, bất cẩn nhất, kiên cường nhất, tốt bụng nhất, xem trọng bằng hữu nhất."
+                },
+                {
+                "Name": "Kim Ngưu",
+                "Image": "Zodiac1.png",
+                "Hang": "     Không thích cờ bạc nhất, ăn nhiều nhất, động tác chậm nhất, sợ thay đổi nhất, bảo thủ nhất, yêu hòa bình nhất, có khí chất nghệ thuật nhất, chăm chỉ nhất, trì hoãn nhất, giữ trật tự nhất, chịu đựng giỏi nhất, thích nấu ăn nhất, dịu dàng nhất, truyền thống nhất, tận dụng thời gian nhất, yêu tiền nhất, cố chấp nhất, tiếng hát hay nhất, dễ xấu hổ nhất, sợ lãng phí nhất, thường nghiêm trọng hóa nhất, có nhân duyên lạ nhất, có đi có lại nhất, cũng có phần nữ tính nhất."
+                },
+                {
+                "Name": "Song Tử",
+                "Image": "Zodiac2.png",
+                "Hang": "     Có nhân duyên nhất, hòa nhã nhất, biết nắm lấy cơ hội nhất, không có nguyên tắc nhất, nhiều may mắn nhất, nhiều tưởng tượng nhất, lời nói trái với lòng nhất, có khả năng hôn nhân quốc tế nhất, dễ dàng phân tâm nhất, có ngôn ngữ cơ thể nhất, cầm lên được bỏ xuống được nhất, mâu thuẫn nhất, nhiều khả năng gả vào nhà hào môn nhất, nhiều nữ cường nhân nhất, tranh luận giỏi nhất, thất thường nhất, sẽ học được chí ít 2 ngôn ngữ nhất, thích kích thích nhất, nhiều tính cách nhất, cũng tự chế nhạo mình nhất."
+                },
+                {
+                "Name": "Cự Giải",
+                "Image": "Zodiac3.png",
+                "Hang": "     Tình cảm nhất, quan tâm nhất, yêu gia đình nhất, yêu hòa bình nhất, không có chủ kiến nhất, si tình nhất, dễ mắc cỡ nhất, có mùi vị tình nhân nhất, gan nhỏ nhất, thích phiền muộn nhất, ít nữ cường nhân nhất, dễ dàng cảm thấy mãn nguyện nhất, không có mưu mô nhất, dùng tâm nhiều nhất, biết tự đánh giá bản thân nhất, lo nghĩ cho gia đình nhất."
+                },
+                {
+                "Name": "Sư Tử",
+                "Image": "Zodiac4.png",
+                "Hang": "     thích náo nhiệt nhất, thích phát biểu nhất, chủ quan nhất, tự trọng nhất, giữ thời gian nhất, không thích dò xét nhất, thích chỉ huy người khác nhất, thích nói nghĩa khí nhất, thích tự luyến nhất, xung động nhất, không chịu thua nhất, thích bảo vệ nhất, không có bí mật nhất, lúc khó khăn không bình tĩnh nhất, táo bạo nhất, sợ cô đơn nhất, quang minh lỗi lạc nhất, dễ nhìn thấu nhất, thích trang phục màu sắc nhất, không có lòng kiên nhẫn nhất, tự tin nhất."
+                },
+                {
+                "Name": "Xử Nữ",
+                "Image": "Zodiac5.png",
+                "Hang": "     Thận trọng nhất, thuần khiết nhất, sẽ tự đánh giá bản thân nhất, mong cầu tri thức nhất, nói lời trái với lòng nhất, thực tế nhất, có quan niệm thời gian nhất, điều kiện lựa chọn cao nhất, có khả năng kết hôn muộn nhất, dễ dàng làm giàu nhất, dễ nhìn thấy sự thật nhất, dễ ghi hận nhất, xem trọng thi cử nhất, lý trí nhất, hùng biện nhất, cần nơi nương tựa nhất, thích sạch sẽ nhất, có nhân duyên lạ nhất, không có toan tính trong tình yêu nhất, nhiều điểm tốt nhất toàn vũ trụ, cô gái khó theo đuổi nhất, người vợ ưu tú trang nhã nhất, chủ nghĩa hoàn mỹ nhất (theo đuổi “hoàn mỹ” nhất)."
+                },
+                {
+                "Name": "Thiên Bình",
+                "Image": "Zodiac6.png",
+                "Hang": "     Tranh luận nhất, xa vời nhất, thích an nhàn không thích lao động nhất, khách quan nhất, công chính nhất, thích xem tivi nhất, yêu cái đẹp nhất, không chịu thua nhất, thích kết giao bạn bè nhất, thích do dự nhất, thích giả khờ nhất, xem trọng bề ngoài nhất, có xu hướng sùng bái nhất, thích nói điện thoại nhất, thích thời trang nhất, thích tự luyến nhất, thích nhiều anh đẹp trai chị đẹp gái nhất, hoang phí tiền nhất, có nhân duyên lạ nhất, thú vui theo đuổi tình ái nhất, không ghi hận nhất."
+                },
+                {
+                "Name": "Thần Nông",
+                "Image": "Zodiac7.png",
+                "Hang": "     Giữ bí mật nhất, làm theo chủ ý nhất, ghi hận trong lòng nhất, gợi cảm nhất, không tin vào bản chất con người nhất, có nhân duyên lạ nhất, nói lời trái với lòng nhất, nguy hiểm nhất, lo âu xa xôi nhất, sợ ồn ào nhất, chiếm hữu mạnh nhất, chủ nghĩa đại nam nhân nhất, dễ dàng mắc cỡ nhất, kiểm tra triệt để nhất, háo sắc nhất, lúc giận đáng sợ nhất, nhiều mỹ nữ nhất, có phán đoán nhất, tìm ra bí mật nhất, có sức hút nhất, thích hợp làm 007 nhất."
+                },
+                {
+                "Name": "Nhân Mã",
+                "Image": "Zodiac8.png",
+                "Hang": "     Không có lòng kiên trì nhất, thích kết giao bạn bè nhất, nảy sinh ra ý tưởng nhất, yêu hòa bình nhất, không thích dùng lực nhất, động tác nhanh nhất, nhiều anh đẹp trai nhất, dễ dàng kết giao bạn xấu nhất, thích sự kích thích nhất, dễ có bụng bia nhất, tổn thương người khác nhất, lạc quan nhất, vui vẻ nhất, thành thật nhất, không ăn mặc cẩu thả nhất, không ghi hận nhất, yêu chuộng bên ngoài nhất, sợ nhàm chán nhất, cầm lên được bỏ xuống được nhất, không có phiền não nhất, thích cười giỡn nhất."
+                },
+                {
+                "Name": "Ma Kết",
+                "Image": "Zodiac9.png",
+                "Hang": "     Không lãng mạn nhất, dễ làm giàu nhất, lý trí nhất, chăm chỉ nhất, sợ những thứ kinh nhất, có lòng thăng tiến nhất, suy nghĩ trước người khác nhất, chú ý tập trung cao nhất, làm theo chủ ý nhất, không biết nắm bắt cơ hội nhất, không chịu được những lời chỉ trích nhất, được nhờ cậy tín nhiệm nhất, xem trọng thi cử nhất, khi yêu dùng tình cảm nhất."
+                },
+                {
+                "Name": "Bảo Bình",
+                "Image": "Zodiac10.png",
+                "Hang": "     Không xem trọng tiền nhất, quái nhất, thích yêu một mình nhất, không có khái niệm về giới tính nhất, trì hoãn thời gian nhất, không xem trọng quy tắc nhất, thích ảo tưởng nhất, thích tán gẫu nhất, thích học hỏi bên ngoài nhất, cần không gian cho bản thân nhất, nảy sinh ra ý tưởng nhất, thích ngủ nhất, lười nhất, lý trí nhất, tự nhiên nhất, hành động theo cách riêng nhất, có khả năng thành “ngựa chiến” nhất, lúc khó khăn giữ bình tĩnh nhất, khó hiểu nhất, tự cường nhất."
+                },
+                {
+                "Name": "Song Ngư",
+                "Image": "Zodiac11.png",
+                "Hang": "     Mộng tưởng loạn lạc nhất, cảm giác chuẩn nhất, thích làm mặt hề nhất, lương thiện nhất, dịu dàng ngất, không có quan niệm tiền bạc nhất, có mùi vị phụ nữ nhất, nhớ kỷ niệm cũ nhất, có tinh thần hy sinh nhất, hiểu ý người khác nhất, ngây thơ nhất, thích khóc nhất, bộ nhớ tốt nhất, dễ bị lừa nhất, lãng mạn nhất, biện luận giỏi nhất, lạc quan nhất, thích nhàn nhã không thích làm việc nhất, có tinh thần phục vụ nhất, cùng tộc mèo thức đêm nhất"
+                }
+                ]
+     },
+     
+     {
+     "Title": "Lý do trốn học của 12 chòm sao",
+     "Image": "Zodiac1.png",
+     "Result": [
+                {
+                "Name": "Bạch Dương",
+                "Image": "Zodiac0.png",
+                "Hang": "     Em phải giúp đỡ cảnh sát bắt một tên trộm, chạy marathon mấy vòng liền mới bắt được tên đó, người mất đồ muốn trả ơn nên mời em đi ăn - lý do thấy việc bất bình ra tay tương trợ."
+                },
+                {
+                "Name": "Kim Ngưu",
+                "Image": "Zodiac1.png",
+                "Hang": "     Em mua bữa sáng, cùng người bán lại cò kè mặc cả, mãi mới mua được với giá hợp lí - lý do vì tính toán quá tỉ mỉ."
+                },
+                {
+                "Name": "Song Tử",
+                "Image": "Zodiac2.png",
+                "Hang": "     Bin Laden gọi điện thoại di động cho em, nói muốn mời em vào tổ tham mưu của họ, mà cục tình báo gửi tin ngắn yêu cầu em cung cấp tin tức của Bin Laden, em đang phải lựa chọn đây - lý do chưa quyết định sự việc."
+                },
+                {
+                "Name": "Cự Giải",
+                "Image": "Zodiac3.png",
+                "Hang": "     Hôm nay là sinh nhật em trai. Nó nói muốn ăn kem, em phải chạy đi mua mãi mới được, mặc dù trời mùa đông thế này - lý do vì quá yêu người nhà."
+                },
+                {
+                "Name": "Sư Tử",
+                "Image": "Zodiac4.png",
+                "Hang": "     Em đi đám cưới của chị họ, lại bị một tên nhãi con quấy rầy, hắc hắc, có sư tử em đây, ai dám can đảm ở trước mặt chứ. Vì vậy em ra tay đánh cho tên đó chạy thục mạng, các khách ở đó đều tán thưởng không ngớt - lý do vì quá tức giận."
+                },
+                {
+                "Name": "Xử Nữ",
+                "Image": "Zodiac5.png",
+                "Hang": "     Trên đường em gặp một người ăn mày, xin tiền em nên em dừng lại để cho. Mà ven đường nhiều bụi lắm, một người vứt rác ra đường, em khuyên họ nên vệ sinh một chút. Haizzz, ở thành phố ô nhiễm khí bụi lắm. Hôm nào em phải gặp chính phủ đề xuất ý kiến mới được - lý do vì quá yêu sạch sẽ.."
+                },
+                {
+                "Name": "Thiên Bình",
+                "Image": "Zodiac6.png",
+                "Hang": "     Lúc em đi nhờ xe thì trời mưa. Ô tô phóng qua bắn hết nước vào người em, ướt cả bộ quần áo, em phải quay về nhà thay rồi mới đi được - lý do vì quá chú trọng vẻ bề ngoài."
+                },
+                {
+                "Name": "Thần Nông",
+                "Image": "Zodiac7.png",
+                "Hang": "     Em phát hiện có một người khả nghi nên phải đi theo dõi, phát hiện tên đó chạy tới một góc bí mật, hoá ra là buôn thứ trái phép, em liền báo ngay cho cảnh sát, lập công lớn - lý do vì làm vẻ vang nước nhà."
+                },
+                {
+                "Name": "Nhân Mã",
+                "Image": "Zodiac8.png",
+                "Hang": "     Bạn gái cũ gọi điện nói muốn quay lại với em, cô bạn hàng xóm lại muốn mời em sang ăn sinh nhật, cô em kết nghĩa thì lại muốn em đưa đi mua đồ, ...thật phiền phức a! - lý do vì đường tình duyên quá may mắn."
+                },
+                {
+                "Name": "Ma Kết",
+                "Image": "Zodiac9.png",
+                "Hang": "     Em đi thực tập, bận bịu công việc quá, lại còn làm 2 nơi liền, sáng còn đi giám sát nhân viên, chiều mua đồ cho sếp, tối còn viết luận văn - lý do vì quá yêu công việc."
+                },
+                {
+                "Name": "Bảo Bình",
+                "Image": "Zodiac10.png",
+                "Hang": "     Mèo nhỏ nhà em bỏ trốn, em đi tìm, trên đường gặp một người tốt bụng giúp em, rốt cuộc cũng tìm được em mèo nhờ bói toán, nên em mới đi theo người đó để học cùng - lý do vì suy nghĩ kì lạ."
+                },
+                {
+                "Name": "Song Ngư",
+                "Image": "Zodiac11.png",
+                "Hang": "     Hôm qua em nằm mơ, có một bạn trai hôn em. Mà khuôn mặt này em nhớ rõ lắm, thành ra hôm sau em mới đợi cậu ấy ở cổng trưởng, chờ đi học qua sẽ gặp! Không thấy! Ngày mai lại tiếp tục - lý do vì quá mơ mộng."
+                }
+                ]
+     }
+     
+     
+    ]
+}

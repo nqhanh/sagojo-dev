@@ -1,0 +1,190 @@
+/*
+Name: Rounded Corners Light
+Class: tabber-widget-rounded-light
+
+Note: Rounded corners are not supported in Internet Explorer 6, 7, or 8.
+
+Notice: If the Class changes or the file is renamed, you must resave all widgets that use this template.
+*/
+
+/* Style Tabs */
+
+.tabber-widget-rounded-light {
+	color: #111;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+.tabber-widget-rounded-light ul.tabber-widget-tabs {
+	list-style-type: none;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+/*
+.tabber-widget-rounded-light ul.tabber-widget-tabs li {
+	float: left;
+	list-style-type: none !important;
+	/*padding: 0 !important;
+	margin: 0 !important;
+	border: none;
+    /*padding-top: 5px;
+    
+    border: 1px solid red;
+}
+
+*/
+
+.tabber-widget-rounded-light ul.tabber-widget-tabs li {
+    float: left;
+    list-style-type: none !important;
+    margin: 0 !important;
+    /*padding-top: 5px;*/
+	display:inline-block;
+}
+
+.tabber-widget-rounded-light ul.tabber-widget-tabs li:before {
+	content: "" !important;
+    
+}
+
+.tabber-widget-rounded-light ul.tabber-widget-tabs a:hover {
+	color: #F15A24;
+	/*background: #f9f9f9;
+	border-top:1px solid #f9f9f9;
+	border-left:1px solid #f9f9f9;
+	border-right:1px solid #f9f9f9;
+    /*border-radius: 5px 5px 0 0;
+	-moz-border-radius: 5px 5px 0px 0px;
+	-khtml-border-radius: 5px 5px 0px 0px;
+	-webkit-border-radius: 5px 5px 0px 0px;*/
+}
+
+.tabber-widget-rounded-light ul.tabber-widget-tabs a.selected, .tabber-widget-rounded-light ul.tabber-widget-tabs a.selected:hover {
+    background: none repeat scroll 0 0 #FFF;
+    border-color: #E5E5E5 #E5E5E5 #fff;
+    border-style: solid;
+    border-width: 1px;
+    color: #555555;
+    cursor: default;
+    margin-bottom: -1px;
+    padding-bottom: 6px;
+}
+.tabber-widget-rounded-light ul.tabber-widget-tabs a {
+    background: none repeat scroll 0 0 #E5E5E5;
+    border-left: 1px solid #E5E5E5;
+    border-right: 1px solid #E5E5E5;
+    border-top: 1px solid #E5E5E5;
+    /*color: #999999;*/
+    display: block;
+    margin: 1px 1px 1px 0;
+    padding: 5px 15px;
+    text-decoration: none !important;
+}
+
+.tabber-widget-rounded-light .tabber-widget-content {
+	padding: 10px 10px 8px 10px;
+	margin: 0;
+	clear: both;
+	background: #FFF;
+    border:1px solid #e5e5e5;
+}
+
+/* Style Content */
+
+.tabber-widget-rounded-light .tabber-widget-content {
+	text-align: left;
+    overflow: hidden;
+}
+.tabber-widget-rounded-light .tabber-widget-content .tabber-widget-title {
+	margin-top: 2px;
+	background:#000;
+	padding:8px;
+}
+
+.tabber-widget-rounded-light .tabber-widget-content .tabber-widget-title {
+    background-color: #FFFFFF;
+    border: 1px solid #E2E2E2;
+    padding: 5px;
+    position: relative;
+}
+
+
+.tabber-widget-rounded-light .tabber-widget-content .tabber-widget-title:before {
+	content:"";
+	position: absolute;
+	bottom:-8px; /* value = - border-top-width - border-bottom-width */
+	left:24px; /* controls horizontal position */
+    border-width:8px 8px 0;
+	border-style:solid;
+    border-color:#e2e2e2 transparent; 
+    width:0;
+	display: block;
+	z-index: 1;
+}
+
+/* creates the smaller  triangle */
+.tabber-widget-rounded-light .tabber-widget-content .tabber-widget-title:after {
+	content:"";
+	position: absolute;
+	bottom:-7px; /* value = - border-top-width - border-bottom-width */
+	left:25px; /* value = (:before left) + (:before border-left) - (:after border-left) */
+	border-width:7px 7px 0;
+	border-style:solid;
+	border-color:#fff transparent;
+    /* reduce the damage in FF3.0 */
+    display:block; 
+    width:0;
+	z-index: 1;
+}
+
+
+#wpjb_widget_featured li {
+    /*border: 1px solid red;*/
+    padding-bottom: 4px;
+    padding-top: 0;
+    /*position: relative;*/
+    /*border-bottom: 1px dotted #e5e5e5 ;
+	border-right:5px solid #f9f9f9;*/
+}
+
+
+
+#wpjb_widget_featured li a.wbjp_hover_link {
+    /*border: 1px solid green;*/
+    padding-bottom: 8%;
+    padding-right: 96%;
+    position: absolute;
+
+}
+
+#wpjb_widget_featured li:hover,#wpjb_widget_featured li:active {
+    /*border: 1px solid green;
+    padding-bottom: 26%;
+    padding-right: 96%;
+    position: absolute;
+    border-radius: 3px;*/
+    /*background-color:#fff;  */    
+    
+}
+
+/*#wpjb_widget_featured li:hover{
+    background-color:#e5e5e5;
+}
+
+
+/*#wpjb_widget_featured ol li:hover .job_id{
+    
+    background-color:#e5e5e5;
+    
+    border: 1px solid red;
+    padding-right: 100%;
+    
+     
+    }*/
+
+
+
+#wpjb_widget_categories ol li{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    
+}

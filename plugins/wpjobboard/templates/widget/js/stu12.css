@@ -1,0 +1,405 @@
+/* ================================================================ 
+Copyright (c) 2011 Stu Nicholls - stunicholls.com. All rights reserved.
+This stylsheet and the associated html may be modified in any 
+way to fit your requirements.
+=================================================================== */
+ul.iStu12 {list-style:none; margin:0 auto; position:relative; padding:0;/*padding:0 42px 31px 42px;*/ width:0;}
+
+ul.iStu12 li.bottomBar {border-top:3px solid #678; margin:0 42px; position:absolute; bottom:0;}
+ul.iStu12 li.prev {position:absolute; width:42px; height:150px; background:url(previous-page-off.png) no-repeat; margin-left: -21px;
+top: 25%; z-index:100; cursor:pointer;}
+/*ul.iStu12 li.prev:hover {background:url(previous-page-onn.png) no-repeat;}*/
+* html ul.iStu12 li.prev {background:none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='stu12/left.png', sizingMethod='scale');} /* for IE6 */
+
+ul.iStu12 li.next {position:absolute; width:42px; height:150px; background:url(next-page-off.png) no-repeat; right:0; margin-right: -21px;
+top: 25%; z-index:100; cursor:pointer;}
+/*ul.iStu12 li.next:hover {background:url(next-page-onn.png) no-repeat;}*/
+* html ul.iStu12 li.next {background:none; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='stu12/right.png', sizingMethod='scale');} /* for IE6 */
+
+ul.iStu12 li.images {position:absolute; /*left:42px;*/ top:0; overflow:hidden; z-index:50; /*border:3px solid #09c; border-width:3px 0;
+-o-box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+-ms-box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+-moz-box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+-webkit-box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);
+box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.2);*/
+}
+ul.iStu12 li.images div.slide {position:absolute; left:0; top:0;}
+ul.iStu12 li.caption {position:absolute; bottom:0; width:100%; text-align:center; left:0;}
+* html ul.iStu12 li.caption {margin:0 42px;} /* for IE6 */
+ul.iStu12 li.caption b {display:inline-block; padding:0 5px; margin-right:2px; font:normal 11px/25px arial, sans-serif; color:#fff; cursor:pointer;
+-o-box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
+-ms-box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
+-moz-box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
+-webkit-box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
+box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5);
+-o-border-radius: 0 0 5px 5px;
+-ms-border-radius: 0 0 5px 5px;
+-moz-border-radius: 0 0 5px 5px;
+-webkit-border-radius: 0 0 5px 5px;
+border-radius: 0 0 5px 5px;
+}
+
+ul.iStu12 li.images div.slide div.slidePanel {display:block; float:left;}
+ul.iStu12 li.images div.slide div.innerPanel {padding:0px;border: 1px solid #e2e2e2;}
+ul.iStu12 li.images div.slide div.innerPanel image {display:block;}
+
+ul.iStu12 li.images div.slide div.panel1 {width:480px;}
+ul.iStu12 li.images div.slide div.panel2 {width:400px;}
+ul.iStu12 li.images div.slide div.panel3 {width:308px;}
+ul.iStu12 li.images div.slide div.panel4 {width:380px;}
+ul.iStu12 li.images div.slide div.panel5 {width:auto;}
+ul.iStu12 li.images div.slide div.panel6 {width:550px;}
+
+ul.iStu12 p {padding:5px 0; margin:0; font: normal 15px/24px georgia, serif; color:#666;}
+ul.iStu12 blockquote {padding:0 0 20px 0; margin:0; font:italic normal 18px/25px georgia, serif; color:#262;}
+
+ul.iStu12 li.images div.slide div.panel1 img {float:left; padding-right:20px;}
+ul.iStu12 li.images div.slide div.panel1 h1 {padding:0; margin:0; font: bold 30px/30px georgia, serif; color:#622;}
+ul.iStu12 li.images div.slide div.panel1 h2 {clear:left; padding:0 0 10px 0; margin:0; font: bold 16px/30px georgia, serif; color:#444;}
+ul.iStu12 li.images div.slide div.panel3 p {color:#888;}
+ul.iStu12 li.images div.slide div.panel5 p {color:#888; text-align:right;}
+ul.iStu12 li.images div.slide div.panel6 img {float:left; padding-right:20px;}
+
+.job-ads {padding: 0px;background-color: #FFF;}
+.job-ads .innerPanel{padding: 0px;border: 1px solid #e2e2e2;}
+
+
+.ad-hinh-1  {
+			width: 306px;
+			height: 100%;
+			display: block;			
+			background: url(featured-1.jpg) no-repeat;		
+			top: 1px;	
+		}
+.ad-content-1{padding: 40px 5px 0;min-height: 300px;}
+.ad-title-1{text-transform: uppercase;width: 60%;border-bottom: 1px solid #f15a24;padding: 20px 0px;}
+.ad-location-1{padding:10px 0px;width: 60%;}
+.ad-salary-1{color:#f15a24;text-transform: uppercase;font-weight: 600;padding:10px 0px;}
+.ad-date-1{padding:10px 0px 15px;/*position: absolute;bottom: 0;*/}
+.job_id-1{
+	font-weight: 700;
+	color:#f15a24;
+}
+.job_id-1:hover{
+	color:#738FE6;
+}
+#widgets span.jobtype-1 {
+	/*margin-left: 85px;*/
+	background: none repeat scroll 0 0 #F15A24;
+	color: #FFFFFF;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 15px;
+	transition: background 0.2s linear 0s;
+	line-height: 20px;
+	padding: 5px 20px;
+	text-decoration: none;
+	vertical-align: middle;
+	white-space: nowrap;
+	float:right;
+}
+.ad-hinh-2  {
+			width: 306px;
+			height: 100%;
+			display: block;			
+			background: url(featured-2.jpg) no-repeat;
+			top: 1px;	
+		}
+.ad-content-2{padding: 203px 5px 0;}
+.ad-title-2{text-transform: uppercase;border-bottom: 1px solid #738FE6;}
+.ad-location-2{padding:10px 0px;}
+.ad-salary-2{color:#738FE6;text-transform: uppercase;font-weight: 600;}
+.ad-date-2{padding:10px 0px 15px;}
+.job_id-2{
+	font-weight: 700;
+	color:#738FE6;
+}
+.job_id-2:hover{
+	color:#f15a24;
+}
+#widgets span.jobtype-2 {
+	background: none repeat scroll 0 0 #738FE6;
+	color: #FFFFFF;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 15px;
+	transition: background 0.2s linear 0s;
+	line-height: 20px;
+	padding: 5px 20px;
+	text-decoration: none;
+	vertical-align: middle;
+	white-space: nowrap;
+	float:right;
+}
+.ad-hinh-3  {
+			width: 306px;
+			height: 100%;
+			display: block;			
+			background: url(featured-3.jpg) no-repeat;
+			top: 1px;	
+		}
+.ad-content-3{padding: 203px 5px 0;}
+.ad-title-3{text-transform: uppercase;border-bottom: 1px solid #0066cc;}
+.ad-location-3{padding:10px 0px;}
+.ad-salary-3{color:#0066cc;text-transform: uppercase;font-weight: 600;}
+.ad-date-3{padding:10px 0px 15px;}
+.job_id-3{
+	font-weight: 700;
+	color:#0066cc;
+}
+.job_id-3:hover{
+	color:#f15a24;
+}
+#widgets span.jobtype-3 {
+	background: none repeat scroll 0 0 #0066cc;
+	color: #FFFFFF;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 15px;
+	transition: background 0.2s linear 0s;
+	line-height: 20px;
+	padding: 5px 20px;
+	text-decoration: none;
+	vertical-align: middle;
+	white-space: nowrap;
+	float:right;
+}
+.ad-hinh-4  {
+			width: 306px;
+			height: 100%;
+			display: block;			
+			background: url(featured-4.jpg) no-repeat #0066cc;		
+			top: 1px;	
+		}
+.ad-content-4{padding: 40px 5px 0;min-height: 300px;}
+.ad-title-4{text-transform: uppercase;width: 60%;border-bottom: 1px solid #0066cc;padding: 20px 0px;}
+.ad-title-4 a{color:#0066cc;background-color:#fff;}
+.ad-location-4{padding:10px 0px;width: 60%;}
+.ad-salary-4{color:#0066cc;text-transform: uppercase;font-weight: 600;padding:10px 0px;}
+.ad-date-4{padding:10px 0px 15px;color: #f15a24;/*position: absolute;bottom: 0;*/}
+.job_id-4{
+	font-weight: 700;
+	color:#333;
+}
+.job_id-4:hover{
+	color:#555;
+}
+#widgets span.jobtype-4 {
+	/*margin-left: 85px;*/
+	background: none repeat scroll 0 0 #0066cc;
+	color: #FFFFFF;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 15px;
+	transition: background 0.2s linear 0s;
+	line-height: 20px;
+	padding: 5px 20px;
+	text-decoration: none;
+	vertical-align: middle;
+	white-space: nowrap;
+	float:right;
+	border: 1px solid #FFF;
+}
+.ad-hinh-5  {
+			width: 306px;
+			height: 100%;
+			display: block;			
+			background: url(featured-5.jpg) no-repeat;
+			top: 1px;	
+		}
+.ad-content-5{padding: 203px 5px 0;}
+.ad-title-5{text-transform: uppercase;border-bottom: 1px solid #5e514b;}
+.ad-location-5{padding:10px 0px;}
+.ad-salary-5{color:#5e514b;text-transform: uppercase;font-weight: 600;}
+.ad-date-5{padding:10px 0px 15px;}
+.job_id-5{
+	font-weight: 700;
+	color:#5e514b;
+}
+.job_id-5:hover{
+	color:#f15a24;
+}
+#widgets span.jobtype-5 {
+	background: none repeat scroll 0 0 #5e514b;
+	color: #FFFFFF;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 15px;
+	transition: background 0.2s linear 0s;
+	line-height: 20px;
+	padding: 5px 20px;
+	text-decoration: none;
+	vertical-align: middle;
+	white-space: nowrap;
+	float:right;
+}
+.ad-hinh-6  {
+			width: 306px;
+			height: 100%;
+			display: block;			
+			background: url(featured-6.jpg) no-repeat;
+			top: 1px;	
+		}
+.ad-content-6{padding: 203px 5px 0;}
+.ad-title-6{text-transform: uppercase;border-bottom: 1px solid #61342d;}
+.ad-location-6{padding:10px 0px;}
+.ad-salary-6{color:#61342d;text-transform: uppercase;font-weight: 600;}
+.ad-date-6{padding:10px 0px 15px;}
+.job_id-6{
+	font-weight: 700;
+	color:#61342d;
+}
+.job_id-6:hover{
+	color:#f15a24;
+}
+#widgets span.jobtype-6 {
+	background: none repeat scroll 0 0 #61342d;
+	color: #FFFFFF;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 15px;
+	transition: background 0.2s linear 0s;
+	line-height: 20px;
+	padding: 5px 20px;
+	text-decoration: none;
+	vertical-align: middle;
+	white-space: nowrap;
+	float:right;
+}
+.ad-hinh-7  {
+			width: 306px;
+			height: 100%;
+			display: block;			
+			background: url(featured-7.jpg) no-repeat;		
+			top: 1px;	
+		}
+.ad-content-7{padding: 40px 5px 0;min-height: 300px;}
+.ad-title-7{text-transform: uppercase;width: 60%;border-bottom: 1px solid #065550;padding: 20px 0px;}
+.ad-title-7 a{color:#065550;}
+.ad-location-7{padding:10px 0px;width: 60%;}
+.ad-salary-7{color:#065550;text-transform: uppercase;font-weight: 600;padding:10px 0px;}
+.ad-date-7{padding:10px 0px 15px;/*position: absolute;bottom: 0;*/}
+.job_id-7{
+	font-weight: 700;
+	color:#333;
+}
+.job_id-7:hover{
+	color:#555;
+}
+#widgets span.jobtype-7 {
+	/*margin-left: 85px;*/
+	background: none repeat scroll 0 0 #065550;
+	color: #FFFFFF;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 15px;
+	transition: background 0.2s linear 0s;
+	line-height: 20px;
+	padding: 5px 20px;
+	text-decoration: none;
+	vertical-align: middle;
+	white-space: nowrap;
+	float:right;
+}
+.ad-hinh-8  {
+			width: 306px;
+			height: 100%;
+			display: block;			
+			background: url(featured-8.jpg) no-repeat;
+			top: 1px;	
+		}
+.ad-content-8{padding: 203px 5px 0;}
+.ad-title-8{text-transform: uppercase;border-bottom: 1px solid #625336;}
+.ad-location-8{padding:10px 0px;}
+.ad-salary-8{color:#625336;text-transform: uppercase;font-weight: 600;}
+.ad-date-8{padding:10px 0px 15px;}
+.job_id-8{
+	font-weight: 700;
+	color:#625336;
+}
+.job_id-8:hover{
+	color:#f15a24;
+}
+#widgets span.jobtype-8 {
+	background: none repeat scroll 0 0 #625336;
+	color: #FFFFFF;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 15px;
+	transition: background 0.2s linear 0s;
+	line-height: 20px;
+	padding: 5px 20px;
+	text-decoration: none;
+	vertical-align: middle;
+	white-space: nowrap;
+	float:right;
+}
+.ad-hinh-9  {
+			width: 306px;
+			height: 100%;
+			display: block;			
+			background: url(featured-9.jpg) no-repeat;
+			top: 1px;	
+		}
+.ad-content-9{padding: 203px 5px 0;}
+.ad-title-9{text-transform: uppercase;border-bottom: 1px solid #1c1c1a;}
+.ad-location-9{padding:10px 0px;}
+.ad-salary-9{color:#1c1c1a;text-transform: uppercase;font-weight: 600;}
+.ad-date-9{padding:10px 0px 15px;}
+.job_id-9{
+	font-weight: 700;
+	color:#1c1c1a;
+}
+.job_id-9:hover{
+	color:#f15a24;
+}
+#widgets span.jobtype-9 {
+	background: none repeat scroll 0 0 #1c1c1a;
+	color: #FFFFFF;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 15px;
+	transition: background 0.2s linear 0s;
+	line-height: 20px;
+	padding: 5px 20px;
+	text-decoration: none;
+	vertical-align: middle;
+	white-space: nowrap;
+	float:right;
+}
+.ad-hinh-10  {
+			width: 306px;
+			height: 100%;
+			display: block;			
+			background: url(featured-10.jpg) no-repeat #0066cc;		
+			top: 1px;	
+		}
+.ad-content-10{padding: 40px 5px 0;min-height: 300px;}
+.ad-title-10{text-transform: uppercase;width: 60%;border-bottom: 1px solid #0066cc;padding: 20px 0px;}
+.ad-title-10 a{color:#0066cc;}
+.ad-location-10{padding:10px 0px;width: 60%;}
+.ad-salary-10{color:#F15A24;text-transform: uppercase;font-weight: 600;padding:10px 0px;}
+.ad-date-10{padding:10px 0px 15px;color: #f15a24;/*position: absolute;bottom: 0;*/}
+.job_id-10{
+	font-weight: 700;
+	color:#333;
+}
+.job_id-10:hover{
+	color:#555;
+}
+#widgets span.jobtype-10 {
+	/*margin-left: 85px;*/
+	background: none repeat scroll 0 0 #0066cc;
+	color: #FFFFFF;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 15px;
+	transition: background 0.2s linear 0s;
+	line-height: 20px;
+	padding: 5px 20px;
+	text-decoration: none;
+	vertical-align: middle;
+	white-space: nowrap;
+	float:right;
+	border: 1px solid #FFF;
+}

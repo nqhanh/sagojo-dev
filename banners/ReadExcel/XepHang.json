@@ -1,0 +1,1324 @@
+{
+    "XepHang" :[
+     {
+     "Title": "Tính Trẻ Con Của 12 Cung Hoàng Đạo",
+     "Image": "Zodiac0.png",
+     "Result": [
+                {
+                "Name": "Bạch Dương",
+                "Image": "Zodiac0.png",
+                "Hang": "Hạng 9"
+                },
+                {
+                "Name": "Kim Ngưu",
+                "Image": "Zodiac1.png",
+                "Hang": "Hạng 6"
+                },
+                {
+                "Name": "Song Tử",
+                "Image": "Zodiac2.png",
+                "Hang": "Hạng 3"
+                },
+                {
+                "Name": "Cự Giải",
+                "Image": "Zodiac3.png",
+                "Hang": "Hạng 11"
+                },
+                {
+                "Name": "Sư Tử",
+                "Image": "Zodiac4.png",
+                "Hang": "Hạng 12"
+                },
+                {
+                "Name": "Xử Nữ",
+                "Image": "Zodiac5.png",
+                "Hang": "Hạng 10"
+                },
+                {
+                "Name": "Thiên Bình",
+                "Image": "Zodiac6.png",
+                "Hang": "Hạng 2"
+                },
+                {
+                "Name": "Thần Nông",
+                "Image": "Zodiac7.png",
+                "Hang": "Hạng 7"
+                },
+                {
+                "Name": "Nhân Mã",
+                "Image": "Zodiac8.png",
+                "Hang": "Hạng 4"
+                },
+                {
+                "Name": "Ma Kết",
+                "Image": "Zodiac9.png",
+                "Hang": "Hạng 1"
+                },
+                {
+                "Name": "Bảo Bình",
+                "Image": "Zodiac10.png",
+                "Hang": "Hạng 8"
+                },
+                {
+                "Name": "Song Ngư",
+                "Image": "Zodiac11.png",
+                "Hang": "Hạng 5"
+                }
+                ]
+     },
+     {
+     "Title": "Cung Hoàng Đạo Thù Lâu Nhớ Dai",
+     "Image": "Zodiac1.png",
+     "Result": [
+                {
+                "Name": "Bạch Dương",
+                "Image": "Zodiac0.png",
+                "Hang": "Hạng 12"
+                },
+                {
+                "Name": "Kim Ngưu",
+                "Image": "Zodiac1.png",
+                "Hang": "Hạng 9"
+                },
+                {
+                "Name": "Song Tử",
+                "Image": "Zodiac2.png",
+                "Hang": "Hạng 11"
+                },
+                {
+                "Name": "Cự Giải",
+                "Image": "Zodiac3.png",
+                "Hang": "Hạng 4"
+                },
+                {
+                "Name": "Sư Tử",
+                "Image": "Zodiac4.png",
+                "Hang": "Hạng 7"
+                },
+                {
+                "Name": "Xử Nữ",
+                "Image": "Zodiac5.png",
+                "Hang": "Hạng 3"
+                },
+                {
+                "Name": "Thiên Bình",
+                "Image": "Zodiac6.png",
+                "Hang": "Hạng 10"
+                },
+                {
+                "Name": "Thần Nông",
+                "Image": "Zodiac7.png",
+                "Hang": "Hạng 1"
+                },
+                {
+                "Name": "Nhân Mã",
+                "Image": "Zodiac8.png",
+                "Hang": "Hạng 8"
+                },
+                {
+                "Name": "Ma Kết",
+                "Image": "Zodiac9.png",
+                "Hang": "Hạng 2"
+                },
+                {
+                "Name": "Bảo Bình",
+                "Image": "Zodiac10.png",
+                "Hang": "Hạng 5"
+                },
+                {
+                "Name": "Song Ngư",
+                "Image": "Zodiac11.png",
+                "Hang": "Hạng 6"
+                }
+                ]
+     },
+                {
+                "Title": "♥ Ai có vẻ đẹp tâm hồn ? ♥",
+                "Image": "Zodiac2.png",
+                "Result": [
+                           {
+                           "Name": "Bạch Dương",
+                           "Image": "Zodiac0.png",
+                           "Hang": "Hạng 12"
+                           },
+                           {
+                           "Name": "Kim Ngưu",
+                           "Image": "Zodiac1.png",
+                           "Hang": "Hạng 10"
+                           },
+                           {
+                           "Name": "Song Tử",
+                           "Image": "Zodiac2.png",
+                           "Hang": "Hạng 11"
+                           },
+                           {
+                           "Name": "Cự Giải",
+                           "Image": "Zodiac3.png",
+                           "Hang": "Hạng 1"
+                           },
+                           {
+                           "Name": "Sư Tử",
+                           "Image": "Zodiac4.png",
+                           "Hang": "Hạng 5"
+                           },
+                           {
+                           "Name": "Xử Nữ",
+                           "Image": "Zodiac5.png",
+                           "Hang": "Hạng 2"
+                           },
+                           {
+                           "Name": "Thiên Bình",
+                           "Image": "Zodiac6.png",
+                           "Hang": "Hạng 6"
+                           },
+                           {
+                           "Name": "Thần Nông",
+                           "Image": "Zodiac7.png",
+                           "Hang": "Hạng 8"
+                           },
+                           {
+                           "Name": "Nhân Mã",
+                           "Image": "Zodiac8.png",
+                           "Hang": "Hạng 3"
+                           },
+                           {
+                           "Name": "Ma Kết",
+                           "Image": "Zodiac9.png",
+                           "Hang": "Hạng 4"
+                           },
+                           {
+                           "Name": "Bảo Bình",
+                           "Image": "Zodiac10.png",
+                           "Hang": "Hạng 9"
+                           },
+                           {
+                           "Name": "Song Ngư",
+                           "Image": "Zodiac11.png",
+                           "Hang": "Hạng 7"
+                           }
+                           ]
+                },
+                {
+                "Title": "Độ Phong Lưu Ham Chơi",
+                "Image": "Zodiac3.png",
+                "Result": [
+                           {
+                           "Name": "Bạch Dương",
+                           "Image": "Zodiac0.png",
+                           "Hang": "Hạng 5"
+                           },
+                           {
+                           "Name": "Kim Ngưu",
+                           "Image": "Zodiac1.png",
+                           "Hang": "Hạng 11"
+                           },
+                           {
+                           "Name": "Song Tử",
+                           "Image": "Zodiac2.png",
+                           "Hang": "Hạng 2"
+                           },
+                           {
+                           "Name": "Cự Giải",
+                           "Image": "Zodiac3.png",
+                           "Hang": "Hạng 7"
+                           },
+                           {
+                           "Name": "Sư Tử",
+                           "Image": "Zodiac4.png",
+                           "Hang": "Hạng 8"
+                           },
+                           {
+                           "Name": "Xử Nữ",
+                           "Image": "Zodiac5.png",
+                           "Hang": "Hạng 10"
+                           },
+                           {
+                           "Name": "Thiên Bình",
+                           "Image": "Zodiac6.png",
+                           "Hang": "Hạng 3"
+                           },
+                           {
+                           "Name": "Thần Nông",
+                           "Image": "Zodiac7.png",
+                           "Hang": "Hạng 9"
+                           },
+                           {
+                           "Name": "Nhân Mã",
+                           "Image": "Zodiac8.png",
+                           "Hang": "Hạng 1"
+                           },
+                           {
+                           "Name": "Ma Kết",
+                           "Image": "Zodiac9.png",
+                           "Hang": "Hạng 12"
+                           },
+                           {
+                           "Name": "Bảo Bình",
+                           "Image": "Zodiac10.png",
+                           "Hang": "Hạng 4"
+                           },
+                           {
+                           "Name": "Song Ngư",
+                           "Image": "Zodiac11.png",
+                           "Hang": "Hạng 6"
+                           }
+                           ]
+                },
+                {
+                "Title": "♥ Ai rất giỏi chịu đựng uất ức ♥",
+                "Image": "Zodiac4.png",
+                "Result": [
+                           {
+                           "Name": "Bạch Dương",
+                           "Image": "Zodiac0.png",
+                           "Hang": "Hạng 8"
+                           },
+                           {
+                           "Name": "Kim Ngưu",
+                           "Image": "Zodiac1.png",
+                           "Hang": "Hạng 11"
+                           },
+                           {
+                           "Name": "Song Tử",
+                           "Image": "Zodiac2.png",
+                           "Hang": "Hạng 5"
+                           },
+                           {
+                           "Name": "Cự Giải",
+                           "Image": "Zodiac3.png",
+                           "Hang": "Hạng 3"
+                           },
+                           {
+                           "Name": "Sư Tử",
+                           "Image": "Zodiac4.png",
+                           "Hang": "Hạng 10"
+                           },
+                           {
+                           "Name": "Xử Nữ",
+                           "Image": "Zodiac5.png",
+                           "Hang": "Hạng 9"
+                           },
+                           {
+                           "Name": "Thiên Bình",
+                           "Image": "Zodiac6.png",
+                           "Hang": "Hạng 1"
+                           },
+                           {
+                           "Name": "Thần Nông",
+                           "Image": "Zodiac7.png",
+                           "Hang": "Hạng 12"
+                           },
+                           {
+                           "Name": "Nhân Mã",
+                           "Image": "Zodiac8.png",
+                           "Hang": "Hạng 7"
+                           },
+                           {
+                           "Name": "Ma Kết",
+                           "Image": "Zodiac9.png",
+                           "Hang": "Hạng 4"
+                           },
+                           {
+                           "Name": "Bảo Bình",
+                           "Image": "Zodiac10.png",
+                           "Hang": "Hạng 6"
+                           },
+                           {
+                           "Name": "Song Ngư",
+                           "Image": "Zodiac11.png",
+                           "Hang": "Hạng 2"
+                           }
+                           ]
+                },
+                {
+                "Title": "12 cung hoàng đạo mê đọc sách nhất",
+                "Image": "Zodiac5.png",
+                "Result": [
+                           {
+                           "Name": "Bạch Dương",
+                           "Image": "Zodiac0.png",
+                           "Hang": "Hạng 11"
+                           },
+                           {
+                           "Name": "Kim Ngưu",
+                           "Image": "Zodiac1.png",
+                           "Hang": "Hạng 12"
+                           },
+                           {
+                           "Name": "Song Tử",
+                           "Image": "Zodiac2.png",
+                           "Hang": "Hạng 1"
+                           },
+                           {
+                           "Name": "Cự Giải",
+                           "Image": "Zodiac3.png",
+                           "Hang": "Hạng 5"
+                           },
+                           {
+                           "Name": "Sư Tử",
+                           "Image": "Zodiac4.png",
+                           "Hang": "Hạng 4"
+                           },
+                           {
+                           "Name": "Xử Nữ",
+                           "Image": "Zodiac5.png",
+                           "Hang": "Hạng 6"
+                           },
+                           {
+                           "Name": "Thiên Bình",
+                           "Image": "Zodiac6.png",
+                           "Hang": "Hạng 9"
+                           },
+                           {
+                           "Name": "Thần Nông",
+                           "Image": "Zodiac7.png",
+                           "Hang": "Hạng 8"
+                           },
+                           {
+                           "Name": "Nhân Mã",
+                           "Image": "Zodiac8.png",
+                           "Hang": "Hạng 7"
+                           },
+                           {
+                           "Name": "Ma Kết",
+                           "Image": "Zodiac9.png",
+                           "Hang": "Hạng 10"
+                           },
+                           {
+                           "Name": "Bảo Bình",
+                           "Image": "Zodiac10.png",
+                           "Hang": "Hạng 2"
+                           },
+                           {
+                           "Name": "Song Ngư",
+                           "Image": "Zodiac11.png",
+                           "Hang": "Hạng 3"
+                           }
+                           ]
+                },
+                {
+                "Title": "12 cung hoàng đạo dễ bị lừa nhất",
+                "Image": "Zodiac6.png",
+                "Result": [
+                           {
+                           "Name": "Bạch Dương",
+                           "Image": "Zodiac0.png",
+                           "Hang": "Hạng 2"
+                           },
+                           {
+                           "Name": "Kim Ngưu",
+                           "Image": "Zodiac1.png",
+                           "Hang": "Hạng 3"
+                           },
+                           {
+                           "Name": "Song Tử",
+                           "Image": "Zodiac2.png",
+                           "Hang": "Hạng 7"
+                           },
+                           {
+                           "Name": "Cự Giải",
+                           "Image": "Zodiac3.png",
+                           "Hang": "Hạng 9"
+                           },
+                           {
+                           "Name": "Sư Tử",
+                           "Image": "Zodiac4.png",
+                           "Hang": "Hạng 4"
+                           },
+                           {
+                           "Name": "Xử Nữ",
+                           "Image": "Zodiac5.png",
+                           "Hang": "Hạng 12"
+                           },
+                           {
+                           "Name": "Thiên Bình",
+                           "Image": "Zodiac6.png",
+                           "Hang": "Hạng 5"
+                           },
+                           {
+                           "Name": "Thần Nông",
+                           "Image": "Zodiac7.png",
+                           "Hang": "Hạng 11"
+                           },
+                           {
+                           "Name": "Nhân Mã",
+                           "Image": "Zodiac8.png",
+                           "Hang": "Hạng 6"
+                           },
+                           {
+                           "Name": "Ma Kết",
+                           "Image": "Zodiac9.png",
+                           "Hang": "Hạng 10"
+                           },
+                           {
+                           "Name": "Bảo Bình",
+                           "Image": "Zodiac10.png",
+                           "Hang": "Hạng 8"
+                           },
+                           {
+                           "Name": "Song Ngư",
+                           "Image": "Zodiac11.png",
+                           "Hang": "Hạng 1"
+                           }
+                           ]
+                },
+                {
+                "Title": "12 cung hoàng đạo và sự chung thuỷ trong tình yêu",
+                "Image": "Zodiac7.png",
+                "Result": [
+                           {
+                           "Name": "Bạch Dương",
+                           "Image": "Zodiac0.png",
+                           "Hang": "Hạng 9"
+                           },
+                           {
+                           "Name": "Kim Ngưu",
+                           "Image": "Zodiac1.png",
+                           "Hang": "Hạng 1"
+                           },
+                           {
+                           "Name": "Song Tử",
+                           "Image": "Zodiac2.png",
+                           "Hang": "Hạng 10"
+                           },
+                           {
+                           "Name": "Cự Giải",
+                           "Image": "Zodiac3.png",
+                           "Hang": "Hạng 2"
+                           },
+                           {
+                           "Name": "Sư Tử",
+                           "Image": "Zodiac4.png",
+                           "Hang": "Hạng 7"
+                           },
+                           {
+                           "Name": "Xử Nữ",
+                           "Image": "Zodiac5.png",
+                           "Hang": "Hạng 3"
+                           },
+                           {
+                           "Name": "Thiên Bình",
+                           "Image": "Zodiac6.png",
+                           "Hang": "Hạng 6"
+                           },
+                           {
+                           "Name": "Thần Nông",
+                           "Image": "Zodiac7.png",
+                           "Hang": "Hạng 11"
+                           },
+                           {
+                           "Name": "Nhân Mã",
+                           "Image": "Zodiac8.png",
+                           "Hang": "Hạng 8"
+                           },
+                           {
+                           "Name": "Ma Kết",
+                           "Image": "Zodiac9.png",
+                           "Hang": "Hạng 4"
+                           },
+                           {
+                           "Name": "Bảo Bình",
+                           "Image": "Zodiac10.png",
+                           "Hang": "Hạng 5"
+                           },
+                           {
+                           "Name": "Song Ngư",
+                           "Image": "Zodiac11.png",
+                           "Hang": "Hạng 12"
+                           }
+                           ]
+                },
+                {
+                "Title": "Tình yêu của ai có thể kéo dài lâu nhất",
+                "Image": "Zodiac8.png",
+                "Result": [
+                           {
+                           "Name": "Bạch Dương",
+                           "Image": "Zodiac0.png",
+                           "Hang": "Hạng 7"
+                           },
+                           {
+                           "Name": "Kim Ngưu",
+                           "Image": "Zodiac1.png",
+                           "Hang": "Hạng 3"
+                           },
+                           {
+                           "Name": "Song Tử",
+                           "Image": "Zodiac2.png",
+                           "Hang": "Hạng 10"
+                           },
+                           {
+                           "Name": "Cự Giải",
+                           "Image": "Zodiac3.png",
+                           "Hang": "Hạng 5"
+                           },
+                           {
+                           "Name": "Sư Tử",
+                           "Image": "Zodiac4.png",
+                           "Hang": "Hạng 11"
+                           },
+                           {
+                           "Name": "Xử Nữ",
+                           "Image": "Zodiac5.png",
+                           "Hang": "Hạng 2"
+                           },
+                           {
+                           "Name": "Thiên Bình",
+                           "Image": "Zodiac6.png",
+                           "Hang": "Hạng 8"
+                           },
+                           {
+                           "Name": "Thần Nông",
+                           "Image": "Zodiac7.png",
+                           "Hang": "Hạng 1"
+                           },
+                           {
+                           "Name": "Nhân Mã",
+                           "Image": "Zodiac8.png",
+                           "Hang": "Hạng 12"
+                           },
+                           {
+                           "Name": "Ma Kết",
+                           "Image": "Zodiac9.png",
+                           "Hang": "Hạng 4"
+                           },
+                           {
+                           "Name": "Bảo Bình",
+                           "Image": "Zodiac10.png",
+                           "Hang": "Hạng 9"
+                           },
+                           {
+                           "Name": "Song Ngư",
+                           "Image": "Zodiac11.png",
+                           "Hang": "Hạng 10"
+                           }
+                           ]
+                },
+                {
+                "Title": "Xếp hạng chỉ số thông minh 12 cung hoàng đạo",
+                "Image": "Zodiac9.png",
+                "Result": [
+                           {
+                           "Name": "Bạch Dương",
+                           "Image": "Zodiac0.png",
+                           "Hang": "Hạng 11: IQ 80"
+                           },
+                           {
+                           "Name": "Kim Ngưu",
+                           "Image": "Zodiac1.png",
+                           "Hang": "Hạng 4: IQ 110"
+                           },
+                           {
+                           "Name": "Song Tử",
+                           "Image": "Zodiac2.png",
+                           "Hang": "Hạng 1: IQ 130"
+                           },
+                           {
+                           "Name": "Cự Giải",
+                           "Image": "Zodiac3.png",
+                           "Hang": "Hạng 10: IQ 90"
+                           },
+                           {
+                           "Name": "Sư Tử",
+                           "Image": "Zodiac4.png",
+                           "Hang": "Hạng 8: IQ 100"
+                           },
+                           {
+                           "Name": "Xử Nữ",
+                           "Image": "Zodiac5.png",
+                           "Hang": "Hạng 5: IQ 105"
+                           },
+                           {
+                           "Name": "Thiên Bình",
+                           "Image": "Zodiac6.png",
+                           "Hang": "Hạng 9: IQ 95"
+                           },
+                           {
+                           "Name": "Thần Nông",
+                           "Image": "Zodiac7.png",
+                           "Hang": "Hạng 3: IQ 120"
+                           },
+                           {
+                           "Name": "Nhân Mã",
+                           "Image": "Zodiac8.png",
+                           "Hang": "Hạng 2: IQ 125"
+                           },
+                           {
+                           "Name": "Ma Kết",
+                           "Image": "Zodiac9.png",
+                           "Hang": "Hạng 6: IQ 103"
+                           },
+                           {
+                           "Name": "Bảo Bình",
+                           "Image": "Zodiac10.png",
+                           "Hang": "Hạng 7: IQ 102"
+                           },
+                           {
+                           "Name": "Song Ngư",
+                           "Image": "Zodiac11.png",
+                           "Hang": "Hạng 12: IQ 75"
+                           }
+                           ]
+                },
+                {
+                "Title": "Sao nào khó thay đổi thói quen nhất",
+                "Image": "Zodiac10.png",
+                "Result": [
+                           {
+                           "Name": "Bạch Dương",
+                           "Image": "Zodiac0.png",
+                           "Hang": "Hạng 3"
+                           },
+                           {
+                           "Name": "Kim Ngưu",
+                           "Image": "Zodiac1.png",
+                           "Hang": "Hạng 1"
+                           },
+                           {
+                           "Name": "Song Tử",
+                           "Image": "Zodiac2.png",
+                           "Hang": "Hạng 5"
+                           },
+                           {
+                           "Name": "Cự Giải",
+                           "Image": "Zodiac3.png",
+                           "Hang": "Hạng 7"
+                           },
+                           {
+                           "Name": "Sư Tử",
+                           "Image": "Zodiac4.png",
+                           "Hang": "Hạng 10"
+                           },
+                           {
+                           "Name": "Xử Nữ",
+                           "Image": "Zodiac5.png",
+                           "Hang": "Hạng 9"
+                           },
+                           {
+                           "Name": "Thiên Bình",
+                           "Image": "Zodiac6.png",
+                           "Hang": "Hạng 11"
+                           },
+                           {
+                           "Name": "Thần Nông",
+                           "Image": "Zodiac7.png",
+                           "Hang": "Hạng 4"
+                           },
+                           {
+                           "Name": "Nhân Mã",
+                           "Image": "Zodiac8.png",
+                           "Hang": "Hạng 12"
+                           },
+                           {
+                           "Name": "Ma Kết",
+                           "Image": "Zodiac9.png",
+                           "Hang": "Hạng 2"
+                           },
+                           {
+                           "Name": "Bảo Bình",
+                           "Image": "Zodiac10.png",
+                           "Hang": "Hạng 8"
+                           },
+                           {
+                           "Name": "Song Ngư",
+                           "Image": "Zodiac11.png",
+                           "Hang": "Hạng 6"
+                           }
+                           ]
+                },
+                {
+                "Title": "Xếp hạng chòm sao có đôi mắt đẹp nhất",
+                "Image": "Zodiac11.png",
+                "Result": [
+                           {
+                           "Name": "Bạch Dương",
+                           "Image": "Zodiac0.png",
+                           "Hang": "Hạng 8"
+                           },
+                           {
+                           "Name": "Kim Ngưu",
+                           "Image": "Zodiac1.png",
+                           "Hang": "Hạng 10"
+                           },
+                           {
+                           "Name": "Song Tử",
+                           "Image": "Zodiac2.png",
+                           "Hang": "Hạng 6"
+                           },
+                           {
+                           "Name": "Cự Giải",
+                           "Image": "Zodiac3.png",
+                           "Hang": "Hạng 3"
+                           },
+                           {
+                           "Name": "Sư Tử",
+                           "Image": "Zodiac4.png",
+                           "Hang": "Hạng 12"
+                           },
+                           {
+                           "Name": "Xử Nữ",
+                           "Image": "Zodiac5.png",
+                           "Hang": "Hạng 1"
+                           },
+                           {
+                           "Name": "Thiên Bình",
+                           "Image": "Zodiac6.png",
+                           "Hang": "Hạng 7"
+                           },
+                           {
+                           "Name": "Thần Nông",
+                           "Image": "Zodiac7.png",
+                           "Hang": "Hạng 11"
+                           },
+                           {
+                           "Name": "Nhân Mã",
+                           "Image": "Zodiac8.png",
+                           "Hang": "Hạng 9"
+                           },
+                           {
+                           "Name": "Ma Kết",
+                           "Image": "Zodiac9.png",
+                           "Hang": "Hạng 5"
+                           },
+                           {
+                           "Name": "Bảo Bình",
+                           "Image": "Zodiac10.png",
+                           "Hang": "Hạng 2"
+                           },
+                           {
+                           "Name": "Song Ngư",
+                           "Image": "Zodiac11.png",
+                           "Hang": "Hạng 4"
+                           }
+                           ]
+                },
+                {
+                "Title": "Sao ngoan hiền nhất mọi thời đại",
+                "Image": "Zodiac0.png",
+                "Result": [
+                           {
+                           "Name": "Bạch Dương",
+                           "Image": "Zodiac0.png",
+                           "Hang": "Hạng 7"
+                           },
+                           {
+                           "Name": "Kim Ngưu",
+                           "Image": "Zodiac1.png",
+                           "Hang": "Hạng 3"
+                           },
+                           {
+                           "Name": "Song Tử",
+                           "Image": "Zodiac2.png",
+                           "Hang": "Hạng 9"
+                           },
+                           {
+                           "Name": "Cự Giải",
+                           "Image": "Zodiac3.png",
+                           "Hang": "Hạng 4"
+                           },
+                           {
+                           "Name": "Sư Tử",
+                           "Image": "Zodiac4.png",
+                           "Hang": "Hạng 10"
+                           },
+                           {
+                           "Name": "Xử Nữ",
+                           "Image": "Zodiac5.png",
+                           "Hang": "Hạng 8"
+                           },
+                           {
+                           "Name": "Thiên Bình",
+                           "Image": "Zodiac6.png",
+                           "Hang": "Hạng 5"
+                           },
+                           {
+                           "Name": "Thần Nông",
+                           "Image": "Zodiac7.png",
+                           "Hang": "Hạng 6"
+                           },
+                           {
+                           "Name": "Nhân Mã",
+                           "Image": "Zodiac8.png",
+                           "Hang": "Hạng 12"
+                           },
+                           {
+                           "Name": "Ma Kết",
+                           "Image": "Zodiac9.png",
+                           "Hang": "Hạng 11"
+                           },
+                           {
+                           "Name": "Bảo Bình",
+                           "Image": "Zodiac10.png",
+                           "Hang": "Hạng 2"
+                           },
+                           {
+                           "Name": "Song Ngư",
+                           "Image": "Zodiac11.png",
+                           "Hang": "Hạng 1"
+                           }
+                           ]
+                },
+                {
+                "Title": "Sao nào dễ làm tổn thương người khác ",
+                "Image": "Zodiac1.png",
+                "Result": [
+                           {
+                           "Name": "Bạch Dương",
+                           "Image": "Zodiac0.png",
+                           "Hang": "Hạng 9"
+                           },
+                           {
+                           "Name": "Kim Ngưu",
+                           "Image": "Zodiac1.png",
+                           "Hang": "Hạng 11"
+                           },
+                           {
+                           "Name": "Song Tử",
+                           "Image": "Zodiac2.png",
+                           "Hang": "Hạng 6"
+                           },
+                           {
+                           "Name": "Cự Giải",
+                           "Image": "Zodiac3.png",
+                           "Hang": "Hạng 4"
+                           },
+                           {
+                           "Name": "Sư Tử",
+                           "Image": "Zodiac4.png",
+                           "Hang": "Hạng 12"
+                           },
+                           {
+                           "Name": "Xử Nữ",
+                           "Image": "Zodiac5.png",
+                           "Hang": "Hạng 4"
+                           },
+                           {
+                           "Name": "Thiên Bình",
+                           "Image": "Zodiac6.png",
+                           "Hang": "Hạng 3"
+                           },
+                           {
+                           "Name": "Thần Nông",
+                           "Image": "Zodiac7.png",
+                           "Hang": "Hạng 1"
+                           },
+                           {
+                           "Name": "Nhân Mã",
+                           "Image": "Zodiac8.png",
+                           "Hang": "Hạng 5"
+                           },
+                           {
+                           "Name": "Ma Kết",
+                           "Image": "Zodiac9.png",
+                           "Hang": "Hạng 7"
+                           },
+                           {
+                           "Name": "Bảo Bình",
+                           "Image": "Zodiac10.png",
+                           "Hang": "Hạng 2"
+                           },
+                           {
+                           "Name": "Song Ngư",
+                           "Image": "Zodiac11.png",
+                           "Hang": "Hạng 10"
+                           }
+                           ]
+                },
+                {
+                "Title": "Yêu hết mình, ghét cay đắng",
+                "Image": "Zodiac2.png",
+                "Result": [
+                           {
+                           "Name": "Bạch Dương",
+                           "Image": "Zodiac0.png",
+                           "Hang": "Hạng 9"
+                           },
+                           {
+                           "Name": "Kim Ngưu",
+                           "Image": "Zodiac1.png",
+                           "Hang": "Hạng 12"
+                           },
+                           {
+                           "Name": "Song Tử",
+                           "Image": "Zodiac2.png",
+                           "Hang": "Hạng 11"
+                           },
+                           {
+                           "Name": "Cự Giải",
+                           "Image": "Zodiac3.png",
+                           "Hang": "Hạng 4"
+                           },
+                           {
+                           "Name": "Sư Tử",
+                           "Image": "Zodiac4.png",
+                           "Hang": "Hạng 5"
+                           },
+                           {
+                           "Name": "Xử Nữ",
+                           "Image": "Zodiac5.png",
+                           "Hang": "Hạng 1"
+                           },
+                           {
+                           "Name": "Thiên Bình",
+                           "Image": "Zodiac6.png",
+                           "Hang": "Hạng 2"
+                           },
+                           {
+                           "Name": "Thần Nông",
+                           "Image": "Zodiac7.png",
+                           "Hang": "Hạng 3"
+                           },
+                           {
+                           "Name": "Nhân Mã",
+                           "Image": "Zodiac8.png",
+                           "Hang": "Hạng 6"
+                           },
+                           {
+                           "Name": "Ma Kết",
+                           "Image": "Zodiac9.png",
+                           "Hang": "Hạng 7"
+                           },
+                           {
+                           "Name": "Bảo Bình",
+                           "Image": "Zodiac10.png",
+                           "Hang": "Hạng 8"
+                           },
+                           {
+                           "Name": "Song Ngư",
+                           "Image": "Zodiac11.png",
+                           "Hang": "Hạng 10"
+                           }
+                           ]
+                },
+                {
+                "Title": "Cung nào lãng mạn nhất",
+                "Image": "Zodiac3.png",
+                "Result": [
+                           {
+                           "Name": "Bạch Dương",
+                           "Image": "Zodiac0.png",
+                           "Hang": "Hạng 12"
+                           },
+                           {
+                           "Name": "Kim Ngưu",
+                           "Image": "Zodiac1.png",
+                           "Hang": "Hạng 8"
+                           },
+                           {
+                           "Name": "Song Tử",
+                           "Image": "Zodiac2.png",
+                           "Hang": "Hạng 7"
+                           },
+                           {
+                           "Name": "Cự Giải",
+                           "Image": "Zodiac3.png",
+                           "Hang": "Hạng 3"
+                           },
+                           {
+                           "Name": "Sư Tử",
+                           "Image": "Zodiac4.png",
+                           "Hang": "Hạng 5"
+                           },
+                           {
+                           "Name": "Xử Nữ",
+                           "Image": "Zodiac5.png",
+                           "Hang": "Hạng 11"
+                           },
+                           {
+                           "Name": "Thiên Bình",
+                           "Image": "Zodiac6.png",
+                           "Hang": "Hạng 4"
+                           },
+                           {
+                           "Name": "Thần Nông",
+                           "Image": "Zodiac7.png",
+                           "Hang": "Hạng 10"
+                           },
+                           {
+                           "Name": "Nhân Mã",
+                           "Image": "Zodiac8.png",
+                           "Hang": "Hạng 1"
+                           },
+                           {
+                           "Name": "Ma Kết",
+                           "Image": "Zodiac9.png",
+                           "Hang": "Hạng 2"
+                           },
+                           {
+                           "Name": "Bảo Bình",
+                           "Image": "Zodiac10.png",
+                           "Hang": "Hạng 9"
+                           },
+                           {
+                           "Name": "Song Ngư",
+                           "Image": "Zodiac11.png",
+                           "Hang": "Hạng 6"
+                           }
+                           ]
+                },
+                {
+                "Title": "Xếp hạng độ kute vô đối của 12 chòm sao",
+                "Image": "Zodiac4.png",
+                "Result": [
+                           {
+                           "Name": "Bạch Dương",
+                           "Image": "Zodiac0.png",
+                           "Hang": "Hạng 1"
+                           },
+                           {
+                           "Name": "Kim Ngưu",
+                           "Image": "Zodiac1.png",
+                           "Hang": "Hạng 12"
+                           },
+                           {
+                           "Name": "Song Tử",
+                           "Image": "Zodiac2.png",
+                           "Hang": "Hạng 11"
+                           },
+                           {
+                           "Name": "Cự Giải",
+                           "Image": "Zodiac3.png",
+                           "Hang": "Hạng 3"
+                           },
+                           {
+                           "Name": "Sư Tử",
+                           "Image": "Zodiac4.png",
+                           "Hang": "Hạng 6"
+                           },
+                           {
+                           "Name": "Xử Nữ",
+                           "Image": "Zodiac5.png",
+                           "Hang": "Hạng 7"
+                           },
+                           {
+                           "Name": "Thiên Bình",
+                           "Image": "Zodiac6.png",
+                           "Hang": "Hạng 5"
+                           },
+                           {
+                           "Name": "Thần Nông",
+                           "Image": "Zodiac7.png",
+                           "Hang": "Hạng 2"
+                           },
+                           {
+                           "Name": "Nhân Mã",
+                           "Image": "Zodiac8.png",
+                           "Hang": "Hạng 9"
+                           },
+                           {
+                           "Name": "Ma Kết",
+                           "Image": "Zodiac9.png",
+                           "Hang": "Hạng 10"
+                           },
+                           {
+                           "Name": "Bảo Bình",
+                           "Image": "Zodiac10.png",
+                           "Hang": "Hạng 7"
+                           },
+                           {
+                           "Name": "Song Ngư",
+                           "Image": "Zodiac11.png",
+                           "Hang": "Hạng 4"
+                           }
+                           ]
+                },
+                {
+                "Title": "Xếp hạng các chòm sao mộc mạc giản dị nhất",
+                "Image": "Zodiac5.png",
+                "Result": [
+                           {
+                           "Name": "Bạch Dương",
+                           "Image": "Zodiac0.png",
+                           "Hang": "Hạng 9"
+                           },
+                           {
+                           "Name": "Kim Ngưu",
+                           "Image": "Zodiac1.png",
+                           "Hang": "Hạng 1"
+                           },
+                           {
+                           "Name": "Song Tử",
+                           "Image": "Zodiac2.png",
+                           "Hang": "Hạng 5"
+                           },
+                           {
+                           "Name": "Cự Giải",
+                           "Image": "Zodiac3.png",
+                           "Hang": "Hạng 8"
+                           },
+                           {
+                           "Name": "Sư Tử",
+                           "Image": "Zodiac4.png",
+                           "Hang": "Hạng 6"
+                           },
+                           {
+                           "Name": "Xử Nữ",
+                           "Image": "Zodiac5.png",
+                           "Hang": "Hạng 2"
+                           },
+                           {
+                           "Name": "Thiên Bình",
+                           "Image": "Zodiac6.png",
+                           "Hang": "Hạng 12"
+                           },
+                           {
+                           "Name": "Thần Nông",
+                           "Image": "Zodiac7.png",
+                           "Hang": "Hạng 11"
+                           },
+                           {
+                           "Name": "Nhân Mã",
+                           "Image": "Zodiac8.png",
+                           "Hang": "Hạng 3"
+                           },
+                           {
+                           "Name": "Ma Kết",
+                           "Image": "Zodiac9.png",
+                           "Hang": "Hạng 7"
+                           },
+                           {
+                           "Name": "Bảo Bình",
+                           "Image": "Zodiac10.png",
+                           "Hang": "Hạng 10"
+                           },
+                           {
+                           "Name": "Song Ngư",
+                           "Image": "Zodiac11.png",
+                           "Hang": "Hạng 4"
+                           }
+                           ]
+                },
+                {
+                "Title": "Cung nào tốt bụng nhất",
+                "Image": "Zodiac6.png",
+                "Result": [
+                           {
+                           "Name": "Bạch Dương",
+                           "Image": "Zodiac0.png",
+                           "Hang": "Hạng 4"
+                           },
+                           {
+                           "Name": "Kim Ngưu",
+                           "Image": "Zodiac1.png",
+                           "Hang": "Hạng 12"
+                           },
+                           {
+                           "Name": "Song Tử",
+                           "Image": "Zodiac2.png",
+                           "Hang": "Hạng 7"
+                           },
+                           {
+                           "Name": "Cự Giải",
+                           "Image": "Zodiac3.png",
+                           "Hang": "Hạng 6"
+                           },
+                           {
+                           "Name": "Sư Tử",
+                           "Image": "Zodiac4.png",
+                           "Hang": "Hạng 11"
+                           },
+                           {
+                           "Name": "Xử Nữ",
+                           "Image": "Zodiac5.png",
+                           "Hang": "Hạng 8"
+                           },
+                           {
+                           "Name": "Thiên Bình",
+                           "Image": "Zodiac6.png",
+                           "Hang": "Hạng 10"
+                           },
+                           {
+                           "Name": "Thần Nông",
+                           "Image": "Zodiac7.png",
+                           "Hang": "Hạng 3"
+                           },
+                           {
+                           "Name": "Nhân Mã",
+                           "Image": "Zodiac8.png",
+                           "Hang": "Hạng 5"
+                           },
+                           {
+                           "Name": "Ma Kết",
+                           "Image": "Zodiac9.png",
+                           "Hang": "Hạng 2"
+                           },
+                           {
+                           "Name": "Bảo Bình",
+                           "Image": "Zodiac10.png",
+                           "Hang": "Hạng 9"
+                           },
+                           {
+                           "Name": "Song Ngư",
+                           "Image": "Zodiac11.png",
+                           "Hang": "Hạng 1"
+                           }
+                           ]
+                },
+                {
+                "Title": "Ai có thể dễ dàng gạt đi quá khứ mà để tiếp tục phấn đấu?",
+                "Image": "Zodiac7.png",
+                "Result": [
+                           {
+                           "Name": "Bạch Dương",
+                           "Image": "Zodiac0.png",
+                           "Hang": "Hạng 1"
+                           },
+                           {
+                           "Name": "Kim Ngưu",
+                           "Image": "Zodiac1.png",
+                           "Hang": "Hạng 9"
+                           },
+                           {
+                           "Name": "Song Tử",
+                           "Image": "Zodiac2.png",
+                           "Hang": "Hạng 2"
+                           },
+                           {
+                           "Name": "Cự Giải",
+                           "Image": "Zodiac3.png",
+                           "Hang": "Hạng 12"
+                           },
+                           {
+                           "Name": "Sư Tử",
+                           "Image": "Zodiac4.png",
+                           "Hang": "Hạng 5"
+                           },
+                           {
+                           "Name": "Xử Nữ",
+                           "Image": "Zodiac5.png",
+                           "Hang": "Hạng 7"
+                           },
+                           {
+                           "Name": "Thiên Bình",
+                           "Image": "Zodiac6.png",
+                           "Hang": "Hạng 4"
+                           },
+                           {
+                           "Name": "Thần Nông",
+                           "Image": "Zodiac7.png",
+                           "Hang": "Hạng 11"
+                           },
+                           {
+                           "Name": "Nhân Mã",
+                           "Image": "Zodiac8.png",
+                           "Hang": "Hạng 3"
+                           },
+                           {
+                           "Name": "Ma Kết",
+                           "Image": "Zodiac9.png",
+                           "Hang": "Hạng 6"
+                           },
+                           {
+                           "Name": "Bảo Bình",
+                           "Image": "Zodiac10.png",
+                           "Hang": "Hạng 8"
+                           },
+                           {
+                           "Name": "Song Ngư",
+                           "Image": "Zodiac11.png",
+                           "Hang": "Hạng 10"
+                           }
+                           ]
+                }
+    ]
+}

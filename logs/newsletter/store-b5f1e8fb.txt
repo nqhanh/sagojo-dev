@@ -1,0 +1,10 @@
+10-10-2013 02:13:08 - ERROR - 23249232 - save: Unknown column 'profile_1' in 'field list'
+10-10-2013 02:15:22 - ERROR - 23246976 - save: Unknown column 'profile_1' in 'field list'
+10-10-2013 02:18:23 - ERROR - 23246640 - save: Unknown column 'profile_1' in 'field list'
+10-10-2013 02:18:55 - ERROR - 23244400 - save: Unknown column 'profile_1' in 'field list'
+04-11-2013 09:22:30 - ERROR - 26373992 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s' at line 1
+04-11-2013 09:40:46 - ERROR - 26372360 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s or name like %s or surname like %s)' at line 1
+05-11-2013 07:36:44 - ERROR - 23623616 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s or name like %s or surname like %s)' at line 1
+05-11-2013 07:37:59 - ERROR - 23623920 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s or name like %s or surname like %s)' at line 1
+08-07-2014 02:31:04 - ERROR - 30523200 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s or name like %s or surname like %s)' at line 1
+08-07-2014 02:31:09 - ERROR - 30523648 - You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '%s or name like %s or surname like %s)' at line 1

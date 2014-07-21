@@ -1,0 +1,166 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Sidebar Login v2.5.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-30 09:50+0700\n"
+"PO-Revision-Date: 2013-07-31 11:41+0700\n"
+"Last-Translator: hanh <hanhdo205@gmail.com>\n"
+"Language-Team: hanhdo <hanhdo205@gmail.com>\n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: sidebar-login.php:80
+msgid ""
+"[:en]Please enter your username[:vi]Vui lòng điền tên người dùng[:ja]ユーザ名"
+"を入力して下さい。"
+msgstr ""
+
+#: sidebar-login.php:81
+msgid ""
+"[:en]Please enter your password[:vi]Vui lòng điền mật khẩu.[:ja]Please enter "
+"your password"
+msgstr ""
+
+#: sidebar-login.php:166
+msgid ""
+"[:en]Please enter your username and password to login.[:vi]Vui lòng nhập tên "
+"tài khoản và mật khẩu."
+msgstr ""
+
+# @ sidebar_login
+#: includes/class-sidebar-login-widget.php:23
+msgid "Displays a login area in the sidebar."
+msgstr ""
+
+# @ sidebar_login
+#: includes/class-sidebar-login-widget.php:26
+msgid "Sidebar Login"
+msgstr ""
+
+# @ sidebar_login
+#: includes/class-sidebar-login-widget.php:39
+msgid "Logged-out title"
+msgstr ""
+
+# @ sidebar_login
+#: includes/class-sidebar-login-widget.php:44
+#: includes/class-sidebar-login-widget.php:79
+msgid "Links"
+msgstr ""
+
+# @ sidebar_login
+#: includes/class-sidebar-login-widget.php:44
+msgid "<code>Text | HREF</code>"
+msgstr ""
+
+# @ sidebar_login
+#: includes/class-sidebar-login-widget.php:49
+msgid "Show lost password link"
+msgstr ""
+
+# @ sidebar_login
+#: includes/class-sidebar-login-widget.php:54
+msgid "Show register link"
+msgstr ""
+
+# @ sidebar_login
+#: includes/class-sidebar-login-widget.php:56
+#, php-format
+msgid "<a href=\"%s\">Anyone can register</a> must be enabled."
+msgstr ""
+
+# @ sidebar_login
+#: includes/class-sidebar-login-widget.php:60
+msgid "Login Redirect URL"
+msgstr ""
+
+# @ sidebar_login
+#: includes/class-sidebar-login-widget.php:69
+msgid "Logged-in title"
+msgstr ""
+
+# @ sidebar_login
+#: includes/class-sidebar-login-widget.php:70
+#: includes/class-sidebar-login-widget.php:263
+msgid "Welcome %username%"
+msgstr "Chào %username%"
+
+# @ sidebar_login
+#: includes/class-sidebar-login-widget.php:74
+msgid "Logged-in text"
+msgstr ""
+
+# @ sidebar_login
+#: includes/class-sidebar-login-widget.php:75
+#: includes/class-sidebar-login-widget.php:266
+msgid "Member since: %userdate%"
+msgstr "Tham gia từ: %userdate%"
+
+# @ sidebar_login
+#: includes/class-sidebar-login-widget.php:79
+msgid "<code>Text | HREF | Capability</code>"
+msgstr ""
+
+# @ sidebar_login
+#: includes/class-sidebar-login-widget.php:80
+#, php-format
+msgid ""
+"<a href=\"%s\">Capability</a> (optional) refers to the type of user who can "
+"view the link."
+msgstr ""
+
+# @ sidebar_login
+#: includes/class-sidebar-login-widget.php:86
+msgid "Show logged-in user avatar"
+msgstr ""
+
+# @ sidebar_login
+#: includes/class-sidebar-login-widget.php:91
+msgid "Logout Redirect URL"
+msgstr ""
+
+# @ sidebar_login
+#: includes/class-sidebar-login-widget.php:175
+msgid "Lost Password"
+msgstr ""
+
+# @ sidebar_login
+#: includes/class-sidebar-login-widget.php:185
+msgid "Create new account"
+msgstr ""
+
+# @ sidebar_login
+#: includes/class-sidebar-login-widget.php:192
+msgid "Register"
+msgstr ""
+
+# @ sidebar_login
+#: includes/class-sidebar-login-widget.php:264
+msgid "Login"
+msgstr "ログイン"
+
+#: includes/class-sidebar-login-widget.php:314
+msgid "[:en]E-mail[:vi]E-mail[:ja]Eメール"
+msgstr ""
+
+#: includes/class-sidebar-login-widget.php:315
+msgid "[:en]Password[:vi]Mật khẩu[:ja]パスワード "
+msgstr ""
+
+#: includes/class-sidebar-login-widget.php:316
+msgid "[:en]Remember Me[:vi]Lưu mật khẩu[:ja]ログイン状態を保持"
+msgstr ""
+
+#: includes/class-sidebar-login-widget.php:317
+msgid "[:en]Login[:vi]Đăng nhập[:ja]ログイン&rarr;"
+msgstr ""

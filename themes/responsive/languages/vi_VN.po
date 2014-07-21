@@ -1,0 +1,2732 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Responsive v1.9.3.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-07-03 08:23+0700\n"
+"PO-Revision-Date: 2014-07-03 08:35+0700\n"
+"Last-Translator: hanhdo <hanhdo205@gmail.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: action.php:60
+msgid "Job listing by this code"
+msgstr "Tình trạng sử dụng của mã thanh toán"
+
+#: action.php:77
+#, fuzzy
+msgid "Job Location "
+msgstr "Chợ việc làm!"
+
+#: action.php:84 action.php:86
+msgid "Salary "
+msgstr ""
+
+#: action.php:86
+#, fuzzy
+msgid "Negotiable"
+msgstr "thỏa thuận"
+
+#: action.php:93 content-jobtype.php:44
+msgid "Date: "
+msgstr ""
+
+#: action.php:95
+#, fuzzy
+msgid "Views: "
+msgstr "Lượt xem"
+
+#: action.php:111
+msgid "No job listings found."
+msgstr ""
+
+#: action.php:115
+msgid "Your Job Pack's code status"
+msgstr ""
+
+#: action.php:116
+msgid "Max uses: "
+msgstr ""
+
+#: action.php:117
+msgid "Usage: "
+msgstr ""
+
+#: action.php:118
+msgid "Remain: "
+msgstr ""
+
+#: action.php:119
+#, fuzzy
+msgid "Expires at: "
+msgstr "Ngưng nhận đặt giá"
+
+#: applyjob.php:33
+msgid "My applied jobs"
+msgstr "Công việc đã nộp hồ sơ"
+
+#: archive - Copy (2).php:27 archive-search.php:31 archive.php:53
+#: closedproject.php:42 freelancepage.php:42 myproject.php:41
+msgid "Posted"
+msgstr "Bắt đầu"
+
+#: archive - Copy (2).php:28 archive-search.php:32 archive.php:54
+#: closedproject.php:43 freelancepage.php:43 myproject.php:42
+msgid "Job description"
+msgstr "Tên công việc"
+
+#: archive - Copy (2).php:32 archive-search.php:36 archive.php:58
+#: closedproject.php:51 content-jobtype.php:26
+#: content-single-freelance_post.php:38 content-single-freelance_post.php:41
+#: content-single-freelance_post.php:42 freelancepage.php:51 myproject.php:50
+msgid "Budget"
+msgstr "Ngân sách"
+
+#: archive - Copy (2).php:36 myproject.php:54
+msgid "Deadline"
+msgstr "Thời hạn"
+
+#: archive - Copy (2).php:71 archive.php:98 closedproject.php:130
+#: freelancepage.php:144 freelance_jobtype.php:120 myproject.php:130
+msgid "There are no jobs yet."
+msgstr "Chưa có dự án mới nào"
+
+#: archive - Copy (2).php:75 myproject.php:134
+msgid "Create some jobs by posting in the box above."
+msgstr ""
+
+#: archive - Copy (2).php:136
+msgid "Nothing Found"
+msgstr ""
+
+#: archive - Copy (2).php:140
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+# @ responsive
+#: archive - Copy.php:44 blog-excerpt.php:63 blog.php:65
+#: content-sidebar-half-page.php:40 content-sidebar-page.php:40
+#: content-single-freelance_post.php:68 content-single.php:11
+#: freelance-archive.php:44 full-width-page.php:40 f_dashboard.php:60
+#: home.php:46 image.php:50 index.php:41 isbig_issmall.php:57
+#: landing-page.php:38 myestimate.php:51 net-share-page.php:52 page.php:37
+#: resume_page.php:88 search.php:39 sidebar-content-half-page.php:56
+#: sidebar-content-page.php:56 single bangoc_9-11.php:50 -ban cu cua
+#: chinh.php:54 single.php:73 sitemap.php:60
+msgid "Pages:"
+msgstr ""
+
+#: archive-search.php:18 archive.php:16 author.php:18 closedproject.php:32
+#: freelance-archive.php:19 freelancepage.php:32 f_dashboard.php:38
+#: isbig_issmall.php:35 myestimate.php:24 single-freelance_post.php:14
+#: tagcloud.php:18
+msgid "Opening Projects"
+msgstr "Đang đấu giá"
+
+#: archive-search.php:19 archive.php:17 author.php:19 closedproject.php:33
+#: freelance-archive.php:20 freelancepage.php:33 f_dashboard.php:39
+#: isbig_issmall.php:36 myestimate.php:25 single-freelance_post.php:15
+#: tagcloud.php:19
+msgid "Closed Projects"
+msgstr "Đã kết thúc"
+
+# @ responsive
+#: archive-search.php:20 archive.php:18 author.php:20 closedproject.php:34
+#: freelance-archive.php:21 freelancepage.php:34 f_dashboard.php:40
+#: isbig_issmall.php:37 myestimate.php:26 single-freelance_post.php:16
+#: sitemap.php:39 tagcloud.php:20
+msgid "Categories"
+msgstr "Các hạng mục"
+
+#: archive-search.php:21 archive.php:19 tagcloud.php:21
+msgid "Archives"
+msgstr "Lưu trữ"
+
+#: archive-search.php:22 archive.php:20 author.php:22 closedproject.php:35
+#: freelance-archive.php:22 freelancepage.php:35 f_dashboard.php:41
+#: isbig_issmall.php:38 myestimate.php:27 single-freelance_post.php:18
+#: tagcloud.php:22
+msgid "<strong>Post a Project</strong> - It&rsquo;s FREE!"
+msgstr "<strong>Đăng một dự án</strong> - MIỄN PHÍ!"
+
+#: archive-search.php:40 archive.php:62 closedproject.php:55
+#: content-single-freelance_post.php:22 freelancepage.php:55
+msgid "Bids"
+msgstr "Lượt đấu"
+
+#: archive.php:99 closedproject.php:131 freelancepage.php:145
+#: freelance_jobtype.php:121
+msgid "Need some work done? Post a Project Today."
+msgstr "Cần hoàn thành một số công việc? Hãy đăng dự án ngay hôm nay."
+
+#: archive.php:100 closedproject.php:132 freelancepage.php:146
+#: freelance_jobtype.php:122
+msgid "Post a Project"
+msgstr "Đăng một dự án"
+
+#: archive.php:100 closedproject.php:132 freelancepage.php:146
+#: freelance_jobtype.php:122
+msgid "It&rsquo;s free!"
+msgstr "Hoàn toàn miễn phí!"
+
+# @ responsive
+#: archive.php:117 loop-header.php:42
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+# @ responsive
+#: archive.php:119 loop-header.php:44
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: archive.php:119
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+# @ responsive
+#: archive.php:121 loop-header.php:46
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: archive.php:121
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ responsive
+#: archive.php:123 loop-header.php:48
+msgid "Blog Archives"
+msgstr ""
+
+#: author.php:21
+msgid "User&rsquo;s Info"
+msgstr "Thông tin người dùng"
+
+#: author.php:118
+msgid "Freelancer"
+msgstr "Freelancer"
+
+#: author.php:121
+msgid "Employer"
+msgstr "Nhà tuyển dụng"
+
+#: author.php:126 author.php:165
+#, php-format
+msgid "Profilescore: %1$d"
+msgstr "Điểm hồ sơ: %1$d"
+
+#: author.php:136
+#, php-format
+msgid "Winning percentage: %1$d"
+msgstr "Tỉ lệ trúng thầu: %1$d"
+
+#: author.php:144
+#, php-format
+msgid "Complete percentage: %1$d"
+msgstr "Tỉ lệ hoàn thành: %1$d"
+
+#: author.php:153 functions - email.php:1360 email.php:1452 userrole.php:1360
+#: userrole.php:1452 functions.php:1374 functions.php:1466
+msgid "Rated"
+msgstr "Uy tín"
+
+#: author.php:172
+#, php-format
+msgid "My project count: %1$d"
+msgstr "Tổng số dự án đã đăng: %1$d"
+
+#: author.php:177
+#, php-format
+msgid "My score: %1$d"
+msgstr "Điểm dự án: %1$d"
+
+#: author.php:184 content-single-freelance_post.php:144
+msgid "Author rating: "
+msgstr "Thứ hạng: "
+
+#: author.php:215 isbig_issmall.php:33
+msgid "Post Project"
+msgstr "Đăng dự án"
+
+#: author.php:223 f_dashboard.php:36
+msgid "My Projects"
+msgstr "Các dự án của tôi"
+
+#: author.php:232 myestimate.php:22
+msgid "My Estimates"
+msgstr "Các lần đấu giá"
+
+#: author.php:240
+msgid "My Info"
+msgstr "Trang cá nhân"
+
+#: authorinfo - 5-9.php:12
+msgid "Public Records"
+msgstr "Điểm hồ sơ"
+
+#: authorinfo - 5-9.php:28
+msgid "First Name: "
+msgstr ""
+
+#: authorinfo - 5-9.php:32
+msgid "Last Name: "
+msgstr ""
+
+#: authorinfo - 5-9.php:36
+msgid "Gender (age): "
+msgstr ""
+
+#: authorinfo - 5-9.php:40
+msgid "Zipcode: "
+msgstr ""
+
+#: authorinfo - 5-9.php:44 authorinfo.php:74
+msgid "Country: "
+msgstr "Quốc gia:"
+
+#: authorinfo - 5-9.php:49 authorinfo.php:79
+msgid "City: "
+msgstr "Tỉnh/thành phố:"
+
+#: authorinfo - 5-9.php:54 authorinfo.php:84
+msgid "Website:"
+msgstr "Trang web:"
+
+#: authorinfo - 5-9.php:59 authorinfo.php:88
+msgid "About me:"
+msgstr "Về tôi:"
+
+#: authorinfo - 5-9.php:64 authorinfo.php:92
+msgid "My references:"
+msgstr "Kinh nghiệm/Kỹ năng:"
+
+#: authorinfo - 5-9.php:104 authorinfo.php:147
+msgid "Listings"
+msgstr "Các dự án"
+
+#: authorinfo - 5-9.php:106
+msgid "Estimates"
+msgstr "Các đặt giá"
+
+#: authorinfo - 5-9.php:107
+msgid "Reviewed"
+msgstr ""
+
+#: authorinfo - 5-9.php:112
+#, php-format
+msgid "Listings by %1$s"
+msgstr ""
+
+#: authorinfo - 5-9.php:135
+#, php-format
+msgid "Estimates by %1$s"
+msgstr ""
+
+#: authorinfo - 5-9.php:144
+#, php-format
+msgid "Reviewed to %1$s"
+msgstr ""
+
+#: authorinfo.php:52
+msgid "My skills"
+msgstr "Kỹ năng của tôi"
+
+#: authorinfo.php:67
+msgid "Member since: "
+msgstr "Tham gia từ:"
+
+#: authorinfo.php:99
+msgid "My resume:"
+msgstr "Hồ sơ của tôi:"
+
+#: authorinfo.php:105
+msgid "View my resume"
+msgstr "Xem hồ sơ của tôi"
+
+#: authorinfo.php:149
+msgid "Last bid on"
+msgstr "Đặt giá gần đây"
+
+#: authorinfo.php:150
+msgid "Feedback"
+msgstr "Các phản hồi"
+
+#: authorinfo.php:151
+msgid "Completed Work"
+msgstr "Đã hoàn thành"
+
+#: authorinfo.php:152
+msgid "Work in Progress"
+msgstr "Đang làm"
+
+#: authorinfo.php:153
+msgid "Incomplete"
+msgstr "Dở dang"
+
+# @ responsive
+#: blog-excerpt.php:78 blog.php:80 loop-nav.php:27
+msgid "&#8249; Older posts"
+msgstr ""
+
+# @ responsive
+#: blog-excerpt.php:79 blog.php:81 loop-nav.php:28
+msgid "Newer posts &#8250;"
+msgstr ""
+
+# @ responsive
+#: blog.php:64 content-sidebar-half-page.php:39 content-sidebar-page.php:39
+#: freelance-archive.php:43 full-width-page.php:39 f_dashboard.php:59
+#: home.php:45 image.php:49 index.php:40 isbig_issmall.php:56
+#: landing-page.php:37 myestimate.php:50 net-share-page.php:51 page.php:36
+#: resume_page.php:87 sidebar-content-half-page.php:55
+#: sidebar-content-page.php:55 single - bangoc_9-11.php:38 -ban cu cua
+#: chinh.php:42 single.php:61 core/includes/functions.php:402
+msgid "Read more &#8250;"
+msgstr ""
+
+#: carousel.php:56 includes/type4.php:1
+msgid ""
+"[:en]Recent News Articles[:vi]Cẩm nang nghề nghiệp[:ja]Recent News Articles"
+msgstr ""
+
+#: carousel.php:57 includes/type4.php:2
+msgid ""
+"[:en]Fresh job related content posted each day.[:vi]Những lời khuyên chân "
+"thành trên con đường tìm việc của bạn.[:ja]Fresh job related content posted "
+"each day."
+msgstr ""
+
+# @ responsive
+#: carousel.php:82 sitemap.php:48
+#, php-format
+msgid "Permanent Link to %s"
+msgstr ""
+
+#: category.php:79
+msgid ""
+"[:en]President Yohan Matsutani[:vi]President Yohan Matsutani[:ja]松谷容範会長"
+"のブログ"
+msgstr ""
+
+#: category.php:82 category.php:102 freelance-archive.php:97
+#: freelance-archive.php:100 includes/type11.php:16 includes/type2.php:22
+#: includes/type3.php:12
+#, php-format
+msgid "View all posts in %s"
+msgstr "Xem các bài viết trong %s"
+
+#: category.php:99
+msgid "[:en]CEO Tomomi Naka[:vi]CEO Tomomi Naka[:ja]中友美社長のブログ"
+msgstr ""
+
+# @ responsive
+#: comments.php:22
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+# @ responsive
+#: comments.php:29
+#, php-format
+msgid "One comment on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s comments on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+# @ responsive
+#: comments.php:36 comments.php:47
+msgid "&#8249; Older comments"
+msgstr ""
+
+# @ responsive
+#: comments.php:37 comments.php:48
+msgid "Newer comments &#8250;"
+msgstr ""
+
+# @ responsive
+#: comments.php:59
+msgid "Pings&#47;Trackbacks"
+msgstr ""
+
+# @ responsive
+#: comments.php:62
+#, php-format
+msgid "%1$d %2$s for \"%3$s\""
+msgstr ""
+
+# @ responsive
+#: comments.php:75
+msgid "Name"
+msgstr ""
+
+# @ responsive
+#: comments.php:77
+msgid "E-mail"
+msgstr ""
+
+# @ responsive
+#: comments.php:79 personal - copy muti country.php:247 Copy.php:204
+#: personal.php:194
+msgid "Website"
+msgstr "Trang web"
+
+#: comments_freelance_post.php:14 comments_freelance_post.php:22
+msgid ""
+"<div style=\"text-align:left\"><h5>This Job-offer has closed down. You can "
+"scroll down for more information</h5></div>"
+msgstr ""
+"<div style=\"text-align:left\"><h5>Dự án đã kết thúc. Bạn chỉ có thể xem "
+"thông tin </h5></div>"
+
+#: comments_freelance_post.php:18
+msgid ""
+"<div style=\"text-align:left\"><h5>This Job-offer has expired. You can "
+"scroll down for more information</h5></div>"
+msgstr ""
+"<div style=\"text-align:left\"><h5>Dự án đã ngưng nhận đặt giá. Bạn chỉ có "
+"thể xem thông tin</h5></div>"
+
+#: comments_freelance_post.php:26
+msgid "Freelancers Bidding"
+msgstr "Số người đang tham gia "
+
+#: comments_freelance_post.php:26 content-single-freelance_post.php:26
+#: tintuc.php:45 tintuc.php:112
+msgid "0"
+msgstr ""
+
+#: comments_freelance_post.php:26 content-single-freelance_post.php:26
+#: tintuc.php:45 tintuc.php:112
+msgid "1"
+msgstr ""
+
+#: comments_freelance_post.php:53
+msgid "Respond to this job "
+msgstr "Đấu giá công việc này"
+
+#: comments_freelance_post.php:54
+msgid "Provide an estimate for "
+msgstr ""
+
+#: comments_freelance_post.php:56
+msgid "Submit estimate/response"
+msgstr "Đăng đấu giá"
+
+#: comments_freelance_post.php:62
+msgid ""
+"<div style=\"text-align:left\">You&rsquo;ve already respond to this job.</"
+"div>"
+msgstr ""
+"<div style=\"text-align:left\">Bạn đã gửi đấu giá cho dự án này rồi.</div>"
+
+#: comments_freelance_post.php:69
+msgid ""
+"<h3>You need to be logged in to provide estimates and respond to this job !</"
+"h3>Please "
+msgstr "<h3>Bạn cần đăng nhập để tham gia đấu giá !</h3>"
+
+#: comments_freelance_post.php:70
+msgid "register"
+msgstr ""
+
+#: comments_freelance_post.php:71
+msgid "log in or register now."
+msgstr ""
+
+#: comments_freelance_post.php:98
+msgid "Job is closed."
+msgstr "Phiên đấu giá tạm ngưng."
+
+#: content - 301013 feeds.php:24 feeds.php:48 maxmagazine.php:28
+#: maxmagazine.php:105 content.php:101 tintuc.php:36 tintuc.php:103
+#: tuyendung_ar.php:46 tuyendung_ar.php:113 includes/type11.php:45
+#: includes/type2.php:49 includes/type3.php:24
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: content - 301013 maxmagazine.php:25 maxmagazine.php:102 tintuc.php:33
+#: tintuc.php:100 tuyendung_ar.php:43 tuyendung_ar.php:110
+#: includes/type11.php:40 includes/type2.php:44 includes/type3.php:22
+msgid "Important"
+msgstr ""
+
+#: content - 301013 maxmagazine.php:52 maxmagazine.php:129 tintuc.php:60
+#: tintuc.php:127 tuyendung_ar.php:70 tuyendung_ar.php:137
+msgid "Read Post &rarr;"
+msgstr ""
+
+#: content-index.php:14 content-jobtype.php:46 content-profile.php:33
+msgid " ago"
+msgstr " trước"
+
+#: content-index.php:16
+msgid "<div class=\"closed_text\">Closed</div>"
+msgstr "<div class=\"closed_text\">Kết thúc</div>"
+
+#: content-index.php:18
+msgid "<div class=\"expires_text\">Expires</div>"
+msgstr "<div class=\"expires_text\">Ngưng đặt giá</div>"
+
+#: content-index.php:21
+msgid "<div class=\"open_text\">Opening</div>"
+msgstr "<div class=\"open_text\">Đang đấu</div>"
+
+#: content-index.php:32 content-jobtype.php:14
+msgid "by: "
+msgstr "đăng bởi: "
+
+#: content-index.php:42 content-jobtype.php:32 content-profile.php:18
+msgid "no budget"
+msgstr "thỏa thuận"
+
+#: content-index.php:45 content-jobtype.php:35 content-profile.php:21
+msgid " đ"
+msgstr ""
+
+#: content-index.php:46 content-jobtype.php:36 content-profile.php:22
+msgid "$ "
+msgstr ""
+
+#: content-index.php:70 content-jobtype.php:50
+msgid "Post a Project like this!"
+msgstr "Đăng 1 dự án giống vậy!"
+
+#: content-single-freelance_post.php:13
+msgid "Views"
+msgstr "Lượt xem"
+
+#: content-single-freelance_post.php:38
+msgid "none"
+msgstr ""
+
+#: content-single-freelance_post.php:53
+msgid "Closed "
+msgstr "Đã kết thúc"
+
+#: content-single-freelance_post.php:55
+msgid "Expires "
+msgstr "Ngưng nhận đặt giá"
+
+#: content-single-freelance_post.php:56
+msgid "Deadline in "
+msgstr "Hạn đặt giá còn "
+
+#: content-single-freelance_post.php:88
+msgid "Thanks for voting ! I appreciate it"
+msgstr ""
+
+#: content-single-freelance_post.php:100
+msgid "Click if you think this is cool"
+msgstr "Click nếu bạn thấy hào hứng"
+
+#: content-single-freelance_post.php:111
+msgid ""
+"I appreciate your downvote, but could you please let me know what is wrong ?"
+msgstr ""
+
+#: content-single-freelance_post.php:123
+msgid "Click if you think this is not so great"
+msgstr "Click nếu bạn cảm thấy thiệt là chán"
+
+#: content-single-freelance_post.php:169
+msgid "Score:"
+msgstr "Điểm số: "
+
+#: content-single-freelance_post.php:187 functions - email.php:954
+#: userrole.php:954 functions.php:968
+msgid "How to contact:"
+msgstr "Thông tin liên hệ:"
+
+#: content-single-freelance_post.php:190 functions - email.php:957
+#: userrole.php:957 functions.php:971
+msgid "Phone:"
+msgstr "Điện thoại:"
+
+#: coupon_page.php:33
+msgid "Input your Pack code below:"
+msgstr "Nhập mã số thanh toán vào ô bên dưới để kiểm tra"
+
+#: coupon_page.php:35
+msgid "Generate"
+msgstr "Kiểm tra"
+
+#: employer_landing - Copy.php:36 employer_landing.php:76
+msgid "With HR Outsourcing Services, you will: "
+msgstr "Dịch vụ thuê nhân sự ngoài:"
+
+#: employer_landing - Copy.php:37 employer_landing.php:76
+msgid "Foster the process of seeking qualified candidates promptly."
+msgstr "Thúc đẩy quá trình tìm kiếm ứng viên"
+
+#: employer_landing - Copy.php:38 employer_landing.php:76
+msgid "Save more valuable time in managing labors."
+msgstr "Tiết kiệm chi phí quản lý nhân sự"
+
+#: employer_landing - Copy.php:39 employer_landing.php:76
+msgid "Solve complicated materials in HR administrations efficiently."
+msgstr "Giải quyết bài toán phức tạp trong việc quản trị HR"
+
+#: employer_landing - Copy.php:44 employer_landing.php:36
+msgid "Intelligent recruitment solutions"
+msgstr "Giải pháp tuyển dụng thông minh"
+
+#: employer_landing - Copy.php:44 pricing_tables.php:110
+#: pricing_tables.php:111 pricing_tables.php:113 pricing_tables.php:123
+msgid "View applications in your inbox or online."
+msgstr "Xem hồ sơ ứng viên trực tuyến."
+
+#: employer_landing - Copy.php:44
+msgid "We will review the job within 24 hours and add it to the site."
+msgstr "Tin tuyển dụng của bạn sẽ được xem và duyệt trong vòng 24 giờ."
+
+#: employer_landing - Copy.php:44
+msgid "Post a job free of charge to our site."
+msgstr "Gói đăng tin miễn phí phù hợp nhu cầu."
+
+#: employer_landing - Copy.php:45 employer_landing.php:54
+msgid "POST A JOB"
+msgstr "ĐĂNG TUYỂN DỤNG"
+
+#: employer_landing - Copy.php:47 employer_landing.php:77
+msgid "Need some work done?"
+msgstr "Cần hoàn thành một số công việc?"
+
+#: employer_landing - Copy.php:47 employer_landing.php:77
+msgid "It&prime;s free and takes minutes."
+msgstr "Hoàn toàn miễn phí và nhanh chóng."
+
+#: employer_landing - Copy.php:47 employer_landing.php:77
+msgid ""
+"Describe the work you need, and talented freelancers apply instantly with "
+"proposals."
+msgstr ""
+"Hãy đăng tin ngay hôm nay, các freelancer tài năng sẽ giúp bạn ngay lập tức."
+
+#: employer_landing - Copy.php:47
+msgid "Ready to get started?"
+msgstr "Bạn đã sẵn sàng chưa?"
+
+#: employer_landing - Copy.php:47 employer_landing.php:77
+msgid "POST A PROJECT"
+msgstr "ĐĂNG 1 DỰ ÁN"
+
+#: employer_landing - Copy.php:51 employer_landing.php:66
+msgid "Job Posting Packages"
+msgstr "Các gói đăng tuyển dụng"
+
+#: employer_landing - Copy.php:52 employer_landing.php:67
+msgid ""
+"Our pricing is affordable and your guaranteed to get results from your job "
+"posting"
+msgstr ""
+"Chúng tôi đảm bảo tính hiệu quả và tiết kiệm chi phí khi đăng tuyển dụng "
+"trên sagojo"
+
+#: employer_landing - Copy.php:58 pricing_tables.php:45
+msgid "Standard"
+msgstr "Tiêu chuẩn"
+
+#: employer_landing - Copy.php:59 pricing_tables.php:49
+msgid "Professional"
+msgstr "Chuyên nghiệp"
+
+#: employer_landing - Copy.php:60 pricing_tables.php:53
+msgid "Enterprise"
+msgstr "Cao cấp"
+
+#: employer_landing - Copy.php:63
+msgid "Color highlighted brings more attention"
+msgstr "Hiệu ứng nổi bật khung tin"
+
+#: employer_landing - Copy.php:69
+msgid "Priority listing above other jobs"
+msgstr "Đặt trên top đầu ngành nghề"
+
+#: employer_landing - Copy.php:75
+msgid "Job posted in fanpage Facebook"
+msgstr "Đăng tin lên trang Facebook"
+
+#: employer_landing - Copy.php:81 employer_landing.php:49
+msgid "Post a job for 30 days"
+msgstr "Đăng tuyển trong 30 ngày"
+
+#: employer_landing - Copy.php:87 employer_landing.php:72
+msgid "View Job Pack"
+msgstr "Xem Bảng Giá"
+
+#: employer_landing - Copy.php:88
+msgid "1 Job"
+msgstr "1 vị trí"
+
+#: employer_landing - Copy.php:89 Copy.php:90
+msgid "5 Jobs"
+msgstr "5 vị trí"
+
+#: employer_landing.php:41
+msgid "View applications in your inbox or online"
+msgstr "Xem hồ sơ ứng viên trực tuyến."
+
+#: employer_landing.php:45
+msgid "We will review the job within 24 hours"
+msgstr "Tin tuyển dụng của bạn sẽ được xem và duyệt trong vòng 24 giờ."
+
+#: employer_landing.php:59
+msgid ""
+"Here are some of the benefits your organization will receive when you post "
+"your job openings at sagojo.com:"
+msgstr ""
+"Ưu đãi dành cho nhà tuyển dụng khi đăng tin trên sagojo.com bằng các gói "
+"đăng tin:"
+
+#: employer_landing.php:60
+msgid "Priority listing above other jobs."
+msgstr "Đặt trên top đầu ngành nghề"
+
+#: employer_landing.php:61
+msgid ""
+"Job postings are featured on the home pages of sagojo.com and fanpage "
+"Facebook."
+msgstr "Tin tuyển dụng hấp dẫn trên sagojo.com và trên trang Facebook."
+
+#: employer_landing.php:62
+msgid "New job postings are highlighted brings more attention."
+msgstr "Hiệu ứng nổi bật khung tin."
+
+#: employer_landing.php:63
+msgid "Your job postings will receive maximum exposure for a minimal fee!"
+msgstr "Giúp tiết kiệm chi phí và tăng tính hiệu quả!"
+
+#: employer_landing.php:71
+msgid "ENTER"
+msgstr "CHI TIẾT"
+
+#: employer_landing.php:76
+msgid ""
+"Further information and supports please contact us via phone (08) 73091212 "
+"or email: tthang@aline.jp"
+msgstr ""
+"Chăm sóc và tư vấn khách hàng liên hệ: (08) 73091212 hoặc email: "
+"tthang@aline.jp"
+
+#: footer - Copy.php:38 Copy.php:41 header 5-9_SEO.php:150
+msgid "Tìm việc làm,tuyển dụng, việc làm hcm, tim viec lam, tuyen dung"
+msgstr ""
+
+#: footer - Copy.php:41 footer.php:66
+msgid "Developed and operated by a team of Vietnamese and Japanese"
+msgstr ""
+
+#: footer.php:41
+msgid "sagojo&rsquo;s apps"
+msgstr "Ứng dụng mobile"
+
+#: footer.php:48
+msgid "Menu"
+msgstr ""
+
+#: footer.php:62
+msgid "About sagojo"
+msgstr "Về sagojo"
+
+#: footer.php:69
+msgid ""
+"Business Description: Staffing service - Consultation for medical field - "
+"Home visit nursing service - Smart phone app development - Job matching web "
+"site www.sagojo.com"
+msgstr ""
+"Mô tả doanh nghiệp: Cung cấp nguồn nhân lực - Cố vấn y tế - Dịch vụ chăm sóc "
+"y tế tại gia - Phát triển ứng dụng cho điện thọai thông minh - Tuyển dụng "
+"trên trang web www.sagojo.com"
+
+#: footer.php:100
+msgid ""
+"Copyright © A-LINE ltd. and A-LINE Vietnam Co., Ltd.<br/>\n"
+"\t\t8F, Room 801, Zen Plaza, 54-56 Nguyen Trai, Ben Thanh Ward, District 1, "
+"HCM City, Vietnam."
+msgstr ""
+
+#: front-page - Copy (2).php:64 front-page.php:134
+msgid "Sidebar Right"
+msgstr ""
+
+# @ responsive
+#: front-page - Copy (2).php:65 front-page.php:135 sidebar-home.php:46
+msgid ""
+"This is your second home widget box. To edit please go to Appearance > "
+"Widgets and choose 7th widget from the top in area 7 called Home Widget 2. "
+"Title is also manageable from widgets as well."
+msgstr ""
+
+#: front-page - Copy.php:59
+msgid "Plum jobs, rewarding lives"
+msgstr ""
+
+#: front-page - Copy.php:70
+msgid "Post a job!"
+msgstr "Đăng tuyển dụng!"
+
+#: front-page - Copy.php:71
+msgid "It&rsquo;s Free!"
+msgstr "Miễn phí!"
+
+#: front-page - Copy.php:84
+msgid "Want a job?"
+msgstr "Đang tìm việc?"
+
+#: front-page - Copy.php:85
+msgid "Sign up!"
+msgstr "Đăng ký ngay!"
+
+#: front-page - Copy.php:95
+msgid "Job Auction!"
+msgstr "Chợ việc làm!"
+
+#: front-page - Copy.php:96
+msgid "Post or bid!"
+msgstr "Hãy tham gia!"
+
+#: front-page.php:85
+msgid ""
+"<p class=\"need-postion-s\" data-position=\"-8,30\" data-in=\"top\"><font "
+"color=\"#251E6E\" size=\"20px\">NEED A POSITION FILLED?</font></p>"
+msgstr ""
+"<p class=\"need-postion-s\" data-position=\"-8,30\" data-in=\"top\"><font "
+"color=\"#251E6E\" size=\"20px\">TUYỂN DỤNG NHÂN TÀI?</font></p>"
+
+#: front-page.php:87
+msgid ""
+"<p class=\"one-post-s\" data-position=\"70,200\" data-in=\"left\"><font "
+"color=\"#738FE6\">Start by Signing Up or Post a Job</font></p>"
+msgstr ""
+"<p class=\"one-post-s\" data-position=\"70,200\" data-in=\"left\"><font "
+"color=\"#738FE6\">Đăng nhập hoặc Đăng tuyển dụng</font></p>"
+
+#: front-page.php:89
+msgid ""
+"<p class=\"free-post-p\" data-position=\"135,30\" data-in=\"right\"><a class="
+"\"free-post-s\" href=\"for-employer/\" >Post a Job - It&prime;s <b>FREE!</"
+"b></a></p>"
+msgstr ""
+"<p class=\"free-post-p\" data-position=\"135,30\" data-in=\"right\"><a class="
+"\"free-post-s\" href=\"for-employer/\" >Đăng tuyển dụng - MIỄN PHÍ</b></a></"
+"p>"
+
+#: front-page.php:99
+msgid ""
+"<p class=\"\" data-position=\"-8,30\" data-in=\"top\"  data-out=\"top"
+"\"><font color=\"#333\" style=\"font-weight: 700;\">APPLY YOUR </font>&nbsp;"
+"<font style=\"font-weight: 700;\" color=\"#251E6E\" size=\"20px\">DREAM JOB</"
+"font></p>"
+msgstr ""
+"<p class=\"\" data-position=\"-8,30\" data-in=\"top\"  data-out=\"top"
+"\"><font color=\"#333\" style=\"font-weight: 700;\">TÌM ĐƯỢC VIỆC LÀM </"
+"font>&nbsp;<font style=\"font-weight: 700;\" color=\"#251E6E\" size=\"20px"
+"\">MƠ ƯỚC</font></p>"
+
+#: front-page.php:101
+msgid ""
+"<p class=\"\" data-position=\"70,165\" data-in=\"right\" data-step="
+"\"2\"><span style=\"font-weight: 700;\"><font color=\"#738FE6\" >POST YOUR "
+"RESUME </font>&nbsp;<font color=\"#f15a24\">FREE</font></span></p>"
+msgstr ""
+"<p class=\"\" data-position=\"70,165\" data-in=\"right\" data-step="
+"\"2\"><span style=\"font-weight: 700;\"><font color=\"#738FE6\" >ĐĂNG HỒ SƠ "
+"</font>&nbsp;<font color=\"#f15a24\">MIỄN PHÍ</font></span></p>"
+
+#: front-page.php:102
+msgid ""
+"<p class=\"\" data-position=\"135,30\" data-in=\"bottom\" data-step=\"2\"><a "
+"class=\"free-post-s\" href=\"resumes-board/my-resume/\">Post Your Resume "
+"Now</a></p>"
+msgstr ""
+"<p class=\"\" data-position=\"135,30\" data-in=\"bottom\" data-step=\"2\"><a "
+"class=\"free-post-s\" href=\"resumes-board/my-resume/\">Cập nhật hồ sơ ngay</"
+"a></p>"
+
+#: front-page.php:114
+msgid ""
+"<p class=\"\" data-position=\"-8,30\" data-in=\"top\" data-step=\"1\" data-"
+"out=\"top\"><font color=\"#333\" style=\"font-weight: 700;\">NEED SOME WORK "
+"</font>&nbsp;<font color=\"#251E6E\" size=\"20px\" style=\"font-weight: 700;"
+"\">DONE?</font></p>"
+msgstr ""
+"<p class=\"\" data-position=\"-8,30\" data-in=\"top\" data-step=\"1\" data-"
+"out=\"top\"><font color=\"#333\" style=\"font-weight: 700;\">CẦN LÀM XONG </"
+"font>&nbsp;<font color=\"#251E6E\" size=\"20px\" style=\"font-weight: 700;"
+"\">CÔNG VIỆC?</font></p>"
+
+#: front-page.php:116
+msgid ""
+"<p class=\"\" data-position=\"70,130\" data-in=\"bottom\" data-step=\"1\" "
+"><font color=\"#738FE6\" style=\"font-weight: 700;\">Post a Project Today</"
+"font></p>"
+msgstr ""
+"<p class=\"\" data-position=\"70,130\" data-in=\"bottom\" data-step=\"1\" "
+"><font color=\"#738FE6\" style=\"font-weight: 700;\">Đăng dự án ngay hôm "
+"nay</font></p>"
+
+#: front-page.php:117
+msgid ""
+"<p class=\"\" data-position=\"135,30\" data-in=\"bottom\" data-step=\"1\"><a "
+"class=\"free-post-s\" href=\"jobs/\">Post a Project - It&prime;s FREE!</a></"
+"p>"
+msgstr ""
+"<p class=\"\" data-position=\"135,30\" data-in=\"bottom\" data-step=\"1\"><a "
+"class=\"free-post-s\" href=\"jobs/\">Đăng 1 dự án - MIỄN PHÍ!</a></p>"
+
+#: functions - email.php:291 userrole.php:291 functions.php:305
+msgid "Primary Menu"
+msgstr ""
+
+#: functions - email.php:399 userrole.php:399 functions.php:413
+msgid "Post navigation"
+msgstr ""
+
+#: functions - email.php:403 userrole.php:403 functions.php:417
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: functions - email.php:404 userrole.php:404 functions.php:418
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: functions - email.php:409 userrole.php:409 functions.php:423
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: functions - email.php:413 userrole.php:413 functions.php:427
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions - email.php:429 userrole.php:429 functions.php:443
+#, php-format
+msgid ""
+"<span class=\"sep\">Posted on </span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</"
+"time></a><span class=\"byline\"> <span class=\"sep\"> by </span> <span class="
+"\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" rel="
+"\"author\">%7$s</a></span></span>"
+msgstr ""
+"<span class=\"sep\">Đăng ngày </span><a href=\"%1$s\" title=\"%2$s\" rel="
+"\"bookmark\"><time class=\"entry-date\" datetime=\"%3$s\" pubdate>%4$s</"
+"time></a><span class=\"byline\"> <span class=\"sep\"> bởi </span> <span "
+"class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s\" "
+"rel=\"author\">%7$s</a></span></span>"
+
+# @ responsive
+#: functions - email.php:435 userrole.php:435 functions.php:449
+#: core/includes/functions.php:513
+#, php-format
+msgid "View all posts by %s"
+msgstr "Xem các bài viết bởi %s"
+
+#: functions - email.php:439 userrole.php:439 functions.php:453
+msgid "[:en]category: [:vi]mục: "
+msgstr ""
+
+#: functions - email.php:441 userrole.php:441 functions.php:455
+msgid "[:en]skills: [:vi]kỹ năng: "
+msgstr ""
+
+#: functions - email.php:442 email.php:654 email.php:1014 userrole.php:442
+#: userrole.php:654 userrole.php:1014 functions.php:456 functions.php:668
+#: functions.php:1028
+msgid "(Edit)"
+msgstr ""
+
+#: functions - email.php:577 userrole.php:577 functions.php:591
+#, php-format
+msgid "<a href=\"%1$s\">&laquo; First</a>"
+msgstr "<a href=\"%1$s\">&laquo; Đầu</a>"
+
+#: functions - email.php:578 userrole.php:578 functions.php:592
+#, php-format
+msgid "<a href=\"%1$s\">&lsaquo; Previous</a>"
+msgstr "<a href=\"%1$s\">&lsaquo; Trước</a>"
+
+#: functions - email.php:588 userrole.php:588 functions.php:602
+#, php-format
+msgid "<a href=\"%1$s\">Next &rsaquo;</a>"
+msgstr "<a href=\"%1$s\">Kế &rsaquo;</a>"
+
+#: functions - email.php:589 userrole.php:589 functions.php:603
+#, php-format
+msgid "<a href=\"%1$s\">Last &raquo;</a>"
+msgstr "<a href=\"%1$s\">Cuối &raquo;</a>"
+
+#: functions - email.php:613 userrole.php:613 functions.php:627
+msgid "Your price estimate:"
+msgstr "Mức giá của bạn:"
+
+#: functions - email.php:614 userrole.php:614 functions.php:628
+msgid "Estimated time to complete:"
+msgstr "Thời hạn hoàn thành:"
+
+#: functions - email.php:614 userrole.php:614 functions.php:628
+msgid "Week(s)"
+msgstr "Tuần"
+
+#: functions - email.php:614 userrole.php:614 functions.php:628
+msgid "Day(s)"
+msgstr "Ngày"
+
+#: functions - email.php:614 userrole.php:614 functions.php:628
+msgid "Hour(s)"
+msgstr "Giờ"
+
+#: functions - email.php:639 userrole.php:639 functions.php:653
+msgid "someone responded to your freelance listing"
+msgstr ""
+
+#: functions - email.php:640 userrole.php:640 functions.php:654
+msgid ""
+"Hello, a response to one of your listings was just posted on our site.\n"
+msgstr ""
+
+#: functions - email.php:654 userrole.php:654 functions.php:668
+msgid "Pingback:"
+msgstr ""
+
+#: functions - email.php:663 userrole.php:663 functions.php:677
+msgid "Your estimate is awaiting moderation."
+msgstr "Đặt giá của bạn đang chờ xử lý."
+
+#: functions - email.php:678 userrole.php:678 functions.php:692
+msgid "Completed in"
+msgstr "Hoàn thành trong"
+
+#: functions - email.php:684 userrole.php:684 functions.php:698
+msgid "s"
+msgstr "&nbsp;"
+
+#: functions - email.php:693 userrole.php:693 functions.php:707
+msgid "Estimated at"
+msgstr "Ra giá"
+
+#: functions - email.php:735 email.php:773 email.php:825 userrole.php:735
+#: userrole.php:773 userrole.php:825 functions.php:749 functions.php:787
+#: functions.php:839
+msgid "And the winner is ......"
+msgstr ""
+
+#: functions - email.php:736 userrole.php:736 functions.php:750
+msgid ""
+"<strong>The job lister has chosen this offer and has closed the job offer</"
+"strong>"
+msgstr "<strong>Nhà tuyển dụng đã chọn bài bid này, đấu giá kết thúc</strong>"
+
+#: functions - email.php:740 userrole.php:740 functions.php:754
+msgid "your bid got accepted"
+msgstr ""
+
+#: functions - email.php:741 userrole.php:741 functions.php:755
+msgid ""
+"Hello, an estimate or bid that you placed on our site just got accepted. \n"
+msgstr "Chào bạn, một bài đấu giá của bạn đã được chấp nhận. \n"
+
+#: functions - email.php:742 userrole.php:742 functions.php:756
+msgid "You can visit to see your listing and its responses. \n"
+msgstr "Bạn có thể vào xem lại theo link bên dưới. \n"
+
+#: functions - email.php:744 userrole.php:744 functions.php:758
+msgid ""
+"The project owner just received an e-mail with your contact information. \n"
+msgstr "Nhà tuyển dụng đã nhận được 1 email với thông tin liên hệ của bạn. \n"
+
+#: functions - email.php:745 userrole.php:745 functions.php:759
+msgid ""
+"You should also make contact with the project owner now to discuss things. \n"
+msgstr "Bạn hãy liên hệ với chủ dự án để trao đổi cụ thể hơn về công việc. \n"
+
+#: functions - email.php:746 userrole.php:746 functions.php:760
+msgid "Contact info: . \n"
+msgstr "Thông tin liên hệ: . \n"
+
+#: functions - email.php:747 userrole.php:747 functions.php:761
+msgid "Phone number: . \n"
+msgstr "Số điện thoại: . \n"
+
+#: functions - email.php:756 email.php:767 email.php:779 email.php:819
+#: email.php:831 userrole.php:756 userrole.php:767 userrole.php:779
+#: userrole.php:819 userrole.php:831 functions.php:770 functions.php:781
+#: functions.php:793 functions.php:833 functions.php:845
+msgid "Sorry, this is not the estimate chosen by the job poster."
+msgstr ""
+
+#: functions - email.php:757 email.php:820 userrole.php:757 userrole.php:820
+#: functions.php:771 functions.php:834
+msgid ""
+"The job lister has declined this offer but is still taking estimates and bids"
+msgstr "Nhà tuyển dụng đã từ chối bài bid này, đấu giá vẫn tiếp tục"
+
+#: functions - email.php:768 email.php:780 email.php:832 userrole.php:768
+#: userrole.php:780 userrole.php:832 functions.php:782 functions.php:794
+#: functions.php:846
+msgid "The job lister has declined this offer and has closed this job offer."
+msgstr "Nhà tuyển dụng đã từ chối bài bid này, đấu giá kết thúc"
+
+#: functions - email.php:774 email.php:826 userrole.php:774 userrole.php:826
+#: functions.php:788 functions.php:840
+msgid "The job lister has chosen this offer and has closed the job offer"
+msgstr "Nhà tuyển dụng đã chọn bài bid này, đấu giá kết thúc"
+
+#: functions - email.php:793 userrole.php:793 functions.php:807
+msgid "Accept offer"
+msgstr "Tôi chọn người này"
+
+#: functions - email.php:804 userrole.php:804 functions.php:818
+msgid "Decline offer"
+msgstr "Hủy bài đấu giá này"
+
+#: functions - email.php:837 userrole.php:837 functions.php:851
+#, php-format
+msgid "%1$s has not yet decided to accept or decline this offer"
+msgstr "%1$s chưa đưa ra quyết định với bài đấu giá này"
+
+#: functions - email.php:920 userrole.php:920 functions.php:934
+msgid "respond to this estimate"
+msgstr "phản hồi về bài đấu giá này"
+
+#: functions - email.php:926 userrole.php:926 functions.php:940
+msgid "respond"
+msgstr "gửi"
+
+#: functions - email.php:931 userrole.php:931 functions.php:945
+msgid "log in to respond"
+msgstr ""
+
+#: functions - email.php:963 userrole.php:963 functions.php:977
+msgid "Send me feedback."
+msgstr "Nhận xét về ứng viên này"
+
+#: functions - email.php:970 userrole.php:970 functions.php:984
+msgid "review"
+msgstr "gửi"
+
+#: functions - email.php:974 userrole.php:974 functions.php:988
+msgid "Rate this freelancer"
+msgstr "Cho điểm ứng viên này"
+
+#: functions - email.php:983 userrole.php:983 functions.php:997
+msgid "log in to write a review"
+msgstr ""
+
+#: functions - email.php:1002 userrole.php:1002 functions.php:1016
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: functions - email.php:1020 userrole.php:1020 functions.php:1034
+msgid "You have declined this offer"
+msgstr "Bạn đã không chọn bài bid này"
+
+#: functions - email.php:1038 userrole.php:1038 functions.php:1052
+#, php-format
+msgid "<a href=\"%1$s\" title=\"%2$s\" rel=\"author\">%3$s</a>"
+msgstr ""
+
+#: functions - email.php:1040 userrole.php:1040 functions.php:1054
+msgid "View all listings by this person"
+msgstr "Xem các dự án của người này"
+
+#: functions - email.php:1204 userrole.php:1204 functions.php:1218
+msgid "Select a job (Optional)"
+msgstr "Chọn một công việc (Tùy chọn)"
+
+#: functions - email.php:1323 userrole.php:1323 functions.php:1337
+msgid "0 Votes"
+msgstr "0 đánh giá"
+
+#: functions - email.php:1326 userrole.php:1326 functions.php:1340
+msgid "1 Vote"
+msgstr "1 đánh giá"
+
+#: functions - email.php:1328 userrole.php:1328 functions.php:1342
+msgid "Votes"
+msgstr "đánh giá"
+
+#: functions - email.php:1379 email.php:1423 email.php:1471 email.php:1515
+#: userrole.php:1379 userrole.php:1423 userrole.php:1471 userrole.php:1515
+#: functions.php:1393 functions.php:1437 functions.php:1485 functions.php:1529
+msgid "1 star out of 5"
+msgstr "1 sao trên 5"
+
+#: functions - email.php:1380 email.php:1424 email.php:1472 email.php:1516
+#: userrole.php:1380 userrole.php:1424 userrole.php:1472 userrole.php:1516
+#: functions.php:1394 functions.php:1438 functions.php:1486 functions.php:1530
+msgid "2 stars out of 5"
+msgstr "2 sao trên 5"
+
+#: functions - email.php:1381 email.php:1425 email.php:1473 email.php:1517
+#: userrole.php:1381 userrole.php:1425 userrole.php:1473 userrole.php:1517
+#: functions.php:1395 functions.php:1439 functions.php:1487 functions.php:1531
+msgid "3 stars out of 5"
+msgstr "3 sao trên 5"
+
+#: functions - email.php:1382 email.php:1426 email.php:1474 email.php:1518
+#: userrole.php:1382 userrole.php:1426 userrole.php:1474 userrole.php:1518
+#: functions.php:1396 functions.php:1440 functions.php:1488 functions.php:1532
+msgid "4 stars out of 5"
+msgstr "4 sao trên 5"
+
+#: functions - email.php:1383 email.php:1427 email.php:1475 email.php:1519
+#: userrole.php:1383 userrole.php:1427 userrole.php:1475 userrole.php:1519
+#: functions.php:1397 functions.php:1441 functions.php:1489 functions.php:1533
+msgid "5 stars out of 5"
+msgstr "5 sao trên 5"
+
+#: header - 5-9_SEO.php:139 header_23-8.php:184
+msgid ""
+"Job matching service for freelancers, freelance job, jobseekers and employers"
+msgstr ""
+
+#: header - 5-9_SEO.php:150 header.php:197 header_23-8.php:194
+msgid "&nbsp;From Japan - Tokyo"
+msgstr ""
+
+#: header.php:195
+msgid ""
+"Job matching and Job auctioning service for freelancers, jobseekers, "
+"employers and agencies"
+msgstr ""
+
+# @ responsive
+#: image.php:33
+msgid "&#8249; Return to"
+msgstr ""
+
+# @ responsive
+#: image.php:41 post-meta-page.php:30 sidebar-content-half-page.php:48
+#: sidebar-content-page.php:48
+msgid "No Comments &darr;"
+msgstr ""
+
+# @ responsive
+#: image.php:41 post-meta-page.php:30 sidebar-content-half-page.php:48
+#: sidebar-content-page.php:48
+msgid "1 Comment &darr;"
+msgstr ""
+
+# @ responsive
+#: image.php:41 post-meta-page.php:30 sidebar-content-half-page.php:48
+#: sidebar-content-page.php:48
+msgid "% Comments &darr;"
+msgstr ""
+
+# @ responsive
+#: image.php:60 sidebar-content-half-page.php:61 sidebar-content-page.php:61
+msgid "Tagged with:"
+msgstr ""
+
+# @ responsive
+#: image.php:61 post-data.php:25 sidebar-content-half-page.php:62
+#: sidebar-content-page.php:62
+#, php-format
+msgid "Posted in %s"
+msgstr ""
+
+# @ responsive
+#: image.php:65 post-data.php:30 sidebar-content-half-page.php:66
+#: sidebar-content-page.php:66 sitemap.php:63
+msgid "Edit"
+msgstr ""
+
+# @ responsive
+#: loop-no-posts.php:26
+#, php-format
+msgid "Your search for %s did not match any entries."
+msgstr ""
+
+# @ responsive
+#: loop-no-posts.php:26
+msgid "404 &#8212; Fancy meeting you here!"
+msgstr ""
+
+#: loop-no-posts.php:31
+msgid "Error"
+msgstr ""
+
+#: loop-no-posts.php:37
+#, php-format
+msgid "You can return %s."
+msgstr ""
+
+#: mapme.php:69
+msgid ""
+"I could not produce a map because the user did not provide data to geocode "
+"his or her location"
+msgstr ""
+
+#: personal - copy muti country.php:62 Copy.php:80 personal.php:79
+msgid ""
+"This e-mail address already exists in the system. Please use a different e-"
+"mail address, or log in to your account"
+msgstr ""
+
+#: personal - copy muti country.php:71 Copy.php:89 personal.php:88
+msgid "Please enter a valid email id."
+msgstr ""
+
+#: personal - copy muti country.php:78 Copy.php:96 personal.php:95
+msgid "Password must be 5 to 15 characters in length."
+msgstr ""
+
+#: personal - copy muti country.php:83 Copy.php:101 personal.php:100
+msgid "Password Mismatch"
+msgstr ""
+
+#: personal - copy muti country.php:88 Copy.php:106 personal.php:105
+msgid "Your profile updated successfully."
+msgstr ""
+
+#: personal - copy muti country.php:100 Copy.php:118 personal.php:118
+msgid "Profile and Settings"
+msgstr ""
+
+#: personal - copy muti country.php:110 Copy.php:127 personal.php:130
+msgid "Fill out all fields to raise your score and ranking."
+msgstr "Điền đầy đủ các thông tin để tăng điểm cho hồ sơ."
+
+#: personal - copy muti country.php:111 Copy.php:128
+msgid "Profilescore:"
+msgstr "Điểm hồ sơ:"
+
+#: personal - copy muti country.php:117 Copy.php:134 personal.php:136
+msgid "<h3>User settings</h3>"
+msgstr ""
+
+#: personal - copy muti country.php:118 Copy.php:135
+msgid "Items marked * are never public"
+msgstr ""
+
+#: personal - copy muti country.php:121 Copy.php:138
+msgid "First Name"
+msgstr ""
+
+#: personal - copy muti country.php:127 Copy.php:142
+msgid "Last Name"
+msgstr ""
+
+#: personal - copy muti country.php:133 Copy.php:146
+msgid "Gender"
+msgstr ""
+
+#: personal - copy muti country.php:145 Copy.php:155
+msgid "Age"
+msgstr ""
+
+#: personal - copy muti country.php:153 Copy.php:161
+msgid "Zipcode"
+msgstr ""
+
+#: personal - copy muti country.php:161 Copy.php:167 personal.php:154
+msgid "Country"
+msgstr "Quốc gia"
+
+#: personal - copy muti country.php:199 personal.php:161
+msgid "City"
+msgstr "Tỉnh/thành phố"
+
+#: personal - copy muti country.php:241 Copy.php:200
+msgid "E-mail *"
+msgstr ""
+
+#: personal - copy muti country.php:253 Copy.php:208
+msgid "Password *"
+msgstr ""
+
+#: personal - copy muti country.php:259 Copy.php:212
+msgid "Repeat Password *"
+msgstr ""
+
+#: personal - copy muti country.php:265 Copy.php:216 personal.php:201
+msgid "About me"
+msgstr "Về tôi"
+
+#: personal - copy muti country.php:271 Copy.php:220 personal.php:207
+msgid "References/experience"
+msgstr "Kinh nghiệm/Kỹ năng"
+
+#: personal - copy muti country.php:276 Copy.php:223 personal.php:292
+msgid ""
+"<strong>Info below is shown to job lister when your estimate is selected, or "
+"to freelancer when you are the job lister.</strong>"
+msgstr ""
+"<strong>Những thông tin dưới đây sẽ được gửi tới chủ dự án và người thắng "
+"đấu giá - (khi dự án đấu giá kết thúc).</strong>"
+
+#: personal - copy muti country.php:279 Copy.php:226 personal.php:295
+msgid "My phone number"
+msgstr "Số điện thoại"
+
+#: personal - copy muti country.php:285 Copy.php:230 personal.php:301
+msgid "My contactinfo"
+msgstr "Thông tin liên hệ"
+
+#: personal - copy muti country.php:292 Copy.php:235 personal.php:308
+msgid "Update"
+msgstr ""
+
+#: personal - copy muti country.php:301 personal.php:337
+msgid "<h3>Avatar Update</h3>"
+msgstr ""
+
+#: personal - copy muti country.php:336 Copy.php:279 personal.php:372
+msgid "<small>Tip: use a transparant png for maximum effects.</small><br>"
+msgstr ""
+
+#: personal - copy muti country.php:339 Copy.php:282 personal.php:375
+msgid "<br><h3>system data</h3>"
+msgstr ""
+
+#: personal - copy muti country.php:352 Copy.php:295 personal.php:388
+msgid "Publish your jobs ! (if any)"
+msgstr ""
+
+#: personal - copy muti country.php:388 Copy.php:331 personal.php:424
+msgid "Below we show you what everyone else sees when they visit this page"
+msgstr "Trang cá nhân của bạn sẽ hiển thị giống bên dưới"
+
+#: personal - Copy.php:244
+msgid "<h2>Avatar Update</h2>"
+msgstr ""
+
+#: personal.php:142
+msgid "Edit my resume:"
+msgstr "Chỉnh sửa hồ sơ:"
+
+#: personal.php:146
+msgid "Edit now"
+msgstr ""
+
+#: personal.php:213
+msgid "Skills"
+msgstr "Tự đánh giá kỹ năng"
+
+#: personal.php:218
+msgid "Enter first skill if any..."
+msgstr "Nhập 1 kỹ năng..."
+
+#: personal.php:233
+msgid "Enter second skill if any..."
+msgstr "Nhập 1 kỹ năng..."
+
+#: personal.php:248
+msgid "Enter third skill if any..."
+msgstr "Nhập 1 kỹ năng..."
+
+#: personal.php:263
+msgid "Enter fourth skill if any..."
+msgstr "Nhập 1 kỹ năng..."
+
+#: personal.php:278
+msgid "Enter fifth skill if any..."
+msgstr "Nhập 1 kỹ năng..."
+
+#: pricing_tables.php:34
+#, fuzzy
+msgid "Job City/Location"
+msgstr "Chợ việc làm!"
+
+#: pricing_tables.php:41
+msgid "Free"
+msgstr "Miễn phí"
+
+#: pricing_tables.php:42 pricing_tables.php:46 pricing_tables.php:50
+#: pricing_tables.php:54
+msgid "30 days on site"
+msgstr "30 ngày"
+
+#: pricing_tables.php:60 pricing_tables.php:65
+msgid "Allows 1 Job Posting"
+msgstr "Đăng tuyển 1 vị trí"
+
+#: pricing_tables.php:61 pricing_tables.php:66 pricing_tables.php:71
+#: pricing_tables.php:76
+msgid "Join"
+msgstr "Mua"
+
+#: pricing_tables.php:70 pricing_tables.php:75
+msgid "Allows 5 Job Postings"
+msgstr "Đăng tuyển 5 vị trí"
+
+#: pricing_tables.php:83 pricing_tables.php:84 pricing_tables.php:85
+#: pricing_tables.php:86
+msgid "Admin will approve them"
+msgstr "Duyệt tin nhanh chóng."
+
+#: pricing_tables.php:89
+msgid "Consultant email"
+msgstr "Email tư vấn"
+
+#: pricing_tables.php:90
+msgid "1 consultant email"
+msgstr "1 email tư vấn tuyển dụng"
+
+#: pricing_tables.php:91 pricing_tables.php:92
+msgid "4 consultant emails"
+msgstr "4 email tư vấn tuyển dụng."
+
+#: pricing_tables.php:95
+msgid "Listed on the homepage"
+msgstr "\"Việc làm tốt nhất\""
+
+#: pricing_tables.php:96 pricing_tables.php:97
+msgid "7 days listed on the homepage"
+msgstr "1 tuần \"Việc làm tốt nhất\"."
+
+#: pricing_tables.php:98
+msgid "14 days listed on the homepage"
+msgstr "2 tuần \"Việc làm tốt nhất\"."
+
+#: pricing_tables.php:101 pricing_tables.php:102 pricing_tables.php:103
+#: pricing_tables.php:104
+msgid "Facebook job posting"
+msgstr "Đăng tin lên trang Facebook."
+
+#: pricing_tables.php:112 pricing_tables.php:114 pricing_tables.php:124
+msgid "Online Job Posting for 30 days."
+msgstr "Sử dụng đăng tin trong 30 ngày."
+
+#: pricing_tables.php:115
+msgid "Priority Search for 1 weeks."
+msgstr "1 tuần top đầu ngành nghề"
+
+#: pricing_tables.php:116
+msgid "Featured Job for 1 weeks."
+msgstr "1 tuần \"Việc làm hấp dẫn\"."
+
+#: pricing_tables.php:120
+msgid "Most popular"
+msgstr ""
+
+#: pricing_tables.php:125
+msgid "Priority Search for 2 weeks."
+msgstr "2 tuần top đầu ngành nghề"
+
+#: pricing_tables.php:126
+msgid "Featured Job for 2 weeks."
+msgstr "2 tuần \"Việc làm hấp dẫn\"."
+
+#: pricing_tables.php:127
+msgid "Support and consulting for your recruitments."
+msgstr "Liên hệ, chăm sóc tư vấn tuyển dụng."
+
+#: pricing_tables.php:128
+msgid "Your company&prime;s logos on the homepage."
+msgstr "Đặt logo công ty trên trang chủ."
+
+#: pricing_tables.php:135
+msgid "Priority Search"
+msgstr "Top đầu ngành nghề"
+
+#: pricing_tables.php:136
+msgid ""
+"Jobs with Priority Search status appear at the top of the search results "
+"page when a relevant keyword is entered. This is likely to increase their "
+"exposure to potential job seekers."
+msgstr ""
+"Các công việc này sẽ được đặt trên top đầu ngành nghề, top đầu kết quả tìm "
+"kiếm. Tăng khả năng tìm được ứng viên thích hợp."
+
+#: pricing_tables.php:137
+msgid "Featured Job"
+msgstr "Việc làm hấp dẫn"
+
+#: pricing_tables.php:138
+msgid ""
+"Promote your job and increase its exposure. Featured Jobs are promoted via a "
+"special banner across our site."
+msgstr ""
+"Quảng bá tin tuyển dụng đến người tìm việc. Tin tuyển dụng sẽ được xuất hiện "
+"tại vị trí Việc làm nổi bật trên trang tuyển dụng."
+
+#: savejob.php:33
+msgid "My saved jobs"
+msgstr "Công việc đã lưu"
+
+# @ responsive
+#: search.php:27 core/includes/functions.php:511
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: sidebar-author.php:28
+msgid "Author"
+msgstr ""
+
+# @ responsive
+#: sidebar-gallery - Copy.php:26
+msgid "Image Information"
+msgstr ""
+
+# @ responsive
+#: sidebar-gallery - Copy.php:31
+msgid "Full Size:"
+msgstr ""
+
+# @ responsive
+#: sidebar-gallery - Copy.php:34
+msgid "Aperture: f&#47;"
+msgstr ""
+
+# @ responsive
+#: sidebar-gallery - Copy.php:38
+msgid "Focal Length:"
+msgstr ""
+
+# @ responsive
+#: sidebar-gallery - Copy.php:38
+msgid "mm"
+msgstr ""
+
+# @ responsive
+#: sidebar-gallery - Copy.php:42
+msgid "ISO:"
+msgstr ""
+
+# @ responsive
+#: sidebar-gallery - Copy.php:46
+msgid "Shutter:"
+msgstr ""
+
+# @ responsive
+#: sidebar-gallery - Copy.php:63
+msgid "Camera:"
+msgstr ""
+
+# @ responsive
+#: sidebar-gallery.php:95 sidebar-half-left.php:28 sidebar-left-half.php:28
+#: sidebar-left.php:75 sidebar-right-half.php:28 sidebar-right.php:28
+#: sidebar.php:36
+msgid "In Archive"
+msgstr ""
+
+# @ responsive
+#: sidebar-home.php:28 core/includes/functions.php:808
+msgid "Home Widget 1"
+msgstr ""
+
+# @ responsive
+#: sidebar-home.php:29
+msgid ""
+"This is your first home widget box. To edit please go to Appearance > "
+"Widgets and choose 6th widget from the top in area 6 called Home Widget 1. "
+"Title is also manageable from widgets as well."
+msgstr ""
+
+# @ responsive
+#: sidebar-home.php:45 core/includes/functions.php:818
+msgid "Home Widget 2"
+msgstr ""
+
+# @ responsive
+#: sidebar-home.php:60 core/includes/functions.php:828
+msgid "Home Widget 3"
+msgstr ""
+
+#: sidebar-home.php:61
+msgid ""
+"This is your third home widget box. To edit please go to Appearance > "
+"Widgets and choose 8th widget from the top in area 8 called Home Widget 3. "
+"Title is also manageable from widgets as well."
+msgstr ""
+
+# @ responsive
+#: single - bangoc_9-11.php:44 -ban cu cua chinh.php:48 single.php:67
+msgid "About"
+msgstr ""
+
+#: single-freelance_post.php:17
+msgid "View Project"
+msgstr "Chi tiết dự án"
+
+#: single.php:108
+msgid "[:en]Related posts:[:vi]Bài cùng chuyên mục:"
+msgstr ""
+
+# @ responsive
+#: sitemap.php:44
+msgid "Latest Posts"
+msgstr ""
+
+# @ responsive
+#: sitemap.php:55
+msgid "Pages"
+msgstr ""
+
+#: tintuc.php:45 tintuc.php:112
+msgid "%"
+msgstr ""
+
+#: tintuc_copy.php:30 tintuc_copy.php:53 tintuc_copy.php:77
+#: tintuc_copy.php:102
+msgid ""
+"Việc làm, viec lam, tìm việc làm, tim viec lam, công việc, cong viec, tuyển "
+"dụng, tuyen dung, tìm việc nhanh, viec nhanh"
+msgstr ""
+
+#: tintuc_copy.php:30
+msgid "Gọi tên thành công - sagojo"
+msgstr ""
+
+#: tintuc_copy.php:53
+msgid "Diễn tập trước buổi phỏng vấn, tại sao không? - sagojo"
+msgstr ""
+
+#: tintuc_copy.php:77
+msgid "Tập trung thế mạnh, để thăng tiến thành công - sagojo"
+msgstr ""
+
+#: tintuc_copy.php:102
+msgid "Cần chuẩn bị gì để chuyển ngành thành công? - sagojo"
+msgstr ""
+
+# @ responsive
+#: wpf-setup.php:157 core/includes/functions.php:509
+msgid "Home"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:147
+msgid "Top Menu"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:148
+msgid "Header Menu"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:149
+msgid "Sub-Header Menu"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:150
+msgid "Footer Menu"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:348 core/includes/functions.php:627
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:455
+#, php-format
+msgid ""
+"<span class=\"%1$s\">Posted on </span>%2$s<span class=\"%3$s\"> by </span>"
+"%4$s"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:510
+#, php-format
+msgid "Archive for %s"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:512
+#, php-format
+msgid "Posts tagged %s"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:514
+msgid "Error 404"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:691
+#, php-format
+msgid "Welcome to %1$s! Upgrade to %2$s today."
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:731
+msgid "Instructions"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:734
+msgid "Help"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:737
+msgid "Translate"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:740
+msgid "Showcase"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:743
+msgid "More Themes"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:758
+msgid "Main Sidebar"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:759
+msgid "Area 1 - sidebar.php"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:768
+msgid "Right Sidebar"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:769
+msgid "Area 2 - sidebar-right.php"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:778
+msgid "Left Sidebar"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:779
+msgid "Area 3 - sidebar-left.php"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:788
+msgid "Left Sidebar Half Page"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:789
+msgid "Area 4 - sidebar-left-half.php"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:798
+msgid "Right Sidebar Half Page"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:799
+msgid "Area 5 - sidebar-right-half.php"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:809
+msgid "Area 6 - sidebar-home.php"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:819
+msgid "Area 7 - sidebar-home.php"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:829
+msgid "Area 8 - sidebar-home.php"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:838
+msgid "Gallery Sidebar"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:839
+msgid "Area 9 - sidebar-gallery.php"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:848
+msgid "Colophon Widget"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:849
+msgid "Area 10 - sidebar-colophon.php"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:858
+msgid "Top Widget"
+msgstr ""
+
+# @ responsive
+#: core/includes/functions.php:859
+msgid "Area 11 - sidebar-top.php"
+msgstr ""
+
+# @ responsive
+#: core/includes/post-custom-meta.php:147
+msgid "Content/Sidebar"
+msgstr ""
+
+# @ responsive
+#: core/includes/post-custom-meta.php:148
+msgid "Sidebar/Content"
+msgstr ""
+
+# @ responsive
+#: core/includes/post-custom-meta.php:149
+msgid "Content/Sidebar Half Page"
+msgstr ""
+
+# @ responsive
+#: core/includes/post-custom-meta.php:150
+msgid "Sidebar/Content Half Page"
+msgstr ""
+
+# @ responsive
+#: core/includes/post-custom-meta.php:151
+msgid "Full Width Page (no sidebar)"
+msgstr ""
+
+# @ responsive
+#: core/includes/post-custom-meta.php:170
+msgid "Layout"
+msgstr ""
+
+# @ responsive
+#: core/includes/post-custom-meta.php:204
+msgid "Default"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:43 core/includes/theme-options.php:138
+msgid "Theme Options"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:142
+msgid "Options Saved"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:153
+msgid "Theme Elements"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:162
+msgid "Disable Breadcrumb Lists?"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:165 core/includes/theme-options.php:176
+msgid "Check to disable"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:173
+msgid "Disable Call to Action Button?"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:178 core/includes/theme-options.php:314
+#: core/includes/theme-options.php:383 core/includes/theme-options.php:443
+#: core/includes/theme-options.php:532 core/includes/theme-options.php:560
+#: core/includes/theme-options.php:593
+msgid "Save Options"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:179 core/includes/theme-options.php:315
+#: core/includes/theme-options.php:384 core/includes/theme-options.php:444
+#: core/includes/theme-options.php:533 core/includes/theme-options.php:561
+#: core/includes/theme-options.php:594
+msgid "Restore Defaults"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:187
+msgid "Logo Upload"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:195
+msgid "Custom Header"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:198
+msgid "Need to replace or remove default logo?"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:198
+#, php-format
+msgid "<a href=\"%s\">Click here</a>."
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:205
+msgid "Home Page"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:213
+msgid "Enable Custom Front Page"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:216
+#, php-format
+msgid "Overrides the WordPress %1sfront page option%2s"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:223
+msgid "Headline"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:225
+msgid "Hello, World!"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:226
+msgid "Enter your headline"
+msgstr "truy cập"
+
+# @ responsive
+#: core/includes/theme-options.php:234
+msgid "Subheadline"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:236
+msgid "Your H2 subheadline here"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:237
+msgid "Enter your subheadline"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:245
+msgid "Content Area"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:247
+msgid ""
+"Your title, subtitle and this very content is editable from Theme Option. "
+"Call to Action button and its destination link as well. Image on your right "
+"can be an image or even YouTube video if you like."
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:248
+msgid "Enter your content"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:256
+msgid "Call to Action (URL)"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:259
+msgid "Enter your call to action URL"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:267
+msgid "Call to Action (Text)"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:269
+msgid "Call to Action"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:270
+msgid "Enter your call to action text"
+msgstr ""
+
+#: core/includes/theme-options.php:280
+msgid "Enable Carousel"
+msgstr ""
+
+#: core/includes/theme-options.php:282
+msgid "Check to enable the carousel on homepage."
+msgstr ""
+
+#: core/includes/theme-options.php:286
+msgid "Carousel Category"
+msgstr ""
+
+#: core/includes/theme-options.php:290
+msgid "--none--"
+msgstr ""
+
+#: core/includes/theme-options.php:295
+msgid ""
+"Select the category for the carousel. Select <strong>none</strong> to show "
+"latest posts."
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:306
+msgid "Featured Content"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:308
+msgid "See Docs"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:312
+msgid "Paste your shortcode, video or image source"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:323
+msgid "Default Layouts"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:332
+msgid "Default Static Page Layout"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:351
+msgid "Default Single Blog Post Layout"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:370
+msgid "Default Blog Posts Index Layout"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:392
+msgid "Webmaster Tools"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:401
+msgid "Google Site Verification"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:404
+msgid "Enter your Google ID number only"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:412
+msgid "Bing Site Verification"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:415
+msgid "Enter your Bing ID number only"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:423
+msgid "Yahoo Site Verification"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:426
+msgid "Enter your Yahoo ID number only"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:435
+msgid "Site Statistics Tracker"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:436
+msgid "Leave blank if plugin handles your webmaster tools"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:441
+msgid "Google Analytics, StatCounter, any other or all of them."
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:452
+msgid "Social Icons"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:461
+msgid "Twitter"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:464
+msgid "Enter your Twitter URL"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:467
+msgid "Facebook"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:470
+msgid "Enter your Facebook URL"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:473
+msgid "LinkedIn"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:476
+msgid "Enter your LinkedIn URL"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:479
+msgid "YouTube"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:482
+msgid "Enter your YouTube URL"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:485
+msgid "StumbleUpon"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:488
+msgid "Enter your StumbleUpon URL"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:491
+msgid "RSS Feed"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:494
+msgid "Enter your RSS Feed URL"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:497
+msgid "Google+"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:500
+msgid "Enter your Google+ URL"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:503
+msgid "Instagram"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:506
+msgid "Enter your Instagram URL"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:509
+msgid "Pinterest"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:512
+msgid "Enter your Pinterest URL"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:515
+msgid "Yelp!"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:518
+msgid "Enter your Yelp! URL"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:521
+msgid "Vimeo"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:524
+msgid "Enter your Vimeo URL"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:527
+msgid "foursquare"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:530
+msgid "Enter your foursquare URL"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:541 core/includes/theme-options.php:551
+msgid "Custom CSS Styles"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:552
+msgid "https://developer.mozilla.org/en/CSS"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:553
+msgid "CSS Tutorial"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:558
+msgid "Enter your custom CSS styles."
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:569
+msgid "Custom Scripts"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:579
+msgid "Custom Scripts for Header and Footer"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:581
+msgid "Quick Tutorial"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:585
+msgid "Embeds to header.php &darr;"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:587
+msgid "Enter your custom header script."
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:589
+msgid "Embeds to footer.php &darr;"
+msgstr ""
+
+# @ responsive
+#: core/includes/theme-options.php:591
+msgid "Enter your custom footer script."
+msgstr ""
+
+#: frontforms/seconds.php:15
+msgid "<h3>Enhance your listing</h3>"
+msgstr ""
+
+#: frontforms/seconds.php:19 frontforms/standard.php:70
+msgid "your information"
+msgstr ""
+
+#: frontforms/seconds.php:20 frontforms/standard.php:71
+msgid "first name"
+msgstr ""
+
+#: frontforms/seconds.php:21 frontforms/standard.php:72
+msgid "last name"
+msgstr ""
+
+#: frontforms/seconds.php:22 frontforms/standard.php:73
+msgid "email address"
+msgstr ""
+
+#: frontforms/seconds.php:23 frontforms/standard.php:74
+msgid "zipcode"
+msgstr ""
+
+#: frontforms/seconds.php:34
+msgid ""
+"Were sorry, but it appears you are not authorized to edit this listing."
+"<br>Maybe you are not logged in with the correct credentials ?"
+msgstr ""
+
+#: frontforms/standard.php:7
+msgid "submit a job"
+msgstr ""
+
+# @ responsive
+#: frontforms/standard.php:22
+msgid "post your job description"
+msgstr "Đăng tuyển ngay hôm nay?"
+
+#: frontforms/standard.php:25
+msgid "provide a job title"
+msgstr ""
+
+#: frontforms/standard.php:26
+msgid "Write a catchy title ... it is the first thing people see!"
+msgstr ""
+
+#: frontforms/standard.php:30
+msgid "select a budget"
+msgstr "chọn ngân sách"
+
+#: frontforms/standard.php:31
+msgid "$ 0 - $ 20"
+msgstr ""
+
+#: frontforms/standard.php:32
+msgid "$ 21 - $ 50"
+msgstr ""
+
+#: frontforms/standard.php:33
+msgid "$ 51 - $ 100"
+msgstr ""
+
+#: frontforms/standard.php:34
+msgid "$ 101 - $ 175"
+msgstr ""
+
+#: frontforms/standard.php:35
+msgid "$ 176 - $ 250"
+msgstr ""
+
+#: frontforms/standard.php:36
+msgid "$ 250 - $ 500"
+msgstr ""
+
+#: frontforms/standard.php:37
+msgid "over $ 500"
+msgstr ""
+
+#: frontforms/standard.php:38
+msgid "not disclosed"
+msgstr "tự do"
+
+#: frontforms/standard.php:42
+msgid "select a deadline"
+msgstr "chọn hạn đấu giá"
+
+#: frontforms/standard.php:43
+msgid "48 hours from now"
+msgstr ""
+
+#: frontforms/standard.php:44
+msgid "one week from now"
+msgstr ""
+
+#: frontforms/standard.php:45
+msgid "2 weeks from now"
+msgstr ""
+
+#: frontforms/standard.php:46
+msgid "a month from now"
+msgstr ""
+
+#: frontforms/standard.php:47
+msgid "3 months"
+msgstr ""
+
+#: frontforms/standard.php:48
+msgid "6 months"
+msgstr ""
+
+#: frontforms/standard.php:49
+msgid "negotiable"
+msgstr "thỏa thuận"
+
+#: frontforms/standard.php:54
+msgid "enter some tags: phone,ring,model"
+msgstr ""
+
+#: frontforms/standard.php:62
+msgid "your information (locked)"
+msgstr ""
+
+#: frontforms/standard.php:86
+msgid "submit"
+msgstr ""
+
+#: includes/type11.php:66
+msgid "Detail &rarr;"
+msgstr ""
+
+#: includes/type2.php:70
+msgid "Chi tiết &rarr;"
+msgstr ""
+
+#: includes/type3.php:34
+msgid "Read more &rarr;"
+msgstr "Xem chi tiết &rarr;"
+
+#: map/area.php:2
+msgid "[:en]Why sagojo?[:vi]Vì sao chọn sagojo?[:ja]Why sagojo?"
+msgstr ""
+
+#: map/area.php:3
+msgid ""
+"[:en]sagojo has been developed in order to share “plum job, rewarding lives” "
+"with others around the world.[:vi]sagojo được phát triển để đáp ứng tiêu chí "
+"“ công việc mơ ước, hưởng thụ cuộc sống” cho mọi người trên toàn thế giới.[:"
+"ja]sagojoは plum job, rewarding lives を世界中の仲間と共有するために開発され"
+"ました。"
+msgstr ""
+
+#: map/area.php:4
+msgid ""
+"[:en]Online Resume Creator[:vi]Hồ sơ trực tuyến[:ja]Online Resume Creator"
+msgstr ""
+
+#: map/area.php:5
+msgid ""
+"[:en]Can touch with sagojo everyday through smart phone apps and our "
+"website, and receive a job opportunity information which you can share the "
+"sense of values. [:vi]Có thể tương tác với sagojo mỗi ngày thông qua các ứng "
+"dụng điện thọai và trang web của chúng tôi, bạn sẽ được nhận thông tin việc "
+"làm mới phù hợp.[:ja]sagojoが提供するモバイルアプリ配信や、ウェブサイト登録に"
+"よって、memberには日常的にsagojoと接触してもらうことが出来ます。"
+msgstr ""
+
+#: map/area.php:6
+msgid "[:en]Find top talent[:vi]Tìm kiếm nhân tài[:ja]Find top talent"
+msgstr ""
+
+#: map/area.php:7
+msgid ""
+"[:en]Can find a job seeker (member) whom you can share your sense of values "
+"for free.[:vi]Sau khi quý công ty đăng ký trở thành thành viên của sagojo, "
+"chúng tôi sẽ giới thiệu những ứng viên phù hợp nhất theo yêu cầu của quý "
+"công ty.[:ja]sagojoに登録してもらうことで、価値観の合う仲間を無料にてご紹介い"
+"たします。"
+msgstr ""
+
+#: map/area.php:8
+msgid "[:en]Freelance jobs[:vi]Công việc làm thêm[:ja]Freelance jobs"
+msgstr ""
+
+#: map/area.php:9
+msgid ""
+"[:en]Need some work done? Post a Project Today, it’s free![:vi]Bạn có một số "
+"công việc cần phải hoàn thành? Hãy tham gia chợ đấu giá việc làm và đăng dự "
+"án ngay hôm nay. Hàng ngàn freelancer đang sẵn sàng giúp bạn![:ja]Need some "
+"work done? Post a Project Today, it’s free!"
+msgstr ""
+
+#~ msgid ""
+#~ "<p><font color=\"#333\">APPLY YOUR </font><font color=\"#251E6E\" size="
+#~ "\"20px\">DREAM JOB</font></p><p><font color=\"#738FE6\">POST YOUR RESUME "
+#~ "</font><font color=\"#f15a24\">FREE</font></p><p><a class=\"hmbtn grid "
+#~ "col-540 fit\" href=\"resumes-board/my-resume/\">Post Your Resume Now</a></"
+#~ "p>"
+#~ msgstr ""
+#~ "<p><font color=\"#333\">TÌM ĐƯỢC VIỆC LÀM </font><font color=\"#251E6E\" "
+#~ "size=\"20px\">MƠ ƯỚC</font></p><p><font color=\"#738FE6\">ĐĂNG HỒ SƠ </"
+#~ "font><font color=\"#f15a24\">MIỄN PHÍ</font></p><p><a class=\"hmbtn grid "
+#~ "col-540 fit\" href=\"resumes-board/my-resume/\">Cập nhật hồ sơ ngay</a></"
+#~ "p>"
+
+#~ msgid ""
+#~ "<p><font color=\"#251E6E\" size=\"20px\">NEED A POSITION FILLED?</font></"
+#~ "p><p><font color=\"#738FE6\">Start by Signing Up or Post a Job</font></"
+#~ "p><p><a class=\"hmbtn grid col-380 fit\" href=\"for-employer/\">Post a "
+#~ "Job - It&prime;s FREE!</a></p>"
+#~ msgstr ""
+#~ "<p><font color=\"#251E6E\" size=\"20px\">TUYỂN DỤNG NHÂN TÀI?</font></"
+#~ "p><p><font color=\"#738FE6\">Hãy đăng ký hoặc Đăng tuyển dụng</font></"
+#~ "p><p><a class=\"hmbtn grid col-620 fit\" href=\"for-employer/\">Đăng "
+#~ "tuyển dụng - MIỄN PHÍ!</a></p>"
+
+#~ msgid ""
+#~ "<p><font color=\"#333\">NEED SOME WORK </font><font color=\"#251E6E\" "
+#~ "size=\"20px\">DONE?</font></p><p><font color=\"#738FE6\">Post a Project "
+#~ "Today</font></p><p><a class=\"hmbtn grid col-620 fit\" href=\"jobs/"
+#~ "\">Post a Project - It&prime;s FREE!</a></p>"
+#~ msgstr ""
+#~ "<p><font color=\"#333\">CẦN </font><font color=\"#251E6E\" size=\"20px"
+#~ "\">LÀM XONG </font><font color=\"#333\">CÔNG VIỆC?</font></p><p><font "
+#~ "color=\"#738FE6\">Đăng dự án ngay hôm nay</font></p><p><a class=\"hmbtn "
+#~ "grid col-540 fit\" href=\"jobs/\">Đăng 1 dự án - MIỄN PHÍ!!</a></p>"
+
+#~ msgid "* Priority listing above other jobs."
+#~ msgstr "* Tin tuyển dụng được ưu tiên trên cùng của danh sách tuyển dụng."
+
+#~ msgid ""
+#~ "* Your job posting will have wide exposure to more than 100,000 unique "
+#~ "visitors each month."
+#~ msgstr "* Trên 100,000 lượt xem tin tuyển dụng của Quý khách mỗi tháng."
+
+#~ msgid "Top Job"
+#~ msgstr "Việc làm tốt nhất"
+
+#~ msgid "Featured Employer"
+#~ msgstr "Nhà tuyển dụng hàng đầu"
+
+#~ msgid "Employer Benefits"
+#~ msgstr "Quyền lợi ưu tiên đặc biệt chỉ dành riêng cho nhà tuyển dụng"
+
+#~ msgid "Single"
+#~ msgstr "1 tin"
+
+#~ msgid "5 Packs"
+#~ msgstr "5 tin"
+
+#~ msgid "Basic"
+#~ msgstr "Cơ bản"
+
+#~ msgid "Advance"
+#~ msgstr "Nâng cao"
+
+#~ msgid "Follow Us"
+#~ msgstr "Kết nối với sagojo"
+
+#~ msgid "Bids: %1$d"
+#~ msgstr "Số lần đấu giá: %1$d"
+
+#~ msgid "Wins: %1$d"
+#~ msgstr "Số lần thắng đấu giá: %1$d"
+
+#~ msgid "Reviews"
+#~ msgstr "Các phản hồi"
+
+#~ msgid "Opening"
+#~ msgstr "Đang đấu"

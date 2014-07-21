@@ -1,0 +1,12 @@
+
+.ibpro-widget table th, .ibpro-widget table td {
+    border-top: 1px solid #DDDDDD;
+    line-height: 6px;
+    padding: 8px;
+    text-align: left;
+    vertical-align: top;
+}
+#icon-ibpro{
+	background-image: url("images/icons32.png?ver=20121105");
+	background-position: -705px -5px;
+}

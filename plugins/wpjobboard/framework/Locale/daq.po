@@ -1,0 +1,135 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-07-03 14:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/Url.php:14
+msgid "Invalid URL. Provide valid URL"
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/Float.php:37
+msgid "Value is not a Float."
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/Float.php:42
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/Int.php:42
+msgid "Value is to small."
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/Float.php:47
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/Int.php:47
+msgid "Value is to big."
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/InArray.php:22
+msgid "Unrecognized value"
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/File/Ext.php:31
+msgid "Unrecognized file extension."
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/File/ImageSize.php:29
+msgid "Unknown image file."
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/File/ImageSize.php:36
+msgid "Image width is to big."
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/File/ImageSize.php:41
+msgid "Image height is to big."
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/File/Default.php:24
+msgid "The uploaded file exceeds the upload_max_filesize directive in php.ini"
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/File/Default.php:27
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form"
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/File/Default.php:30
+msgid "The uploaded file was only partially uploaded"
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/File/Default.php:33
+msgid "No file was uploaded"
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/File/Default.php:36
+msgid "Missing a temporary folder"
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/File/Default.php:39
+msgid "Failed to write file to disk"
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/File/Default.php:42
+msgid "File upload stopped by extension"
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/File/Default.php:45
+msgid "Unknown upload error"
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/File/Size.php:22
+msgid "File is to big."
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/Email.php:16
+msgid "Email address is invalid"
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/Required.php:15
+msgid "Field cannot be empty"
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/Date.php:23
+msgid "Invalid date format"
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/Db/NoRecordExists.php:15
+msgid "Record already exists in the database."
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/Db/RecordExists.php:15
+msgid "Record does not exist in the database."
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/Int.php:37
+msgid "Value is not an Integer."
+msgstr ""
+
+#. [ADMIN]
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/Slug.php:16
+msgid "Slug cannot be empty"
+msgstr ""
+
+#. [ADMIN]
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/Slug.php:23
+msgid "Slug can contain only letters, numbers, and hyphens and underscores"
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/StringLength.php:26
+msgid "String is to short"
+msgstr ""
+
+#: /home/greg/htdocs/wpapps/tools/wpjb/build/wpjobboard/framework/Validate/StringLength.php:31
+msgid "String is to long"
+msgstr ""

@@ -1,0 +1,127 @@
+
+        *{
+           margin: 0 auto; 
+        }
+    
+        #header-email{
+            background: #20196A;
+            height: 170px;
+        }
+        
+        #logo-email{
+            height: 100px;
+            width: 650px;
+            padding-top: 20px;
+            margin-bottom: 10px;
+        }
+        #logo-sagojo{
+            
+            float: left;
+            padding-left: 40px;
+        }
+        #logo-flag{
+            
+            float:right;
+            padding-right: 70px;
+            padding-top: 20px;
+          
+        }
+        
+         #header-email a{
+            overflow: hidden;
+            color: #FFF;
+            float: left;
+         }
+         
+         #text-header{
+            padding-left: 10px;
+         }
+         
+         #facebook-email{
+            border-bottom: 3px solid #20196A;
+            height: 60px;
+            line-height: 60px;
+            text-align: center;
+            margin-bottom: 20px;
+            
+         }
+         
+         #facebook-email a{
+            font-size: 18px;
+            color: #FFF;
+            text-decoration: none;
+            letter-spacing:1px;
+         }
+         #facebook-email a:hover{
+            
+            text-decoration: underline;
+            
+            
+         }
+         
+         #facebook-email #face-email{
+            border-radius: 5px;
+            background: #0738fe;
+            padding: 10px 20px;
+         }
+         
+         #facebook-email #face-email:hover{
+            border-radius: 5px;
+            background: #f15a24;
+            padding: 10px 20px;
+         }
+         
+         #content-email{
+            margin-bottom: 10px;
+            padding-left: 10px;
+            padding-right: 10px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid #20196A;
+            
+         }
+         #content-email p{
+            text-align: center;
+         }
+         
+         #link-email p#link-post{
+            font-size: 15px;
+           
+            font-weight: bold;
+            margin-bottom: 25px;
+         }
+          #link-email {
+                font-size: 20px;
+                
+                font-weight: bold;
+                margin-bottom: 40px;
+                text-align: center;
+          }
+             
+          #link-email span{
+            border-radius: 5px;
+            background: #0738fe;
+            padding: 10px 20px;
+          }
+          
+          #link-email span:hover{
+            border-radius: 5px;
+            background: #f15a24;
+            padding: 10px 20px;
+            text-decoration: underline;
+            color: #FFF;
+          }
+          
+          #link-email span a{
+            color: #FFF;  
+            text-decoration: none;
+          }
+          #footer-email{
+            padding-top: 20px;
+            padding-bottom: 10px;
+            text-align: center;
+            font-size: 15px;
+            background: #b4b4b4;
+            color: #FFF;
+            line-height: 35px;
+            
+          }

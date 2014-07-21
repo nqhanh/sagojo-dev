@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Theme My Login v6.3.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-11-18 08:43+0700\n"
+"PO-Revision-Date: 2013-11-18 08:43+0700\n"
+"Last-Translator: hanhdo <hanhdo205@gmail.com>\n"
+"Language-Team: \n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: sagojo-most-viewed.php:31
+msgid "View"
+msgstr "Lượt xem"
+
+#: sagojo-most-viewed.php:33
+msgid "Views"
+msgstr "Lượt xem"
+
+#: sagojo-most-viewed.php:57
+msgid "sagojo Most Viewed"
+msgstr ""
+
+#: sagojo-most-viewed.php:60
+msgid "Display the most read posts by category."
+msgstr "Hiển thị những bài post nhiều người đọc nhất"
+
+#: sagojo-most-viewed.php:93
+msgid "Most Read Posts"
+msgstr "Xem nhiều"
+
+#: sagojo-most-viewed.php:98 sagojo-most-viewed.php:163
+msgid "Title:"
+msgstr "Tiều đề widget:"
+
+#: sagojo-most-viewed.php:121
+msgid "sagojo Recent Post"
+msgstr ""
+
+#: sagojo-most-viewed.php:124
+msgid "Display the recent posts by category."
+msgstr "Hiển thị những bài post mới nhất"
+
+#: sagojo-most-viewed.php:158
+msgid "Recent Posts"
+msgstr "Bài mới"
+
+# @ default
+# @ theme-my-login
+#~ msgid "Lost Password"
+#~ msgstr "Quên mật khẩu"
+
+# @ theme-my-login
+# @ default
+#~ msgid "Login"
+#~ msgstr "Đăng nhập"
+
+# @ default
+# @ theme-my-login
+#~ msgid "Reset Password"
+#~ msgstr "Thay đổi mật khẩu"
+
+# @ theme-my-login
+#~ msgid "Your username cannot be changed."
+#~ msgstr "Bạn không được phép thay đổi tên đăng nhập"
+
+# @ default
+#~ msgid "New password"
+#~ msgstr "Mật khẩu mới"
+
+# @ default
+#~ msgid "Check your e-mail for the confirmation link."
+#~ msgstr "Kiểm tra đường dẫn xác nhận qua email."
+
+# @ default
+# @ theme-my-login
+#, fuzzy
+#~ msgid "Get New Password"
+#~ msgstr "Lấy lại mật khẩu"

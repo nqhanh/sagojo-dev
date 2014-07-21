@@ -1,0 +1,309 @@
+# French (fr_FR) translation for WP User Avatar.
+# Copyright (C) 2013 Bangbay Siboliban.
+# This file is distributed under the same license as the WP User Avatar package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: WP User Avatar 1.5.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/wp-user-avatar/\n"
+"POT-Creation-Date: 2013-08-12 09:31+0700\n"
+"PO-Revision-Date: 2013-08-12 09:31+0700\n"
+"Last-Translator: hanhdo <hanhdo205@gmail.com>\n"
+"Language-Team: WP User Avatar\n"
+"Language: vi_VN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: uninstall.php:9 wp-user-avatar.php:18 includes/tinymce.php:8
+#: includes/tinymce/window.php:8
+msgid "You are not allowed to call this page directly."
+msgstr ""
+
+#: wp-user-avatar.php:238
+msgid "You do not have sufficient permissions to access this page."
+msgstr ""
+
+#: wp-user-avatar.php:317
+msgid "Update Profile"
+msgstr ""
+
+#: wp-user-avatar.php:317
+msgid "Update User"
+msgstr ""
+
+#: wp-user-avatar.php:320 wp-user-avatar.php:322 wp-user-avatar.php:324
+#: wp-user-avatar.php:327
+msgid "[:en]User Avatar[:vi]Hình đại diện[:ja]アバター"
+msgstr ""
+
+#: wp-user-avatar.php:335
+msgid "Upload"
+msgstr ""
+
+#: wp-user-avatar.php:337 wp-user-avatar.php:964
+#, php-format
+msgid "Maximum upload file size: %d%s."
+msgstr ""
+
+#: wp-user-avatar.php:339
+msgid "Allowed Files"
+msgstr ""
+
+#: wp-user-avatar.php:339
+msgid "<code>jpg jpeg png gif</code>"
+msgstr ""
+
+#: wp-user-avatar.php:347
+msgid "[:en]Original Size[:vi]Hình mặc định[:ja]オリジナルサイズ"
+msgstr ""
+
+#: wp-user-avatar.php:351
+msgid "[:en]Thumbnail[:vi]Thu nhỏ[:ja]サムネイル"
+msgstr ""
+
+#: wp-user-avatar.php:353 wp-user-avatar.php:819
+msgid "Remove"
+msgstr ""
+
+#: wp-user-avatar.php:354 wp-user-avatar.php:821
+#, php-format
+msgid "Click %s to save your changes"
+msgstr "Cliquez sur %s pour enregistrer vos modifications"
+
+#: wp-user-avatar.php:371
+msgid ""
+"The uploaded file exceeds the MAX_FILE_SIZE directive that was specified in "
+"the HTML form."
+msgstr ""
+
+#: wp-user-avatar.php:411
+msgid "Sorry, this file type is not permitted for security reasons."
+msgstr ""
+
+#: wp-user-avatar.php:452 wp-user-avatar.php:514
+msgid "Select Image"
+msgstr ""
+
+#: wp-user-avatar.php:454 wp-user-avatar.php:472 wp-user-avatar.php:817
+#: wp-user-avatar.php:883 wp-user-avatar.php:1036
+#: includes/tinymce/window.php:14
+msgid "WP User Avatar"
+msgstr "Hình đại diện"
+
+#: wp-user-avatar.php:464 wp-user-avatar.php:889 wp-user-avatar.php:892
+msgid "Settings"
+msgstr ""
+
+#: wp-user-avatar.php:514 wp-user-avatar.php:818
+msgid "Edit Image"
+msgstr ""
+
+#: wp-user-avatar.php:780
+msgid "Mystery Man"
+msgstr ""
+
+#: wp-user-avatar.php:781
+msgid "Blank"
+msgstr ""
+
+#: wp-user-avatar.php:782
+msgid "Gravatar Logo"
+msgstr ""
+
+#: wp-user-avatar.php:783
+msgid "Identicon (Generated)"
+msgstr ""
+
+#: wp-user-avatar.php:784
+msgid "Wavatar (Generated)"
+msgstr ""
+
+#: wp-user-avatar.php:785
+msgid "MonsterID (Generated)"
+msgstr ""
+
+#: wp-user-avatar.php:786
+msgid "Retro (Generated)"
+msgstr ""
+
+#: wp-user-avatar.php:821
+msgid "Save Changes"
+msgstr ""
+
+#: wp-user-avatar.php:822 wp-user-avatar.php:846 wp-user-avatar.php:1005
+#: wp-user-avatar.php:1008
+msgid "Default Avatar"
+msgstr ""
+
+#: wp-user-avatar.php:843
+#, fuzzy
+msgid "Avatar"
+msgstr "Hình đại diện"
+
+#: wp-user-avatar.php:895
+msgid "Add avatar button to Visual Editor"
+msgstr "Ajouter le bouton avatar sur l'éditeur visuel"
+
+#: wp-user-avatar.php:899
+msgid "Allow Contributors & Subscribers to upload avatars"
+msgstr "Permettre aux contributeurs et aux abonnés d'envoyer des avatars"
+
+#: wp-user-avatar.php:903
+msgid "Disable Gravatar and use only local avatars"
+msgstr "Désactiver Gravatar et utiliser les avatars fournis"
+
+#: wp-user-avatar.php:907
+msgid "Allow users to upload avatars in front pages"
+msgstr "Permettre aux utilisateurs d'envoyer dans les pages frontales"
+
+#: wp-user-avatar.php:915 wp-user-avatar.php:920
+msgid "Upload Size Limit (only for Contributors & Subscribers)"
+msgstr "Taille limite d'envoi de fichiers (pour contributeurs et abonnés)"
+
+#: wp-user-avatar.php:923
+#, php-format
+msgid "%s exceeds the maximum upload size for this site."
+msgstr ""
+
+#: wp-user-avatar.php:969
+msgid "Avatars"
+msgstr ""
+
+#: wp-user-avatar.php:970
+msgid ""
+"An avatar is an image that follows you from weblog to weblog appearing "
+"beside your name when you comment on avatar enabled sites. Here you can "
+"enable the display of avatars for people who comment on your site."
+msgstr ""
+
+#: wp-user-avatar.php:973 wp-user-avatar.php:976
+msgid "Avatar Display"
+msgstr ""
+
+#: wp-user-avatar.php:979
+msgid "Show Avatars"
+msgstr ""
+
+#: wp-user-avatar.php:985 wp-user-avatar.php:988
+msgid "Maximum Rating"
+msgstr ""
+
+#: wp-user-avatar.php:991
+msgid "G &#8212; Suitable for all audiences"
+msgstr ""
+
+#: wp-user-avatar.php:992
+msgid "PG &#8212; Possibly offensive, usually for audiences 13 and above"
+msgstr ""
+
+#: wp-user-avatar.php:993
+msgid "R &#8212; Intended for adult audiences above 17"
+msgstr ""
+
+#: wp-user-avatar.php:994
+msgid "X &#8212; Even more mature than above"
+msgstr ""
+
+#: wp-user-avatar.php:1009
+msgid ""
+"For users without a custom avatar of their own, you can either display a "
+"generic logo or a generated one based on their e-mail address."
+msgstr ""
+
+#: includes/tinymce/window.php:71
+msgid "User Name"
+msgstr ""
+
+#: includes/tinymce/window.php:80 includes/tinymce/window.php:92
+msgid "Size"
+msgstr ""
+
+#: includes/tinymce/window.php:83
+msgid "Original Size"
+msgstr ""
+
+#: includes/tinymce/window.php:84
+msgid "Large"
+msgstr ""
+
+#: includes/tinymce/window.php:85
+msgid "Medium"
+msgstr ""
+
+#: includes/tinymce/window.php:86
+msgid "Thumbnail"
+msgstr ""
+
+#: includes/tinymce/window.php:87
+msgid "Custom"
+msgstr ""
+
+#: includes/tinymce/window.php:96
+msgid "Alignment"
+msgstr ""
+
+#: includes/tinymce/window.php:99
+msgid "Center"
+msgstr ""
+
+#: includes/tinymce/window.php:100
+msgid "Left"
+msgstr ""
+
+#: includes/tinymce/window.php:101
+msgid "Right"
+msgstr ""
+
+#: includes/tinymce/window.php:105
+msgid "Link To"
+msgstr ""
+
+#: includes/tinymce/window.php:108
+msgid "Image File"
+msgstr ""
+
+#: includes/tinymce/window.php:109
+msgid "Attachment Page"
+msgstr ""
+
+#: includes/tinymce/window.php:110
+msgid "Custom URL"
+msgstr ""
+
+#: includes/tinymce/window.php:115
+msgid "URL"
+msgstr ""
+
+#: includes/tinymce/window.php:121
+msgid "Open link in a new window"
+msgstr ""
+
+#: includes/tinymce/window.php:125
+msgid "Insert into Post"
+msgstr ""
+
+#~ msgid "http://wordpress.org/plugins/wp-user-avatar/"
+#~ msgstr "http://wordpress.org/plugins/wp-user-avatar/"
+
+#~ msgid ""
+#~ "Use any image from your WordPress Media Library as a custom user avatar. "
+#~ "Add your own Default Avatar."
+#~ msgstr ""
+#~ "Utiliser n'importe quelle image dans votre Bibliothèque de médias de "
+#~ "WordPress comme un avatar personnalisé. Ajouter votre propre avatar par "
+#~ "défaut."
+
+#~ msgid "Bangbay Siboliban"
+#~ msgstr "Bangbay Siboliban"
+
+#~ msgid "http://siboliban.org/"
+#~ msgstr "http://siboliban.org/"

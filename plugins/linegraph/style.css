@@ -1,0 +1,24 @@
+
+#jQ-menu ul {
+	list-style-type: none;
+}
+
+#jQ-menu a, #jQ-menu li {
+	color: gray;
+	text-decoration: none;
+	padding-bottom: 3px;
+}
+
+#jQ-menu ul {
+	padding-left: 15px;
+}
+.newspaper
+{
+
+-moz-column-count: 6;
+-moz-column-gap: 1em;
+-moz-column-rule: 1px solid black;
+-webkit-column-count: 6;
+-webkit-column-gap: 5em;
+-webkit-column-rule: 1px dotted #e2e2e2;
+}

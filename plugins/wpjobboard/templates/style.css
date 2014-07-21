@@ -1,0 +1,996 @@
+/*
+ Stylesheet for: main page, categories, job types and search results
+*/
+
+#content table {
+    border: 0;
+}
+
+.entry-content .wpjb_form input,
+.entry-content .wpjb_form select {
+    margin: 0;
+}
+
+#content .wpjb-main thead th {
+    padding-left: 5px;
+}
+
+.logo {
+    border: 1px solid rgb(240, 240, 240);
+    float: left;
+    height: 55px !important;
+    margin: 6px;
+    width: 55px !important;
+}
+
+.wpjb-main {
+    font-size: 100%;
+}
+
+.wpjb-main form {
+    text-align:left;
+}
+
+.wpjb-main h2 {
+    margin-bottom: 15px;
+}
+
+#wpjb-main table.wpjb-table {
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+
+#wpjb-main .wpjb-table thead tr th {
+    text-align: left;
+    border-bottom:1px solid #D9D9D9;
+    padding: 0 5px;
+}
+
+#wpjb-main .wpjb-table thead tr th.wpjb-last {
+    text-align: right;
+    padding-right: 4px;
+}
+
+#wpjb-main .wpjb-table tbody tr td {
+    border-bottom:1px solid #D9D9D9;
+    padding:8px 5px;
+    text-align: left;
+    vertical-align: top;
+}
+
+#wpjb-main .wpjb-table tbody {
+    border-top: 3px solid #D9D9D9;
+}
+
+#wpjb-main .wpjb-table tbody tr td.wpjb-last {
+    text-align: right;
+    padding-right: 4px;
+}
+
+#wpjb-main .wpjb-table tbody tr td a {
+    font-weight: inherit;
+}
+
+/*
+ Stylesheet for: add
+*/
+
+ul#wpjb-step-number {
+    line-height: 35px;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+
+
+ul#wpjb-step-number li.wpjb-render-1 {
+    display: block;
+    float: left;
+    list-style-type: none;
+    text-align: center;
+    width: 260px;
+}
+
+ul#wpjb-step-number li.wpjb-render-2 {
+    display: block;
+    float: left;
+    list-style-type: none;
+    text-align: right;
+    width: 80px;
+}
+ul#wpjb-step-number li.wpjb-render-3 {
+    display: block;
+    float: left;
+    list-style-type: none;
+    text-align: right;
+    width: 166px;
+}
+
+ul#wpjb-step-number li.redenr-step strong#current {
+}
+
+#wpjb-step {
+   
+    color: Green;
+    font-size: 15px;
+    font-variant: small-caps;
+    font-weight: normal;
+    letter-spacing: 1px;
+    margin: 10px;
+    text-align: center;
+}
+
+#wpjb-render-2{
+    
+    
+}
+
+#step1 h6 {
+    background: url(images/mot.png) no-repeat scroll;
+    width: 620px;
+    height: 30px;
+}
+
+#step2 h6 {
+    background: url(images/hai.png) no-repeat  scroll;
+    width: 620px;
+    height: 30px;
+}
+#step3 h6 {
+    background: url(images/ba.png) no-repeat  scroll;
+    width: 620px;
+    height: 30px;
+}
+
+.wpjb-form .wpjb-error {
+    border: 1px solid #DE5400;
+    background-color: 	#FFE87C;
+}
+
+.wpjb-form .wpjb-required {
+    font-weight: bold;
+    color: red;
+}
+
+.wpjb-form {
+    
+}
+
+/*.wpjb-form fieldset {
+    margin-bottom: 15px;
+    border: 1px solid #D9D9D4;
+}
+*/
+.wpjb-form fieldset legend {
+    margin-left: 10px;
+    font-weight: bold;
+    font-size: 110%;
+	background-color: #FFF;
+}
+
+.wpjb-form fieldset legend.wpjb-empty {
+    margin: 0;
+    padding: 0;
+    display:none;
+}
+
+.wpjb-form div {
+    /*padding:5px;
+    margin: 5px;*/
+    clear: both;
+    overflow:hidden;
+    /*background: #FFF;*/
+}
+
+
+.wpjb-element-name-user_birthday .wpjb-field #user_birthday{
+    float: left;
+    
+}
+
+/*Da Lay di sang style.css ben reponsive*/
+
+.wpjb-form input#wpjb_reset:hover, .wpjb-form input#wpjb_submit:hover{
+    opacity: 0.8;
+}
+
+
+
+
+
+.wpjb-form div.wpjb-field input#query, .wpjb-form div.wpjb-field select#type,.wpjb-form div.wpjb-field select#category, .wpjb-form div.wpjb-field select#posted,.wpjb-form div.wpjb-field select#location,.wpjb-form div.wpjb-field select#degree,.wpjb-form div.wpjb-field select#experience{
+    width: 100%;
+    margin: 0;
+}
+
+.wpjb-form div div.wpjb-field textarea {
+    width: 90%;
+    height: 170px;
+}
+
+.wpjb-form div small {
+    display: block;
+    font-style: italic;
+}
+
+.wpjb-form div.wpjb-input-textarea small {
+    margin-left:0%;
+}
+
+.wpjb-element-name-job_address .wpjb-field #job_address{
+    width: 100%;
+}
+
+
+.wpjb-form ul.wpjb-errors li {
+	list-style-type:none;
+    color: #D54E21;
+    margin-top: 5px;
+}
+
+.wpjb-form .wpjb-element-input-textarea .wpjb-field {
+    display: block;
+    width: 100%;
+}
+
+.wpjb-submit{
+	text-align: center;
+}
+
+#wpjb_pricing {
+    margin-top: 20px;
+    width: 100%;
+    font-size: 120%;
+}
+
+#wpjb_pricing table {
+    border: 0;
+}
+
+#wpjb_pricing tbody td {
+    width: 50%;
+    border: 0;
+    padding: 5px 0px;
+}
+
+#wpjb_table_total {
+    font-weight: bold;
+}
+
+/*
+ Job details
+*/
+
+table.wpjb-info {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0 -1px 24px 0;
+}
+
+table.wpjb-info tbody {
+    /*border-top: 3px solid #D9D9D9;*/
+}
+
+table.wpjb-info tbody tr td {
+   /* border-top: 1px solid #E7E7E7;
+    border-bottom: 1px solid #E7E7E7;*/
+    width: 40px;
+}
+
+#content table.wpjb-info tbody tr td {
+    border-bottom: 1px dotted #e2e2e2;
+	word-wrap: break-word;
+}
+
+table.wpjb-info tbody tr td {
+    padding:6px 10px;
+}
+
+
+/*table.wpjb-info tbody tr td {
+
+    padding: 6px 10px;
+    width: 70px;
+}*/
+
+.wpjb-no-border td {
+    border: 0px solid silver !important;
+}
+
+.wpjb-job-content {
+    margin-bottom: 20px;
+}
+
+
+ul.wpjb-related-job-ul li.wpjb-related-job:hover{
+    list-style-type: none;
+    background: #DDEEF6;
+    padding-left: 30px;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    
+}
+ul.wpjb-related-job-ul li.wpjb-related-job a{
+    text-transform: capitalize;
+}
+
+.wpjb-job-content ul .wpjb-type-7 {
+    border: medium none;
+    margin-left: -25px;
+    padding: 5px 0 5px 14px;
+    width: 108%;
+    border-bottom:1px dotted #D9D9D9;
+}
+
+.wpjb-job-content h3 {
+    display: block;
+    padding-left: 5px;
+    padding-bottom: 4px;
+    color: #f15a24;
+    text-transform: capitalize;
+    font-size: 1.2em !important;
+}
+
+.wpjb-job-apply {
+    clear: both;
+    margin: 0px 0 0;
+	padding-top: 25px;
+    text-align: center;
+}
+
+a.wpjb-button {   
+    background: none repeat scroll 0 0 #F15A24;
+    border: 1px solid #F15A24;
+    color: #FFFFFF;
+    cursor: pointer;
+    display: inline-block;
+    font-size: 15px;
+	transition:background 0.2s linear 0s;
+    line-height: 20px;
+    margin: 0;
+    padding: 5px 10px;
+    text-decoration: none;
+    vertical-align: middle;
+    white-space: nowrap;        
+}
+
+a.wpjb-button:hover {
+    background:#BF4317;            
+  }
+a.wpjb-top-button { 
+	background: none repeat scroll 0 0 #F15A24;
+	border: 1px solid #F15A24;
+	color: #FFFFFF;
+	cursor: pointer;
+	display: inline-block;
+	font-size: 15px;
+	transition: background 0.2s linear 0s;
+	line-height: 20px;
+	margin: 0;
+	padding: 10px 20px;
+	text-decoration: none;
+	vertical-align: middle;
+	white-space: nowrap;
+	font-weight:700;
+}
+a.wpjb-top-button:hover {
+    background:#BF4317;            
+  }
+#wpjb-logo {
+    float:right;
+}
+
+.wpjb-job-text {
+    margin: 10px 0px 30px 0px;
+    overflow:hidden;
+    padding-left: 10px;
+}
+
+.wpjr-page-resume  .wpjb-job-text  ul{
+	list-style: disc;
+	padding: 5px 30px;
+}
+.wpjr-page-resume  .wpjb-job-text  ul li{
+	border:none;
+	padding:0px;
+}
+#wpjb_payment {
+    margin-left:auto;
+    margin-right:auto;
+    width:60%
+}
+
+.wpjb-featured {
+    border: 1px solid #f15a24;
+	background-color: antiquewhite;
+}
+.wpjb-paid {
+    border: 1px solid #f15a24;
+}
+
+.wpjb-filled td.wpjb-column-title a {
+    text-decoration: line-through;
+}
+
+.wpjb-filled .wpjb-column-title a {
+    text-decoration: line-through;
+}
+
+
+.jobs {
+    border-top: 1px solid #B4B4B4;
+}
+
+
+/*.wpjb-category-1 {
+    border: 1px solid #ADADAD;
+
+    float: left;
+    list-style-type: none;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    width: 99%;
+    position: relative;
+}
+
+*/
+
+
+
+
+/*.wpjb-category-1:hover {
+	background-color: #ddeef6;
+    border-bottom: 1px solid #FF9900;
+   
+}*/
+
+.jobsboard:hover {
+	background-color: #ddeef6;
+    border-bottom: 1px solid #FF9900;
+   
+}
+
+/*.wpjb-category-2 {
+    border: 1px solid #ADADAD;
+
+    float: left;
+    list-style-type: none;
+    margin-bottom: 2px;
+    margin-top: 2px;
+    position: relative;
+    width: 99%;
+}
+
+.wpjb-category-2:hover {
+    background-color: #ddeef6;
+    border: 1px solid #FF9900;
+}*/
+
+
+.hai {
+    float: right;
+    padding-right: 20px;
+}
+
+.bon{
+    float: right;
+    padding-right: 20px;
+}
+
+.wpjb-menu-bar {
+    margin-bottom: 30px;
+}
+
+#wpjb-paginate-links {
+    margin: 20px 0;
+    text-align: right;
+}
+
+#wpjb-paginate-links a {
+    border:1px solid;
+	padding-left: 8px;
+	padding-right: 8px;
+}
+
+#wpjb-paginate-links a.next, #wpjb-paginate_links a.prev {
+    border: 0;
+}
+
+.wpjb-flash-error {
+    padding: 5px 15px;
+    margin: 20px 0px 10px 0px;
+    background-color:#FFE87C;
+    border:1px solid #DE5400;
+}
+
+.wpjb-flash-info {
+    padding: 5px 15px;
+    margin: 20px 0px 40px 0px;
+    border: 1px solid #E6DB55;
+    background-color: #FFFBCC;
+}
+
+.wpjb-company-list {
+    list-style-type: none;
+    padding-left:0px;
+}
+
+img.wpjb-resume-photo {
+    border:1px solid silver;
+    padding: 4px;
+    max-width: 128px !important;
+    float:left;
+    margin-right: 20px;
+}
+
+#content img.wpjb-resume-photo {
+    margin-right: 20px;
+}
+
+.wpjb-resume-headline {
+    overflow:hidden;
+    margin-bottom: 24px;
+}
+
+.wpjb-resume-headline strong {
+    display:block;
+}
+
+.wpjb-paginate-links br {display:none}
+
+/* Jobs index, category, job type, search results */
+
+.wpjb-table .wpjb-column-title {
+    min-width: 60%;
+}
+
+.wpjb-table .wpjb-column-title small {
+    display: block;
+}
+
+.wpjb-table .wpjb-column-location {
+    min-width: 25%;
+}
+
+.wpjb-table .wpjb-column-date {
+    min-width: 15%;
+}
+
+.wpjb-table small.wpjb-sub {
+    display:block;
+}
+
+.wpjb-breadcrumb {
+    margin-left: 5px;
+}
+
+.wpjb-breadcrumb strong {
+    color: inherit;
+}
+
+/* company jobs */
+
+.wpjb-expiring .wpjb-column-expires {
+    color: darkorange
+}
+
+.wpjb-expired .wpjb-column-expires {
+    color: red;
+}
+
+/* dropdown css */
+
+.wpjb-dropdown { 
+    width:150px; 
+    border:1px solid silver; 
+    margin:0;
+    padding:0;
+    background-color:white;
+}
+
+.wpjb-dropdown li {
+    list-style-type: none;
+    padding: 0px;
+    text-align:left;
+}
+
+.wpjb-dropdown li a {
+    padding: 6px 6px 8px 24px;
+    display: block;
+    font-family: Arial;
+    font-size: 14px;
+    line-height: 14px;
+    color:#333333;
+    text-decoration:none;
+}
+
+.wpjb-dropdown hr {
+    height:1px; 
+    border:1px; 
+    color:#CCCCCC; 
+    background-color:#CCCCCC;
+    margin: 2px 0px !important;
+    padding: 0 !important;
+}
+
+.wpjb-dropdown li a.wpjb-hover {
+    background-color: #BAD3EA;
+}
+
+div.company-panel-dropdown img {
+    border:1px solid transparent; 
+    vertical-align: middle;
+    cursor: pointer;
+    cursor: hand;
+    
+    height: 16px;   
+    width: 16px;
+}
+
+div.company-panel-dropdown img.wpjb-dropdown-open {
+}
+
+.bg_anchor {
+    /* example background: url(anchor.png) no-repeat scroll 4px center; */
+}
+
+.wpjb-dropdown-shadow {
+    -moz-box-shadow: 0 1px 5px #CCCCCC;
+    -webkit-box-shadow: 0 1px 5px #CCCCCC;
+    box-shadow: 0 1px 5px #CCCCCC;
+    /* For IE 8 */
+    -ms-filter: "progid:DXImageTransform.Microsoft.Shadow(Strength=2, Direction=135, Color='#CCCCCC')";
+    /* For IE 5.5 - 7 */
+    filter: progid:DXImageTransform.Microsoft.Shadow(Strength=2, Direction=135, Color='#CCCCCC');
+}
+
+.wpjb-add-job-img {
+    padding:0;
+    margin: 4px 0px 4px 0px !important;
+}
+
+.wpjr-page-resume-min {
+    margin:auto;
+    width:850px;
+    font-family:Tahoma;
+}
+
+.wpjb-ac-enabled {
+    color: silver;
+}
+
+/*-----------------Resumes------------------*/
+.resume_top {
+    margin: 0 5px;
+}
+
+#titlo-featured{
+    margin-top: 2px;
+    
+}
+
+#logoso2 {
+    border: 1px solid #ddd;
+    float: right;
+    height: 55px !important;
+    margin: 2px;
+    width: 55px !important;
+	padding:2px;
+}
+
+#logoso2 a .logo_uv{
+    /*float: right;
+    border: 1px solid #F0F0F0;
+   /* float: left;*/
+    
+    /*margin: 6px;*/
+   
+    height: 55px !important;
+    width: 55px !important;
+}
+
+.resume {
+    border: 1px solid #fff;
+    float: left;
+    list-style-type: none;
+    padding: 2px;
+    position: relative;
+}
+.resume:hover {
+	background-color: #FF9202;
+    color: #FFF;
+    opacity: 0.9;
+
+}
+
+#location {
+    /*margin-top: 5px;*/
+}
+
+.wpjb-last {
+    border-left: 1px dotted #000000;
+    float: right;
+    padding-left: 8px;
+    padding-right: 125px;
+}
+
+#border-left{
+    
+    border-left: 1px dotted #BBBBBB;
+}
+
+.resume-hover-link {
+    padding-bottom: 20%;
+    padding-right: 100%;
+    position: absolute;
+}
+
+
+
+
+
+/*------Alerts----------*/
+
+
+
+.tml-lost-pass{
+     margin-right: -310px;
+    
+}
+
+
+/*-------------*/
+.job_search {
+background: #f15a24; 
+}
+
+
+#HiddenDiv.loginhover{
+    color: #FFF;
+}
+
+
+/*----Chinh sua - login form*/
+
+
+#HiddenDiv.loginhover .mid{
+    background: none repeat scroll 0 0 #F15A24;
+    /*border: 1px solid red;*/
+    border-radius: 5px 5px 5px 5px;
+   	-moz-border-radius-topleft:5px; 
+	-webkit-border-top-left-radius:5px;
+	-moz-border-radius-topright:5px; 
+	-webkit-border-top-right-radius:5px;
+    display: block;
+    z-index: 0;
+	padding-left: 8px;
+    padding-right: 8px;
+	padding-bottom:5px;
+}
+#HiddenDiv.loginhover .mid:before {
+  border-color: transparent transparent #F15A24 transparent;
+  border-style:solid;
+  border-width:10px;
+	content:"";
+	position: absolute;
+	top:-20px; /* value = - border-top-width - border-bottom-width */
+	left:70%; /* controls horizontal position */
+	display: block;
+	z-index:1;
+}
+
+#HiddenDiv.show_hide{
+	cursor:pointer;
+}
+
+.wpjb-page-company-new #wpjb-resume .submit{
+    text-align: center;
+}
+
+#wpjb-add-rs{
+    text-align: center;
+}
+
+/*#step1 h6{
+    background: url(images/step1.gif);
+    width: 907px;
+        
+    height: 34px;        
+ 
+
+#step2 h6{
+    background: url(images/step2.gif);
+    width: 907px;
+    
+    height: 34px;
+}*/
+
+
+.current{
+    /*background: url(images/buoc3.png) no-repeat scroll;*/
+
+    border: 1px solid #3399FF;
+    padding-left: 8px;
+    padding-right: 8px;
+ 
+}
+
+.page-numbers{
+	border: 1px solid #E3E3E3;
+    padding-left: 8px;
+    padding-right: 8px;
+    cursor: pointer;
+	
+}
+
+.page-numbers:hover,.current:hover{
+	border: 1px solid #FF9900;
+    padding-left: 8px;
+    padding-right: 8px;
+}
+#edit_listing ,#publish_listing {
+    background: none no-repeat scroll 0 0 #738FE6;
+    border: 1px solid #738FE6;
+    /*box-shadow: 0 0 2px 0 navy;*/
+    color: #FFFFFF;
+    font-size: 15px;
+    padding: 5px;
+}
+
+#edit_listing:hover,#publish_listing:hover {
+    opacity: 0.8;
+}
+
+#wpjb-preview-soc{
+    
+    color: #738FE6;        
+    
+}   
+
+.wpjb-template-add-field {
+    width: 95%;
+}
+
+#wpjb-resume p.submit{
+    text-align: center;
+}
+
+.txtMiddle{
+    border-top: 1px solid #D0D5DD;
+}
+
+#facebook-connection{
+    
+    margin-bottom: 20px;
+    
+}
+
+#oWrapper{
+    
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+#txtMiddle {
+    border-bottom: 2px solid #D0D5DD;
+    text-align: center;
+    width: 50%;
+}
+
+.oTxtLarge strong{
+    color: #225A94;
+}
+
+.cat-title{
+	float:left;
+	padding: 3px 0px;
+}
+.cat-count{
+	float:right;
+	padding: 3px 0px;
+	color:#F15A24;
+}
+#wpjb_widget_categories ul{list-style-type: none;padding-left: 0em;margin:0em;}
+.hot-cat-li{
+	clear: both;
+	height: 29px;
+}
+.hot-cat-li:hover{
+	background-color:#f9f9f9;
+}
+.hot-cat-li-all{
+	clear: both;
+	text-align: right;
+}
+.hot-cat-li-all a{color:#F15A24;}
+
+#searchbox .cate_sl{
+	border: 3px solid #d5d5d5;
+	width: 47.5%;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	margin-left: 12px;
+	margin-right: 0px;
+	float: left;
+	margin-bottom: 5px;
+}
+
+#searchbox .location_sl {
+	border: 3px solid #d5d5d5;
+	width: 47.5%;
+	padding-top: 6px;
+	padding-bottom: 6px;
+	margin-left: 5px;
+	margin-right: 0px;
+	float: left;
+	margin-bottom: 5px;
+}
+#searchbox form{
+	margin: 1em 0;
+}
+.wpjb-coupon-error{
+	color:red;
+}
+.wpjb-fieldset-coupon{
+	/*background-color: #738FE6;*/
+	background-image: -webkit-gradient(
+	linear,
+	left top,
+	left bottom,
+	color-stop(0, #738FE6),
+	color-stop(1, #251E6E)
+);
+background-image: -o-linear-gradient(bottom, #738FE6 0%, #251E6E 100%);
+background-image: -moz-linear-gradient(bottom, #738FE6 0%, #251E6E 100%);
+background-image: -webkit-linear-gradient(bottom, #738FE6 0%, #251E6E 100%);
+background-image: -ms-linear-gradient(bottom, #738FE6 0%, #251E6E 100%);
+background-image: linear-gradient(to bottom, #738FE6 0%, #251E6E 100%);
+}
+#wpjb_pricing,.wpjb-element-name-coupon, .wpjb-element-name-listing .wpjb-label, .wpjb-element-name-listing .wpjb-field{
+	color: #e2e2e2;
+}
+.wpjb-element-name-listing .wpjb-hint a{
+	text-decoration: underline;
+	color: #e2e2e2;
+	font-weight:700;
+	font-size:15px;
+	
+}
+#wpjb_pricing{
+	background: url(images/divider.png) repeat-x 0 0;
+}
+.wpjr-page-resume ul{
+	list-style-type: none;
+	padding: 0em;
+	margin:0em;
+}
+.wpjr-page-resume ul li{
+	border-bottom: 1px dotted #e2e2e2;
+	padding: 6px 10px;
+}
+.wpjr-page-resume ul li label{
+	width: 160px;
+	font-weight:normal;
+}
+
+.port-img {
+	float:left;
+}
+.port-img img{
+	padding-right:10px;
+	padding-bottom:2px;
+	display:block;
+	height: 59px;
+    max-width: 85px;
+}
+.wpjb-element-name-stylecv {
+	padding: 10px 10px 10px 35px;
+	border: 1px solid #8ed9f6;
+	background: #e3f7fc url('images/notice.png') no-repeat 10px 30%;
+}
+.wpjb-element-name-is_active {
+	padding: 10px 10px 10px 35px;
+	border: 1px solid #f2c779;
+	background: #fff8c4 url('images/warning.png') no-repeat 10px 30%;
+}

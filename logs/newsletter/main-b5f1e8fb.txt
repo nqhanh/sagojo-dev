@@ -1,0 +1,41 @@
+10-10-2013 02:38:09 - ERROR - 20974648 - mail> Could not instantiate mail function.
+31-10-2013 04:15:26 - ERROR - 26328712 - Blocked by transient newsletter_main_engine set 22 seconds ago
+31-10-2013 07:15:28 - ERROR - 23924752 - mail> Could not instantiate mail function.
+01-11-2013 06:35:09 - ERROR - 26337392 - Blocked by transient newsletter_main_engine set 6 seconds ago
+01-11-2013 06:35:16 - ERROR - 26337824 - Blocked by transient newsletter_main_engine set 13 seconds ago
+01-11-2013 06:35:21 - ERROR - 26337824 - Blocked by transient newsletter_main_engine set 18 seconds ago
+01-11-2013 06:35:26 - ERROR - 26337824 - Blocked by transient newsletter_main_engine set 23 seconds ago
+01-11-2013 06:58:10 - ERROR - 23452272 - Blocked by transient newsletter_main_engine set 197 seconds ago
+01-11-2013 06:58:18 - ERROR - 26337288 - Blocked by transient newsletter_main_engine set 205 seconds ago
+01-11-2013 06:58:27 - ERROR - 26337864 - Blocked by transient newsletter_main_engine set 214 seconds ago
+01-11-2013 06:58:57 - ERROR - 26338304 - Blocked by transient newsletter_main_engine set 244 seconds ago
+01-11-2013 06:59:25 - ERROR - 26337288 - Blocked by transient newsletter_main_engine set 272 seconds ago
+01-11-2013 06:59:40 - ERROR - 26340360 - Blocked by transient newsletter_main_engine set 287 seconds ago
+01-11-2013 06:59:49 - ERROR - 26340192 - Blocked by transient newsletter_main_engine set 296 seconds ago
+04-11-2013 09:55:38 - ERROR - 26744832 - mail> Could not instantiate mail function.
+04-11-2013 09:55:43 - ERROR - 26745496 - mail> Could not instantiate mail function.
+04-11-2013 09:55:48 - ERROR - 26746088 - mail> Could not instantiate mail function.
+04-11-2013 09:56:00 - ERROR - 26745192 - mail> Could not instantiate mail function.
+04-11-2013 09:56:05 - ERROR - 26745880 - mail> Could not instantiate mail function.
+04-11-2013 09:56:10 - ERROR - 26746464 - mail> Could not instantiate mail function.
+04-11-2013 09:56:55 - ERROR - 26744840 - mail> Could not instantiate mail function.
+04-11-2013 09:57:01 - ERROR - 26745528 - mail> Could not instantiate mail function.
+04-11-2013 09:57:05 - ERROR - 26746120 - mail> Could not instantiate mail function.
+05-11-2013 04:31:00 - ERROR - 24078064 - mail> Could not instantiate mail function.
+05-11-2013 04:31:05 - ERROR - 24082880 - mail> Could not instantiate mail function.
+05-11-2013 04:31:09 - ERROR - 24082848 - mail> Could not instantiate mail function.
+05-11-2013 04:31:13 - ERROR - 24082840 - mail> Could not instantiate mail function.
+05-11-2013 04:31:13 - ERROR - 24035160 - mail> You must provide at least one recipient email address.
+05-11-2013 04:39:29 - ERROR - 23968880 - mail> Could not instantiate mail function.
+05-11-2013 04:39:33 - ERROR - 23969592 - mail> Could not instantiate mail function.
+05-11-2013 04:39:37 - ERROR - 23970168 - mail> Could not instantiate mail function.
+05-11-2013 04:42:13 - ERROR - 23968728 - mail> Could not instantiate mail function.
+05-11-2013 04:42:18 - ERROR - 23969448 - mail> Could not instantiate mail function.
+05-11-2013 04:42:21 - ERROR - 23970032 - mail> Could not instantiate mail function.
+05-11-2013 04:45:25 - ERROR - 23968616 - mail> Could not instantiate mail function.
+05-11-2013 04:45:29 - ERROR - 23969296 - mail> Could not instantiate mail function.
+05-11-2013 04:45:33 - ERROR - 23969880 - mail> Could not instantiate mail function.
+05-11-2013 04:47:41 - ERROR - 24145232 - mail> Could not instantiate mail function.
+05-11-2013 06:51:03 - ERROR - 24081984 - mail> You must provide at least one recipient email address.
+05-11-2013 07:06:56 - ERROR - 24956664 - mail> You must provide at least one recipient email address.
+08-07-2014 02:52:40 - ERROR - 31138032 - mail> Could not instantiate mail function.

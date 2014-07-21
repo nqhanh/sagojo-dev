@@ -39,26 +39,20 @@ $responsive_options = responsive_get_options();
 				
         		 <div id="menu_main_footer" class="post_list next_news col-220 ">
 				 <div class="widget-title"><?php _e('sagojo&rsquo;s apps', 'responsive'); ?></div>
-					<div>
-							<!---<a href="https://itunes.apple.com/vn/app/horoscope/id862253396?mt=8&ign-mpt=uo%3D4"><img src="<?php //echo bloginfo('template_directory');?>/images/logo_appstore.png" width="132px"></a>
-							<a href="https://play.google.com/store/apps/developer?id=sagojo"><img src="<?php //echo bloginfo('template_directory');?>/images/logo_googleplay.png" width="132px"></a>-->
-						<?php 	
-							$cat=196;
-							  $services_link =new WP_Query('showposts=3&cat='.$cat);
-								while($services_link->have_posts()): $services_link->the_post(); 
-							?>
-							<div id="post-<?php the_ID(); ?>" class="dv-home">
-								<h2 id="entry-title"><a href="<?php the_permalink();?>"><?php the_title();?></a></h2>
-								<?php if ( has_post_thumbnail() ) : ?>
-										<div class="entry-thumbnail">
-											<a href="<?php the_permalink(); ?>" title="<?php the_title_attribute(); ?>" >
-												<?php the_post_thumbnail( 'thumb-featured' ); ?>
-											</a>
-										</div>
-									<?php endif; ?>
-							<?php endwhile; wp_reset_postdata();?>
-							</div>
+				 <style>
+					.app_sagojo{ float:left; margin-right:5px;}
+				 </style>
+					<div style="/*background: rgba(255,255,255,0.1);*/ overflow: hidden; padding-bottom: 10px; ">
+							<a class="app_sagojo" href="http://sagojo.com/ung-dung-boi-tu-vi-sagojo-horoscope-2"><img src="<?php echo bloginfo('template_directory');?>/images/sagojohorscope_32.png" width="32px"></a>
+							<a class="app_sagojo" href="http://sagojo.com/ung-dung-boi-tu-vi-sagojo-horoscope-2"><img src="<?php echo bloginfo('template_directory');?>/images/sagojocolormatch_32.png" width="32px"></a>
+							<a class="app_sagojo" href="http://sagojo.com/luu-giu-hinh-hinh-anh-cung-kaisha-camera"><img src="<?php echo bloginfo('template_directory');?>/images/sagojokaishacamera_32.png" width="32px"></a>
+							<a class="app_sagojo" href="http://sagojo.com/ung-dung-tim-viec-lam-sagojo-career/"><img src="<?php echo bloginfo('template_directory');?>/images/sagojocareer_32.png" width="32px"></a>
 							
+					</div>
+				 
+					<div>
+							<a href="https://itunes.apple.com/vn/app/horoscope/id862253396?mt=8&ign-mpt=uo%3D4"><img src="<?php echo bloginfo('template_directory');?>/images/logo_appstore.png" width="132px"></a>
+							<a href="https://play.google.com/store/apps/developer?id=sagojo"><img src="<?php echo bloginfo('template_directory');?>/images/logo_googleplay.png" width="132px"></a>
 					</div>
                  </div><!-- end of col-220 -->
 				 <div class="post_list next_news col-220">

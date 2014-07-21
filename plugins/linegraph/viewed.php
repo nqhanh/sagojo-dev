@@ -160,6 +160,13 @@ SET @@global.event_scheduler = 1;
 
 CREATE EVENT `update_is_top` ON SCHEDULE EVERY 1 DAY STARTS '2014-06-02 23:59:59' ON COMPLETION NOT PRESERVE ENABLE DO UPDATE wpjb_job SET is_top =0 WHERE DATEDIFF( CURDATE( ) , DATE( feature_expires_at ) ) >=0
 */
+/*SET GLOBAL event_scheduler = ON;
+SET @@global.event_scheduler = ON;
+SET GLOBAL event_scheduler = 1;
+SET @@global.event_scheduler = 1;
+
+CREATE EVENT `update_is_top` ON SCHEDULE EVERY 1 DAY STARTS '2014-06-02 23:59:59' ON COMPLETION NOT PRESERVE ENABLE DO UPDATE wpjb_job SET is_top =0 WHERE DATEDIFF( CURDATE( ) , DATE( feature_expires_at ) ) >=0
+*/
 /*mysql_query("UPDATE wpjb_job SET job_type = 1 WHERE job_type = 7");*/
 /*mysql_query("UPDATE wpjb_job SET job_f_visible = 7");*/
 /*mysql_query("ALTER TABLE `wpjb_job` MODIFY COLUMN  `job_f_visible` smallint(5) unsigned NOT NULL DEFAULT '7'");*/
